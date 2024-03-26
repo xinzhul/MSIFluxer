@@ -1,0 +1,34 @@
+library(readxl)
+library(accucor)
+library(openxlsx)
+library(tidyverse)
+rm(list = ls())
+
+devtools::document()
+devtools::build()
+# 导入MSI数据及Target列表,MSIdata如果有空格需填充为0
+# MSI数据更改名称为"Unlabel_01", "Unlabel_02", "Unlabel_03", "Glc_Label_01", "Glc_Label_02", "Glc_Label_03"
+
+MSIdata <- read.csv(system.file("extdata", "Example-U13C-Glucose-MSIdata.csv", package = "MSIFluxer"))
+Target <- read.csv(system.file("extdata", "U13C-Glucose-Negative.csv", package = "MSIFluxer"))
+
+# 强度提取匹配,
+for(i in seq(1, ncol(MSIdata), 2)){
+  print(i)
+  col <- colnames(MSIdata)[i]
+  select_Intensitys <- apply(Target[, 1, drop=F], 1, Extractint, unlist(MSIdata[, i]), unlist(MSIdata[, i+1]))
+  Target[, col] <- select_Intensitys
+  Target[is.na(Target[, col]), col] <- 0
+}
+Target1 <- Scanint(Target,Intensity=100, num=2)
+Target2 <- Filterint(Target1, Intensity=10)
+# 离子强度匹配及筛选结果导出，为“Result_Int”
+Compound_new <- Target2 %>% select(Compound,ID) %>% mutate(Compound_new = pmap_chr(., str_c, sep = "_")) %>% select(Compound_new)
+Target3 <- cbind(Compound_new, Target2 %>% select(Formula,IsotopeLabel,Unlabel_01:Glc_Label_03)) %>% rename(Compound = Compound_new)
+Result_Int = list("Extract_Int" = Target,"Scan_Int" = Target1,"Filter_Int"=Target2,"Input_Int"=Target3)
+write.xlsx(Result_Int,file = "Result_Int_example.xlsx")
+# 天然同位素校正，结果自动导出为“Result_Int_corrected”
+Corrected <- natural_abundance_correction(path = "Result_Int_example.xlsx",sheet = "Input_Int",resolution = 140000,purity = 0.99)
+
+
+

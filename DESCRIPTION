@@ -1,0 +1,25 @@
+Package: MSIFluxer
+Type: Package
+Title: Comprehensively tracing isotope labelled metabolites in mass spectrometry imaging datasets
+Version: 1.0.0
+Author: person(given="Xinzhu",family="Li",role="author",email="stxinzhu@outlook.com")
+Maintainer: Xinzhu Li <stxinzhu@outlook.com>
+Description: Utilizing a highly comprehensive mass spectrometry imaging-specific database,
+    ions are globally matched and filtered with only the input of m/z value and intensity 
+    from labeled and unlabeled samples. Ultimately, this process outputs information on 
+    potential labeled metabolites, including their names, molecular formulas, intensities, 
+    adduct ion forms, and labeling fractions.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Data: data/U13C-Glucose-Negative.csv
+      data/U13C-Glucose-Positive.csv
+      data/U13C-Glutamine-Negative.csv
+      data/U13C-Glutamine-Positive.csv
+      data/Example-U13C-Glucose infusion-NEG.CSV
+RoxygenNote: 7.2.3
+Depends:
+    magrittr,
+    accucor,
+    tidyverse,
+    openxlsx

@@ -1,0 +1,2635 @@
+﻿m/z,Formula,ID,IsotopeLabel,Ion form,Compound
+87.0087714,C3H4O3,1,C12 PARENT,[M-H]-,Pyruvate
+88.01212624,C3H4O3,1,C13-label-1,[M-H]-,Pyruvate
+89.01548107,C3H4O3,1,C13-label-2,[M-H]-,Pyruvate
+90.01883591,C3H4O3,1,C13-label-3,[M-H]-,Pyruvate
+88.0404044,C3H7NO2,2,C12 PARENT,[M-H]-,Alanine
+89.04375924,C3H7NO2,2,C13-label-1,[M-H]-,Alanine
+90.04711407,C3H7NO2,2,C13-label-2,[M-H]-,Alanine
+91.05046891,C3H7NO2,2,C13-label-3,[M-H]-,Alanine
+89.0244214,C3H6O3,3,C12 PARENT,[M-H]-,Lactic acid
+90.02777624,C3H6O3,3,C13-label-1,[M-H]-,Lactic acid
+91.03113107,C3H6O3,3,C13-label-2,[M-H]-,Lactic acid
+92.03448591,C3H6O3,3,C13-label-3,[M-H]-,Lactic acid
+116.0353204,C4H7NO3,4,C12 PARENT,[M-H]-,Acetylglycine
+117.0386752,C4H7NO3,4,C13-label-1,[M-H]-,Acetylglycine
+118.0420301,C4H7NO3,4,C13-label-2,[M-H]-,Acetylglycine
+119.0453849,C4H7NO3,4,C13-label-3,[M-H]-,Acetylglycine
+120.0487397,C4H7NO3,4,C13-label-4,[M-H]-,Acetylglycine
+101.0244214,C4H6O3,5,C12 PARENT,[M-H]-,Acetoacetate
+102.0277762,C4H6O3,5,C13-label-1,[M-H]-,Acetoacetate
+103.0311311,C4H6O3,5,C13-label-2,[M-H]-,Acetoacetate
+104.0344859,C4H6O3,5,C13-label-3,[M-H]-,Acetoacetate
+105.0378407,C4H6O3,5,C13-label-4,[M-H]-,Acetoacetate
+102.0560544,C4H9NO2,6,C12 PARENT,[M-H]-,Aminobutanoate
+103.0594092,C4H9NO2,6,C13-label-1,[M-H]-,Aminobutanoate
+104.0627641,C4H9NO2,6,C13-label-2,[M-H]-,Aminobutanoate
+105.0661189,C4H9NO2,6,C13-label-3,[M-H]-,Aminobutanoate
+106.0694737,C4H9NO2,6,C13-label-4,[M-H]-,Aminobutanoate
+103.0400714,C4H8O3,7,C12 PARENT,[M-H]-,Hydroxybutanoic acid
+104.0434262,C4H8O3,7,C13-label-1,[M-H]-,Hydroxybutanoic acid
+105.0467811,C4H8O3,7,C13-label-2,[M-H]-,Hydroxybutanoic acid
+106.0501359,C4H8O3,7,C13-label-3,[M-H]-,Hydroxybutanoic acid
+107.0534907,C4H8O3,7,C13-label-4,[M-H]-,Hydroxybutanoic acid
+104.0353204,C3H7NO3,8,C12 PARENT,[M-H]-,Serine
+105.0386752,C3H7NO3,8,C13-label-1,[M-H]-,Serine
+106.0420301,C3H7NO3,8,C13-label-2,[M-H]-,Serine
+107.0453849,C3H7NO3,8,C13-label-3,[M-H]-,Serine
+111.0200034,C4H4N2O2,9,C12 PARENT,[M-H]-,Uracil
+112.0233582,C4H4N2O2,9,C13-label-1,[M-H]-,Uracil
+113.0267131,C4H4N2O2,9,C13-label-2,[M-H]-,Uracil
+114.0300679,C4H4N2O2,9,C13-label-3,[M-H]-,Uracil
+115.0334227,C4H4N2O2,9,C13-label-4,[M-H]-,Uracil
+114.0560544,C5H9NO2,10,C12 PARENT,[M-H]-,Proline
+115.0594092,C5H9NO2,10,C13-label-1,[M-H]-,Proline
+116.0627641,C5H9NO2,10,C13-label-2,[M-H]-,Proline
+117.0661189,C5H9NO2,10,C13-label-3,[M-H]-,Proline
+118.0694737,C5H9NO2,10,C13-label-4,[M-H]-,Proline
+119.0728286,C5H9NO2,10,C13-label-5,[M-H]-,Proline
+115.0036874,C4H4O4,11,C12 PARENT,[M-H]-,Maleic acid
+116.0070422,C4H4O4,11,C13-label-1,[M-H]-,Maleic acid
+117.0103971,C4H4O4,11,C13-label-2,[M-H]-,Maleic acid
+118.0137519,C4H4O4,11,C13-label-3,[M-H]-,Maleic acid
+119.0171067,C4H4O4,11,C13-label-4,[M-H]-,Maleic acid
+127.0513034,C5H8N2O2,12,C12 PARENT,[M-H]-,Pyroglutamine
+128.0546582,C5H8N2O2,12,C13-label-1,[M-H]-,Pyroglutamine
+129.0580131,C5H8N2O2,12,C13-label-2,[M-H]-,Pyroglutamine
+130.0613679,C5H8N2O2,12,C13-label-3,[M-H]-,Pyroglutamine
+131.0647227,C5H8N2O2,12,C13-label-4,[M-H]-,Pyroglutamine
+132.0680776,C5H8N2O2,12,C13-label-5,[M-H]-,Pyroglutamine
+128.0353204,C5H7NO3,13,C12 PARENT,[M-H]-,Oxoproline
+129.0386752,C5H7NO3,13,C13-label-1,[M-H]-,Oxoproline
+130.0420301,C5H7NO3,13,C13-label-2,[M-H]-,Oxoproline
+131.0453849,C5H7NO3,13,C13-label-3,[M-H]-,Oxoproline
+132.0487397,C5H7NO3,13,C13-label-4,[M-H]-,Oxoproline
+133.0520946,C5H7NO3,13,C13-label-5,[M-H]-,Oxoproline
+130.0509704,C5H9NO3,14,C12 PARENT,[M-H]-,Hydroxyproline
+131.0543252,C5H9NO3,14,C13-label-1,[M-H]-,Hydroxyproline
+132.0576801,C5H9NO3,14,C13-label-2,[M-H]-,Hydroxyproline
+133.0610349,C5H9NO3,14,C13-label-3,[M-H]-,Hydroxyproline
+134.0643897,C5H9NO3,14,C13-label-4,[M-H]-,Hydroxyproline
+135.0677446,C5H9NO3,14,C13-label-5,[M-H]-,Hydroxyproline
+131.0826034,C5H12N2O2,15,C12 PARENT,[M-H]-,Ornithine
+132.0859582,C5H12N2O2,15,C13-label-1,[M-H]-,Ornithine
+133.0893131,C5H12N2O2,15,C13-label-2,[M-H]-,Ornithine
+134.0926679,C5H12N2O2,15,C13-label-3,[M-H]-,Ornithine
+135.0960227,C5H12N2O2,15,C13-label-4,[M-H]-,Ornithine
+136.0993776,C5H12N2O2,15,C13-label-5,[M-H]-,Ornithine
+132.0302364,C4H7NO4,16,C12 PARENT,[M-H]-,Aspartate
+133.0335912,C4H7NO4,16,C13-label-1,[M-H]-,Aspartate
+134.0369461,C4H7NO4,16,C13-label-2,[M-H]-,Aspartate
+135.0403009,C4H7NO4,16,C13-label-3,[M-H]-,Aspartate
+136.0436557,C4H7NO4,16,C13-label-4,[M-H]-,Aspartate
+133.0142534,C4H6O5,17,C12 PARENT,[M-H]-,Malate
+134.0176082,C4H6O5,17,C13-label-1,[M-H]-,Malate
+135.0209631,C4H6O5,17,C13-label-2,[M-H]-,Malate
+136.0243179,C4H6O5,17,C13-label-3,[M-H]-,Malate
+137.0276727,C4H6O5,17,C13-label-4,[M-H]-,Malate
+145.0506374,C6H10O4,18,C12 PARENT,[M-H]-,Dimethyl succinate
+146.0539922,C6H10O4,18,C13-label-1,[M-H]-,Dimethyl succinate
+147.0573471,C6H10O4,18,C13-label-2,[M-H]-,Dimethyl succinate
+148.0607019,C6H10O4,18,C13-label-3,[M-H]-,Dimethyl succinate
+149.0640567,C6H10O4,18,C13-label-4,[M-H]-,Dimethyl succinate
+150.0674116,C6H10O4,18,C13-label-5,[M-H]-,Dimethyl succinate
+151.0707664,C6H10O4,18,C13-label-6,[M-H]-,Dimethyl succinate
+145.0618694,C5H10N2O3,19,C12 PARENT,[M-H]-,Glutamine
+146.0652242,C5H10N2O3,19,C13-label-1,[M-H]-,Glutamine
+147.0685791,C5H10N2O3,19,C13-label-2,[M-H]-,Glutamine
+148.0719339,C5H10N2O3,19,C13-label-3,[M-H]-,Glutamine
+149.0752887,C5H10N2O3,19,C13-label-4,[M-H]-,Glutamine
+150.0786436,C5H10N2O3,19,C13-label-5,[M-H]-,Glutamine
+146.0458864,C5H9NO4,20,C12 PARENT,[M-H]-,Glutamate
+147.0492412,C5H9NO4,20,C13-label-1,[M-H]-,Glutamate
+148.0525961,C5H9NO4,20,C13-label-2,[M-H]-,Glutamate
+149.0559509,C5H9NO4,20,C13-label-3,[M-H]-,Glutamate
+150.0593057,C5H9NO4,20,C13-label-4,[M-H]-,Glutamate
+151.0626606,C5H9NO4,20,C13-label-5,[M-H]-,Glutamate
+151.0261514,C5H4N4O2,21,C12 PARENT,[M-H]-,Xanthine
+152.0295062,C5H4N4O2,21,C13-label-1,[M-H]-,Xanthine
+153.0328611,C5H4N4O2,21,C13-label-2,[M-H]-,Xanthine
+154.0362159,C5H4N4O2,21,C13-label-3,[M-H]-,Xanthine
+155.0395707,C5H4N4O2,21,C13-label-4,[M-H]-,Xanthine
+156.0429256,C5H4N4O2,21,C13-label-5,[M-H]-,Xanthine
+154.0622024,C6H9N3O2,22,C12 PARENT,[M-H]-,Histidine
+155.0655572,C6H9N3O2,22,C13-label-1,[M-H]-,Histidine
+156.0689121,C6H9N3O2,22,C13-label-2,[M-H]-,Histidine
+157.0722669,C6H9N3O2,22,C13-label-3,[M-H]-,Histidine
+158.0756217,C6H9N3O2,22,C13-label-4,[M-H]-,Histidine
+159.0789766,C6H9N3O2,22,C13-label-5,[M-H]-,Histidine
+160.0823314,C6H9N3O2,22,C13-label-6,[M-H]-,Histidine
+173.0567854,C6H10N2O4,23,C12 PARENT,[M-H]-,N-Acetylasparagine
+174.0601402,C6H10N2O4,23,C13-label-1,[M-H]-,N-Acetylasparagine
+175.0634951,C6H10N2O4,23,C13-label-2,[M-H]-,N-Acetylasparagine
+176.0668499,C6H10N2O4,23,C13-label-3,[M-H]-,N-Acetylasparagine
+177.0702047,C6H10N2O4,23,C13-label-4,[M-H]-,N-Acetylasparagine
+178.0735596,C6H10N2O4,23,C13-label-5,[M-H]-,N-Acetylasparagine
+179.0769144,C6H10N2O4,23,C13-label-6,[M-H]-,N-Acetylasparagine
+103.0036874,C3H4O4,24,C12 PARENT,[M-H]-,Malonic acid
+104.0070422,C3H4O4,24,C13-label-1,[M-H]-,Malonic acid
+105.0103971,C3H4O4,24,C13-label-2,[M-H]-,Malonic acid
+106.0137519,C3H4O4,24,C13-label-3,[M-H]-,Malonic acid
+171.0064059,C3H9O6P,25,C12 PARENT,[M-H]-,Glycerol 3-phosphate
+172.0097607,C3H9O6P,25,C13-label-1,[M-H]-,Glycerol 3-phosphate
+173.0131156,C3H9O6P,25,C13-label-2,[M-H]-,Glycerol 3-phosphate
+174.0164704,C3H9O6P,25,C13-label-3,[M-H]-,Glycerol 3-phosphate
+174.0884184,C6H13N3O3,26,C12 PARENT,[M-H]-,Citrulline
+175.0917732,C6H13N3O3,26,C13-label-1,[M-H]-,Citrulline
+176.0951281,C6H13N3O3,26,C13-label-2,[M-H]-,Citrulline
+177.0984829,C6H13N3O3,26,C13-label-3,[M-H]-,Citrulline
+178.1018377,C6H13N3O3,26,C13-label-4,[M-H]-,Citrulline
+179.1051926,C6H13N3O3,26,C13-label-5,[M-H]-,Citrulline
+180.1085474,C6H13N3O3,26,C13-label-6,[M-H]-,Citrulline
+178.0179571,C5H9NO4S,27,C12 PARENT,[M-H]-,Carboxymethyl-cysteine
+179.0213119,C5H9NO4S,27,C13-label-1,[M-H]-,Carboxymethyl-cysteine
+180.0246668,C5H9NO4S,27,C13-label-2,[M-H]-,Carboxymethyl-cysteine
+181.0280216,C5H9NO4S,27,C13-label-3,[M-H]-,Carboxymethyl-cysteine
+182.0313764,C5H9NO4S,27,C13-label-4,[M-H]-,Carboxymethyl-cysteine
+183.0347313,C5H9NO4S,27,C13-label-5,[M-H]-,Carboxymethyl-cysteine
+199.0070581,C8H8O4S,28,C12 PARENT,[M-H]-,Vinylphenol sulfate
+200.0104129,C8H8O4S,28,C13-label-1,[M-H]-,Vinylphenol sulfate
+201.0137678,C8H8O4S,28,C13-label-2,[M-H]-,Vinylphenol sulfate
+202.0171226,C8H8O4S,28,C13-label-3,[M-H]-,Vinylphenol sulfate
+203.0204774,C8H8O4S,28,C13-label-4,[M-H]-,Vinylphenol sulfate
+204.0238323,C8H8O4S,28,C13-label-5,[M-H]-,Vinylphenol sulfate
+205.0271871,C8H8O4S,28,C13-label-6,[M-H]-,Vinylphenol sulfate
+206.0305419,C8H8O4S,28,C13-label-7,[M-H]-,Vinylphenol sulfate
+207.0338968,C8H8O4S,28,C13-label-8,[M-H]-,Vinylphenol sulfate
+181.0717694,C6H14O6,29,C12 PARENT,[M-H]-,Mannitol
+182.0751242,C6H14O6,29,C13-label-1,[M-H]-,Mannitol
+183.0784791,C6H14O6,29,C13-label-2,[M-H]-,Mannitol
+184.0818339,C6H14O6,29,C13-label-3,[M-H]-,Mannitol
+185.0851887,C6H14O6,29,C13-label-4,[M-H]-,Mannitol
+186.0885436,C6H14O6,29,C13-label-5,[M-H]-,Mannitol
+187.0918984,C6H14O6,29,C13-label-6,[M-H]-,Mannitol
+187.0400714,C11H8O3,30,C12 PARENT,[M-H]-,Hydroxy-naphthoic acid
+188.0434262,C11H8O3,30,C13-label-1,[M-H]-,Hydroxy-naphthoic acid
+189.0467811,C11H8O3,30,C13-label-2,[M-H]-,Hydroxy-naphthoic acid
+190.0501359,C11H8O3,30,C13-label-3,[M-H]-,Hydroxy-naphthoic acid
+191.0534907,C11H8O3,30,C13-label-4,[M-H]-,Hydroxy-naphthoic acid
+192.0568456,C11H8O3,30,C13-label-5,[M-H]-,Hydroxy-naphthoic acid
+193.0602004,C11H8O3,30,C13-label-6,[M-H]-,Hydroxy-naphthoic acid
+194.0635552,C11H8O3,30,C13-label-7,[M-H]-,Hydroxy-naphthoic acid
+195.0669101,C11H8O3,30,C13-label-8,[M-H]-,Hydroxy-naphthoic acid
+187.0724354,C7H12N2O4,31,C12 PARENT,[M-H]-,N-Acetyl-glutamine
+188.0757902,C7H12N2O4,31,C13-label-1,[M-H]-,N-Acetyl-glutamine
+189.0791451,C7H12N2O4,31,C13-label-2,[M-H]-,N-Acetyl-glutamine
+190.0824999,C7H12N2O4,31,C13-label-3,[M-H]-,N-Acetyl-glutamine
+191.0858547,C7H12N2O4,31,C13-label-4,[M-H]-,N-Acetyl-glutamine
+192.0892096,C7H12N2O4,31,C13-label-5,[M-H]-,N-Acetyl-glutamine
+193.0925644,C7H12N2O4,31,C13-label-6,[M-H]-,N-Acetyl-glutamine
+194.0959192,C7H12N2O4,31,C13-label-7,[M-H]-,N-Acetyl-glutamine
+188.0564524,C7H11NO5,32,C12 PARENT,[M-H]-,Acetyl-glutamate
+189.0598072,C7H11NO5,32,C13-label-1,[M-H]-,Acetyl-glutamate
+190.0631621,C7H11NO5,32,C13-label-2,[M-H]-,Acetyl-glutamate
+191.0665169,C7H11NO5,32,C13-label-3,[M-H]-,Acetyl-glutamate
+192.0698717,C7H11NO5,32,C13-label-4,[M-H]-,Acetyl-glutamate
+193.0732266,C7H11NO5,32,C13-label-5,[M-H]-,Acetyl-glutamate
+194.0765814,C7H11NO5,32,C13-label-6,[M-H]-,Acetyl-glutamate
+195.0799362,C7H11NO5,32,C13-label-7,[M-H]-,Acetyl-glutamate
+191.0197354,C6H8O7,33,C12 PARENT,[M-H]-,Citrate
+192.0230902,C6H8O7,33,C13-label-1,[M-H]-,Citrate
+193.0264451,C6H8O7,33,C13-label-2,[M-H]-,Citrate
+194.0297999,C6H8O7,33,C13-label-3,[M-H]-,Citrate
+195.0331547,C6H8O7,33,C13-label-4,[M-H]-,Citrate
+196.0365096,C6H8O7,33,C13-label-5,[M-H]-,Citrate
+197.0398644,C6H8O7,33,C13-label-6,[M-H]-,Citrate
+201.1132374,C10H18O4,34,C12 PARENT,[M-H]-,N-Lactoylisoleucine
+202.1165922,C10H18O4,34,C13-label-1,[M-H]-,N-Lactoylisoleucine
+203.1199471,C10H18O4,34,C13-label-2,[M-H]-,N-Lactoylisoleucine
+204.1233019,C10H18O4,34,C13-label-3,[M-H]-,N-Lactoylisoleucine
+205.1266567,C10H18O4,34,C13-label-4,[M-H]-,N-Lactoylisoleucine
+206.1300116,C10H18O4,34,C13-label-5,[M-H]-,N-Lactoylisoleucine
+207.1333664,C10H18O4,34,C13-label-6,[M-H]-,N-Lactoylisoleucine
+208.1367212,C10H18O4,34,C13-label-7,[M-H]-,N-Lactoylisoleucine
+209.1400761,C10H18O4,34,C13-label-8,[M-H]-,N-Lactoylisoleucine
+203.0197354,C7H8O7,35,C12 PARENT,[M-H]-,Daucic acid
+204.0230902,C7H8O7,35,C13-label-1,[M-H]-,Daucic acid
+205.0264451,C7H8O7,35,C13-label-2,[M-H]-,Daucic acid
+206.0297999,C7H8O7,35,C13-label-3,[M-H]-,Daucic acid
+207.0331547,C7H8O7,35,C13-label-4,[M-H]-,Daucic acid
+208.0365096,C7H8O7,35,C13-label-5,[M-H]-,Daucic acid
+209.0398644,C7H8O7,35,C13-label-6,[M-H]-,Daucic acid
+210.0432192,C7H8O7,35,C13-label-7,[M-H]-,Daucic acid
+203.0561194,C8H12O6,36,C12 PARENT,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+204.0594742,C8H12O6,36,C13-label-1,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+205.0628291,C8H12O6,36,C13-label-2,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+206.0661839,C8H12O6,36,C13-label-3,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+207.0695387,C8H12O6,36,C13-label-4,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+208.0728936,C8H12O6,36,C13-label-5,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+209.0762484,C8H12O6,36,C13-label-6,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+210.0796032,C8H12O6,36,C13-label-7,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+211.0829581,C8H12O6,36,C13-label-8,[M-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+231.0233741,C11H8N2O2S,37,C12 PARENT,[M-H]-,Cyclobrassinone
+232.0267289,C11H8N2O2S,37,C13-label-1,[M-H]-,Cyclobrassinone
+233.0300838,C11H8N2O2S,37,C13-label-2,[M-H]-,Cyclobrassinone
+234.0334386,C11H8N2O2S,37,C13-label-3,[M-H]-,Cyclobrassinone
+235.0367934,C11H8N2O2S,37,C13-label-4,[M-H]-,Cyclobrassinone
+236.0401483,C11H8N2O2S,37,C13-label-5,[M-H]-,Cyclobrassinone
+237.0435031,C11H8N2O2S,37,C13-label-6,[M-H]-,Cyclobrassinone
+238.0468579,C11H8N2O2S,37,C13-label-7,[M-H]-,Cyclobrassinone
+239.0502128,C11H8N2O2S,37,C13-label-8,[M-H]-,Cyclobrassinone
+231.0485261,C13H12O2S,38,C12 PARENT,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+232.0518809,C13H12O2S,38,C13-label-1,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+233.0552358,C13H12O2S,38,C13-label-2,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+234.0585906,C13H12O2S,38,C13-label-3,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+235.0619454,C13H12O2S,38,C13-label-4,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+236.0653003,C13H12O2S,38,C13-label-5,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+237.0686551,C13H12O2S,38,C13-label-6,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+238.0720099,C13H12O2S,38,C13-label-7,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+239.0753648,C13H12O2S,38,C13-label-8,[M-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+218.0670184,C8H13NO6,39,C12 PARENT,[M-H]-,Succinyl-homoserine
+219.0703732,C8H13NO6,39,C13-label-1,[M-H]-,Succinyl-homoserine
+220.0737281,C8H13NO6,39,C13-label-2,[M-H]-,Succinyl-homoserine
+221.0770829,C8H13NO6,39,C13-label-3,[M-H]-,Succinyl-homoserine
+222.0804377,C8H13NO6,39,C13-label-4,[M-H]-,Succinyl-homoserine
+223.0837926,C8H13NO6,39,C13-label-5,[M-H]-,Succinyl-homoserine
+224.0871474,C8H13NO6,39,C13-label-6,[M-H]-,Succinyl-homoserine
+225.0905022,C8H13NO6,39,C13-label-7,[M-H]-,Succinyl-homoserine
+226.0938571,C8H13NO6,39,C13-label-8,[M-H]-,Succinyl-homoserine
+220.0826684,C8H15NO6,40,C12 PARENT,[M-H]-,N-Acetyl-glucosamine
+221.0860232,C8H15NO6,40,C13-label-1,[M-H]-,N-Acetyl-glucosamine
+222.0893781,C8H15NO6,40,C13-label-2,[M-H]-,N-Acetyl-glucosamine
+223.0927329,C8H15NO6,40,C13-label-3,[M-H]-,N-Acetyl-glucosamine
+224.0960877,C8H15NO6,40,C13-label-4,[M-H]-,N-Acetyl-glucosamine
+225.0994426,C8H15NO6,40,C13-label-5,[M-H]-,N-Acetyl-glucosamine
+226.1027974,C8H15NO6,40,C13-label-6,[M-H]-,N-Acetyl-glucosamine
+227.1061522,C8H15NO6,40,C13-label-7,[M-H]-,N-Acetyl-glucosamine
+228.1095071,C8H15NO6,40,C13-label-8,[M-H]-,N-Acetyl-glucosamine
+225.1860054,C14H26O2,41,C12 PARENT,[M-H]-,C14:1 FA (Tetradecenoic acid)
+226.1893602,C14H26O2,41,C13-label-1,[M-H]-,C14:1 FA (Tetradecenoic acid)
+227.1927151,C14H26O2,41,C13-label-2,[M-H]-,C14:1 FA (Tetradecenoic acid)
+228.1960699,C14H26O2,41,C13-label-3,[M-H]-,C14:1 FA (Tetradecenoic acid)
+229.1994247,C14H26O2,41,C13-label-4,[M-H]-,C14:1 FA (Tetradecenoic acid)
+230.2027796,C14H26O2,41,C13-label-5,[M-H]-,C14:1 FA (Tetradecenoic acid)
+231.2061344,C14H26O2,41,C13-label-6,[M-H]-,C14:1 FA (Tetradecenoic acid)
+232.2094892,C14H26O2,41,C13-label-7,[M-H]-,C14:1 FA (Tetradecenoic acid)
+233.2128441,C14H26O2,41,C13-label-8,[M-H]-,C14:1 FA (Tetradecenoic acid)
+226.0122209,C5H10NO7P,42,C12 PARENT,[M-H]-,Glutamic acid 5-phosphate
+227.0155757,C5H10NO7P,42,C13-label-1,[M-H]-,Glutamic acid 5-phosphate
+228.0189306,C5H10NO7P,42,C13-label-2,[M-H]-,Glutamic acid 5-phosphate
+229.0222854,C5H10NO7P,42,C13-label-3,[M-H]-,Glutamic acid 5-phosphate
+230.0256402,C5H10NO7P,42,C13-label-4,[M-H]-,Glutamic acid 5-phosphate
+231.0289951,C5H10NO7P,42,C13-label-5,[M-H]-,Glutamic acid 5-phosphate
+227.1037354,C10H16N2O4,43,C12 PARENT,[M-H]-,Pyroglutamylvaline
+228.1070902,C10H16N2O4,43,C13-label-1,[M-H]-,Pyroglutamylvaline
+229.1104451,C10H16N2O4,43,C13-label-2,[M-H]-,Pyroglutamylvaline
+230.1137999,C10H16N2O4,43,C13-label-3,[M-H]-,Pyroglutamylvaline
+231.1171547,C10H16N2O4,43,C13-label-4,[M-H]-,Pyroglutamylvaline
+232.1205096,C10H16N2O4,43,C13-label-5,[M-H]-,Pyroglutamylvaline
+233.1238644,C10H16N2O4,43,C13-label-6,[M-H]-,Pyroglutamylvaline
+234.1272192,C10H16N2O4,43,C13-label-7,[M-H]-,Pyroglutamylvaline
+235.1305741,C10H16N2O4,43,C13-label-8,[M-H]-,Pyroglutamylvaline
+227.2016554,C14H28O2,44,C12 PARENT,[M-H]-,C14:0 FA(Myristic acid)
+228.2050102,C14H28O2,44,C13-label-1,[M-H]-,C14:0 FA(Myristic acid)
+229.2083651,C14H28O2,44,C13-label-2,[M-H]-,C14:0 FA(Myristic acid)
+230.2117199,C14H28O2,44,C13-label-3,[M-H]-,C14:0 FA(Myristic acid)
+231.2150747,C14H28O2,44,C13-label-4,[M-H]-,C14:0 FA(Myristic acid)
+232.2184296,C14H28O2,44,C13-label-5,[M-H]-,C14:0 FA(Myristic acid)
+233.2217844,C14H28O2,44,C13-label-6,[M-H]-,C14:0 FA(Myristic acid)
+234.2251392,C14H28O2,44,C13-label-7,[M-H]-,C14:0 FA(Myristic acid)
+235.2284941,C14H28O2,44,C13-label-8,[M-H]-,C14:0 FA(Myristic acid)
+248.0094574,C4H13NO7P2,45,C12 PARENT,[M-H]-,Alendronic acid
+249.0128122,C4H13NO7P2,45,C13-label-1,[M-H]-,Alendronic acid
+250.0161671,C4H13NO7P2,45,C13-label-2,[M-H]-,Alendronic acid
+251.0195219,C4H13NO7P2,45,C13-label-3,[M-H]-,Alendronic acid
+252.0228767,C4H13NO7P2,45,C13-label-4,[M-H]-,Alendronic acid
+248.0499231,C11H11N3O2S,46,C12 PARENT,[M-H]-,Sulfapyridine
+249.0532779,C11H11N3O2S,46,C13-label-1,[M-H]-,Sulfapyridine
+250.0566328,C11H11N3O2S,46,C13-label-2,[M-H]-,Sulfapyridine
+251.0599876,C11H11N3O2S,46,C13-label-3,[M-H]-,Sulfapyridine
+252.0633424,C11H11N3O2S,46,C13-label-4,[M-H]-,Sulfapyridine
+253.0666973,C11H11N3O2S,46,C13-label-5,[M-H]-,Sulfapyridine
+254.0700521,C11H11N3O2S,46,C13-label-6,[M-H]-,Sulfapyridine
+255.0734069,C11H11N3O2S,46,C13-label-7,[M-H]-,Sulfapyridine
+256.0767618,C11H11N3O2S,46,C13-label-8,[M-H]-,Sulfapyridine
+236.0234391,C7H11NO6S,47,C12 PARENT,[M-H]-,Cysteinosuccinic acid
+237.0267939,C7H11NO6S,47,C13-label-1,[M-H]-,Cysteinosuccinic acid
+238.0301488,C7H11NO6S,47,C13-label-2,[M-H]-,Cysteinosuccinic acid
+239.0335036,C7H11NO6S,47,C13-label-3,[M-H]-,Cysteinosuccinic acid
+240.0368584,C7H11NO6S,47,C13-label-4,[M-H]-,Cysteinosuccinic acid
+241.0402133,C7H11NO6S,47,C13-label-5,[M-H]-,Cysteinosuccinic acid
+242.0435681,C7H11NO6S,47,C13-label-6,[M-H]-,Cysteinosuccinic acid
+243.0469229,C7H11NO6S,47,C13-label-7,[M-H]-,Cysteinosuccinic acid
+237.1860054,C15H26O2,48,C12 PARENT,[M-H]-,Pentadecadienoic acid
+238.1893602,C15H26O2,48,C13-label-1,[M-H]-,Pentadecadienoic acid
+239.1927151,C15H26O2,48,C13-label-2,[M-H]-,Pentadecadienoic acid
+240.1960699,C15H26O2,48,C13-label-3,[M-H]-,Pentadecadienoic acid
+241.1994247,C15H26O2,48,C13-label-4,[M-H]-,Pentadecadienoic acid
+242.2027796,C15H26O2,48,C13-label-5,[M-H]-,Pentadecadienoic acid
+243.2061344,C15H26O2,48,C13-label-6,[M-H]-,Pentadecadienoic acid
+244.2094892,C15H26O2,48,C13-label-7,[M-H]-,Pentadecadienoic acid
+245.2128441,C15H26O2,48,C13-label-8,[M-H]-,Pentadecadienoic acid
+241.1193854,C11H18N2O4,49,C12 PARENT,[M-H]-,Pyroglutamylleucine
+242.1227402,C11H18N2O4,49,C13-label-1,[M-H]-,Pyroglutamylleucine
+243.1260951,C11H18N2O4,49,C13-label-2,[M-H]-,Pyroglutamylleucine
+244.1294499,C11H18N2O4,49,C13-label-3,[M-H]-,Pyroglutamylleucine
+245.1328047,C11H18N2O4,49,C13-label-4,[M-H]-,Pyroglutamylleucine
+246.1361596,C11H18N2O4,49,C13-label-5,[M-H]-,Pyroglutamylleucine
+247.1395144,C11H18N2O4,49,C13-label-6,[M-H]-,Pyroglutamylleucine
+248.1428692,C11H18N2O4,49,C13-label-7,[M-H]-,Pyroglutamylleucine
+249.1462241,C11H18N2O4,49,C13-label-8,[M-H]-,Pyroglutamylleucine
+242.1397864,C12H21NO4,50,C12 PARENT,[M-H]-,Tiglylcarnitine
+243.1431412,C12H21NO4,50,C13-label-1,[M-H]-,Tiglylcarnitine
+244.1464961,C12H21NO4,50,C13-label-2,[M-H]-,Tiglylcarnitine
+245.1498509,C12H21NO4,50,C13-label-3,[M-H]-,Tiglylcarnitine
+246.1532057,C12H21NO4,50,C13-label-4,[M-H]-,Tiglylcarnitine
+247.1565606,C12H21NO4,50,C13-label-5,[M-H]-,Tiglylcarnitine
+248.1599154,C12H21NO4,50,C13-label-6,[M-H]-,Tiglylcarnitine
+249.1632702,C12H21NO4,50,C13-label-7,[M-H]-,Tiglylcarnitine
+250.1666251,C12H21NO4,50,C13-label-8,[M-H]-,Tiglylcarnitine
+243.0622674,C9H12N2O6,51,C12 PARENT,[M-H]-,Uridine
+244.0656222,C9H12N2O6,51,C13-label-1,[M-H]-,Uridine
+245.0689771,C9H12N2O6,51,C13-label-2,[M-H]-,Uridine
+246.0723319,C9H12N2O6,51,C13-label-3,[M-H]-,Uridine
+247.0756867,C9H12N2O6,51,C13-label-4,[M-H]-,Uridine
+248.0790416,C9H12N2O6,51,C13-label-5,[M-H]-,Uridine
+249.0823964,C9H12N2O6,51,C13-label-6,[M-H]-,Uridine
+250.0857512,C9H12N2O6,51,C13-label-7,[M-H]-,Uridine
+251.0891061,C9H12N2O6,51,C13-label-8,[M-H]-,Uridine
+243.1965714,C14H28O3,52,C12 PARENT,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+244.1999262,C14H28O3,52,C13-label-1,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+245.2032811,C14H28O3,52,C13-label-2,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+246.2066359,C14H28O3,52,C13-label-3,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+247.2099907,C14H28O3,52,C13-label-4,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+248.2133456,C14H28O3,52,C13-label-5,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+249.2167004,C14H28O3,52,C13-label-6,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+250.2200552,C14H28O3,52,C13-label-7,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+251.2234101,C14H28O3,52,C13-label-8,[M-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+244.9985584,C5H12O7P2,53,C12 PARENT,[M-H]-,Dimethylallylpyrophosphate
+246.0019132,C5H12O7P2,53,C13-label-1,[M-H]-,Dimethylallylpyrophosphate
+247.0052681,C5H12O7P2,53,C13-label-2,[M-H]-,Dimethylallylpyrophosphate
+248.0086229,C5H12O7P2,53,C13-label-3,[M-H]-,Dimethylallylpyrophosphate
+249.0119777,C5H12O7P2,53,C13-label-4,[M-H]-,Dimethylallylpyrophosphate
+250.0153326,C5H12O7P2,53,C13-label-5,[M-H]-,Dimethylallylpyrophosphate
+245.1143014,C10H18N2O5,54,C12 PARENT,[M-H]-,Glutamylvaline
+246.1176562,C10H18N2O5,54,C13-label-1,[M-H]-,Glutamylvaline
+247.1210111,C10H18N2O5,54,C13-label-2,[M-H]-,Glutamylvaline
+248.1243659,C10H18N2O5,54,C13-label-3,[M-H]-,Glutamylvaline
+249.1277207,C10H18N2O5,54,C13-label-4,[M-H]-,Glutamylvaline
+250.1310756,C10H18N2O5,54,C13-label-5,[M-H]-,Glutamylvaline
+251.1344304,C10H18N2O5,54,C13-label-6,[M-H]-,Glutamylvaline
+252.1377852,C10H18N2O5,54,C13-label-7,[M-H]-,Glutamylvaline
+253.1411401,C10H18N2O5,54,C13-label-8,[M-H]-,Glutamylvaline
+250.1084864,C13H17NO4,55,C12 PARENT,[M-H]-,Acetyl-tyrosine ethyl ester
+251.1118412,C13H17NO4,55,C13-label-1,[M-H]-,Acetyl-tyrosine ethyl ester
+252.1151961,C13H17NO4,55,C13-label-2,[M-H]-,Acetyl-tyrosine ethyl ester
+253.1185509,C13H17NO4,55,C13-label-3,[M-H]-,Acetyl-tyrosine ethyl ester
+254.1219057,C13H17NO4,55,C13-label-4,[M-H]-,Acetyl-tyrosine ethyl ester
+255.1252606,C13H17NO4,55,C13-label-5,[M-H]-,Acetyl-tyrosine ethyl ester
+256.1286154,C13H17NO4,55,C13-label-6,[M-H]-,Acetyl-tyrosine ethyl ester
+257.1319702,C13H17NO4,55,C13-label-7,[M-H]-,Acetyl-tyrosine ethyl ester
+258.1353251,C13H17NO4,55,C13-label-8,[M-H]-,Acetyl-tyrosine ethyl ester
+253.2173054,C16H30O2,56,C12 PARENT,[M-H]-,Hexadecenoic acid
+254.2206602,C16H30O2,56,C13-label-1,[M-H]-,Hexadecenoic acid
+255.2240151,C16H30O2,56,C13-label-2,[M-H]-,Hexadecenoic acid
+256.2273699,C16H30O2,56,C13-label-3,[M-H]-,Hexadecenoic acid
+257.2307247,C16H30O2,56,C13-label-4,[M-H]-,Hexadecenoic acid
+258.2340796,C16H30O2,56,C13-label-5,[M-H]-,Hexadecenoic acid
+259.2374344,C16H30O2,56,C13-label-6,[M-H]-,Hexadecenoic acid
+260.2407892,C16H30O2,56,C13-label-7,[M-H]-,Hexadecenoic acid
+261.2441441,C16H30O2,56,C13-label-8,[M-H]-,Hexadecenoic acid
+255.2329554,C16H32O2,57,C12 PARENT,[M-H]-,C16:0 FA (Palmitic acid)
+256.2363102,C16H32O2,57,C13-label-1,[M-H]-,C16:0 FA (Palmitic acid)
+257.2396651,C16H32O2,57,C13-label-2,[M-H]-,C16:0 FA (Palmitic acid)
+258.2430199,C16H32O2,57,C13-label-3,[M-H]-,C16:0 FA (Palmitic acid)
+259.2463747,C16H32O2,57,C13-label-4,[M-H]-,C16:0 FA (Palmitic acid)
+260.2497296,C16H32O2,57,C13-label-5,[M-H]-,C16:0 FA (Palmitic acid)
+261.2530844,C16H32O2,57,C13-label-6,[M-H]-,C16:0 FA (Palmitic acid)
+262.2564392,C16H32O2,57,C13-label-7,[M-H]-,C16:0 FA (Palmitic acid)
+263.2597941,C16H32O2,57,C13-label-8,[M-H]-,C16:0 FA (Palmitic acid)
+257.0779174,C10H14N2O6,58,C12 PARENT,[M-H]-,Pyroglutamylglutamic acid
+258.0812722,C10H14N2O6,58,C13-label-1,[M-H]-,Pyroglutamylglutamic acid
+259.0846271,C10H14N2O6,58,C13-label-2,[M-H]-,Pyroglutamylglutamic acid
+260.0879819,C10H14N2O6,58,C13-label-3,[M-H]-,Pyroglutamylglutamic acid
+261.0913367,C10H14N2O6,58,C13-label-4,[M-H]-,Pyroglutamylglutamic acid
+262.0946916,C10H14N2O6,58,C13-label-5,[M-H]-,Pyroglutamylglutamic acid
+263.0980464,C10H14N2O6,58,C13-label-6,[M-H]-,Pyroglutamylglutamic acid
+264.1014012,C10H14N2O6,58,C13-label-7,[M-H]-,Pyroglutamylglutamic acid
+265.1047561,C10H14N2O6,58,C13-label-8,[M-H]-,Pyroglutamylglutamic acid
+198.0408024,C8H9NO5,59,C12 PARENT,[M-H]-,(Hydroxymethyl-furoyl)glycine
+199.0441572,C8H9NO5,59,C13-label-1,[M-H]-,(Hydroxymethyl-furoyl)glycine
+200.0475121,C8H9NO5,59,C13-label-2,[M-H]-,(Hydroxymethyl-furoyl)glycine
+201.0508669,C8H9NO5,59,C13-label-3,[M-H]-,(Hydroxymethyl-furoyl)glycine
+202.0542217,C8H9NO5,59,C13-label-4,[M-H]-,(Hydroxymethyl-furoyl)glycine
+203.0575766,C8H9NO5,59,C13-label-5,[M-H]-,(Hydroxymethyl-furoyl)glycine
+204.0609314,C8H9NO5,59,C13-label-6,[M-H]-,(Hydroxymethyl-furoyl)glycine
+205.0642862,C8H9NO5,59,C13-label-7,[M-H]-,(Hydroxymethyl-furoyl)glycine
+206.0676411,C8H9NO5,59,C13-label-8,[M-H]-,(Hydroxymethyl-furoyl)glycine
+259.1299514,C11H20N2O5,60,C12 PARENT,[M-H]-,Glutamylleucine
+260.1333062,C11H20N2O5,60,C13-label-1,[M-H]-,Glutamylleucine
+261.1366611,C11H20N2O5,60,C13-label-2,[M-H]-,Glutamylleucine
+262.1400159,C11H20N2O5,60,C13-label-3,[M-H]-,Glutamylleucine
+263.1433707,C11H20N2O5,60,C13-label-4,[M-H]-,Glutamylleucine
+264.1467256,C11H20N2O5,60,C13-label-5,[M-H]-,Glutamylleucine
+265.1500804,C11H20N2O5,60,C13-label-6,[M-H]-,Glutamylleucine
+266.1534352,C11H20N2O5,60,C13-label-7,[M-H]-,Glutamylleucine
+267.1567901,C11H20N2O5,60,C13-label-8,[M-H]-,Glutamylleucine
+260.0234391,C9H11NO6S,61,C12 PARENT,[M-H]-,Methoxyacetaminophen sulfate
+261.0267939,C9H11NO6S,61,C13-label-1,[M-H]-,Methoxyacetaminophen sulfate
+262.0301488,C9H11NO6S,61,C13-label-2,[M-H]-,Methoxyacetaminophen sulfate
+263.0335036,C9H11NO6S,61,C13-label-3,[M-H]-,Methoxyacetaminophen sulfate
+264.0368584,C9H11NO6S,61,C13-label-4,[M-H]-,Methoxyacetaminophen sulfate
+265.0402133,C9H11NO6S,61,C13-label-5,[M-H]-,Methoxyacetaminophen sulfate
+266.0435681,C9H11NO6S,61,C13-label-6,[M-H]-,Methoxyacetaminophen sulfate
+267.0469229,C9H11NO6S,61,C13-label-7,[M-H]-,Methoxyacetaminophen sulfate
+268.0502778,C9H11NO6S,61,C13-label-8,[M-H]-,Methoxyacetaminophen sulfate
+263.1136354,C11H20O7,62,C12 PARENT,[M-H]-,Ilicifolinoside A
+264.1169902,C11H20O7,62,C13-label-1,[M-H]-,Ilicifolinoside A
+265.1203451,C11H20O7,62,C13-label-2,[M-H]-,Ilicifolinoside A
+266.1236999,C11H20O7,62,C13-label-3,[M-H]-,Ilicifolinoside A
+267.1270547,C11H20O7,62,C13-label-4,[M-H]-,Ilicifolinoside A
+268.1304096,C11H20O7,62,C13-label-5,[M-H]-,Ilicifolinoside A
+269.1337644,C11H20O7,62,C13-label-6,[M-H]-,Ilicifolinoside A
+270.1371192,C11H20O7,62,C13-label-7,[M-H]-,Ilicifolinoside A
+271.1404741,C11H20O7,62,C13-label-8,[M-H]-,Ilicifolinoside A
+267.0734994,C10H12N4O5,63,C12 PARENT,[M-H]-,Inosine
+268.0768542,C10H12N4O5,63,C13-label-1,[M-H]-,Inosine
+269.0802091,C10H12N4O5,63,C13-label-2,[M-H]-,Inosine
+270.0835639,C10H12N4O5,63,C13-label-3,[M-H]-,Inosine
+271.0869187,C10H12N4O5,63,C13-label-4,[M-H]-,Inosine
+272.0902736,C10H12N4O5,63,C13-label-5,[M-H]-,Inosine
+273.0936284,C10H12N4O5,63,C13-label-6,[M-H]-,Inosine
+274.0969832,C10H12N4O5,63,C13-label-7,[M-H]-,Inosine
+275.1003381,C10H12N4O5,63,C13-label-8,[M-H]-,Inosine
+289.0330199,C7H15O10P,64,C12 PARENT,[M-H]-,Sedoheptulose 7-phosphate
+290.0363747,C7H15O10P,64,C13-label-1,[M-H]-,Sedoheptulose 7-phosphate
+291.0397296,C7H15O10P,64,C13-label-2,[M-H]-,Sedoheptulose 7-phosphate
+292.0430844,C7H15O10P,64,C13-label-3,[M-H]-,Sedoheptulose 7-phosphate
+293.0464392,C7H15O10P,64,C13-label-4,[M-H]-,Sedoheptulose 7-phosphate
+294.0497941,C7H15O10P,64,C13-label-5,[M-H]-,Sedoheptulose 7-phosphate
+295.0531489,C7H15O10P,64,C13-label-6,[M-H]-,Sedoheptulose 7-phosphate
+296.0565037,C7H15O10P,64,C13-label-7,[M-H]-,Sedoheptulose 7-phosphate
+290.0257596,C10H14NO5PS,65,C12 PARENT,[M-H]-,Parathion
+291.0291144,C10H14NO5PS,65,C13-label-1,[M-H]-,Parathion
+292.0324693,C10H14NO5PS,65,C13-label-2,[M-H]-,Parathion
+293.0358241,C10H14NO5PS,65,C13-label-3,[M-H]-,Parathion
+294.0391789,C10H14NO5PS,65,C13-label-4,[M-H]-,Parathion
+295.0425338,C10H14NO5PS,65,C13-label-5,[M-H]-,Parathion
+296.0458886,C10H14NO5PS,65,C13-label-6,[M-H]-,Parathion
+297.0492434,C10H14NO5PS,65,C13-label-7,[M-H]-,Parathion
+298.0525983,C10H14NO5PS,65,C13-label-8,[M-H]-,Parathion
+274.1044664,C10H17N3O6,66,C12 PARENT,[M-H]-,Glutamylglutamine
+275.1078212,C10H17N3O6,66,C13-label-1,[M-H]-,Glutamylglutamine
+276.1111761,C10H17N3O6,66,C13-label-2,[M-H]-,Glutamylglutamine
+277.1145309,C10H17N3O6,66,C13-label-3,[M-H]-,Glutamylglutamine
+278.1178857,C10H17N3O6,66,C13-label-4,[M-H]-,Glutamylglutamine
+279.1212406,C10H17N3O6,66,C13-label-5,[M-H]-,Glutamylglutamine
+280.1245954,C10H17N3O6,66,C13-label-6,[M-H]-,Glutamylglutamine
+281.1279502,C10H17N3O6,66,C13-label-7,[M-H]-,Glutamylglutamine
+282.1313051,C10H17N3O6,66,C13-label-8,[M-H]-,Glutamylglutamine
+275.0173699,C6H13O10P,67,C12 PARENT,[M-H]-,Phosphogluconate
+276.0207247,C6H13O10P,67,C13-label-1,[M-H]-,Phosphogluconate
+277.0240796,C6H13O10P,67,C13-label-2,[M-H]-,Phosphogluconate
+278.0274344,C6H13O10P,67,C13-label-3,[M-H]-,Phosphogluconate
+279.0307892,C6H13O10P,67,C13-label-4,[M-H]-,Phosphogluconate
+280.0341441,C6H13O10P,67,C13-label-5,[M-H]-,Phosphogluconate
+281.0374989,C6H13O10P,67,C13-label-6,[M-H]-,Phosphogluconate
+293.0423948,C13H14N2O2S2,68,C12 PARENT,[M-H]-,Wasalexin A
+294.0457496,C13H14N2O2S2,68,C13-label-1,[M-H]-,Wasalexin A
+295.0491045,C13H14N2O2S2,68,C13-label-2,[M-H]-,Wasalexin A
+296.0524593,C13H14N2O2S2,68,C13-label-3,[M-H]-,Wasalexin A
+297.0558141,C13H14N2O2S2,68,C13-label-4,[M-H]-,Wasalexin A
+298.059169,C13H14N2O2S2,68,C13-label-5,[M-H]-,Wasalexin A
+299.0625238,C13H14N2O2S2,68,C13-label-6,[M-H]-,Wasalexin A
+300.0658786,C13H14N2O2S2,68,C13-label-7,[M-H]-,Wasalexin A
+301.0692335,C13H14N2O2S2,68,C13-label-8,[M-H]-,Wasalexin A
+275.0884834,C10H16N2O7,69,C12 PARENT,[M-H]-,Glutamylglutamic acid
+276.0918382,C10H16N2O7,69,C13-label-1,[M-H]-,Glutamylglutamic acid
+277.0951931,C10H16N2O7,69,C13-label-2,[M-H]-,Glutamylglutamic acid
+278.0985479,C10H16N2O7,69,C13-label-3,[M-H]-,Glutamylglutamic acid
+279.1019027,C10H16N2O7,69,C13-label-4,[M-H]-,Glutamylglutamic acid
+280.1052576,C10H16N2O7,69,C13-label-5,[M-H]-,Glutamylglutamic acid
+281.1086124,C10H16N2O7,69,C13-label-6,[M-H]-,Glutamylglutamic acid
+282.1119672,C10H16N2O7,69,C13-label-7,[M-H]-,Glutamylglutamic acid
+283.1153221,C10H16N2O7,69,C13-label-8,[M-H]-,Glutamylglutamic acid
+279.0986514,C13H16N2O5,70,C12 PARENT,[M-H]-,Aspartylphenylalanine
+280.1020062,C13H16N2O5,70,C13-label-1,[M-H]-,Aspartylphenylalanine
+281.1053611,C13H16N2O5,70,C13-label-2,[M-H]-,Aspartylphenylalanine
+282.1087159,C13H16N2O5,70,C13-label-3,[M-H]-,Aspartylphenylalanine
+283.1120707,C13H16N2O5,70,C13-label-4,[M-H]-,Aspartylphenylalanine
+284.1154256,C13H16N2O5,70,C13-label-5,[M-H]-,Aspartylphenylalanine
+285.1187804,C13H16N2O5,70,C13-label-6,[M-H]-,Aspartylphenylalanine
+286.1221352,C13H16N2O5,70,C13-label-7,[M-H]-,Aspartylphenylalanine
+287.1254901,C13H16N2O5,70,C13-label-8,[M-H]-,Aspartylphenylalanine
+297.1720854,C17H22N4O,71,C12 PARENT,[M-H]-,Minaprine
+298.1754402,C17H22N4O,71,C13-label-1,[M-H]-,Minaprine
+299.1787951,C17H22N4O,71,C13-label-2,[M-H]-,Minaprine
+300.1821499,C17H22N4O,71,C13-label-3,[M-H]-,Minaprine
+301.1855047,C17H22N4O,71,C13-label-4,[M-H]-,Minaprine
+302.1888596,C17H22N4O,71,C13-label-5,[M-H]-,Minaprine
+303.1922144,C17H22N4O,71,C13-label-6,[M-H]-,Minaprine
+304.1955692,C17H22N4O,71,C13-label-7,[M-H]-,Minaprine
+305.1989241,C17H22N4O,71,C13-label-8,[M-H]-,Minaprine
+281.1143014,C13H18N2O5,72,C12 PARENT,[M-H]-,Threonyltyrosine
+282.1176562,C13H18N2O5,72,C13-label-1,[M-H]-,Threonyltyrosine
+283.1210111,C13H18N2O5,72,C13-label-2,[M-H]-,Threonyltyrosine
+284.1243659,C13H18N2O5,72,C13-label-3,[M-H]-,Threonyltyrosine
+285.1277207,C13H18N2O5,72,C13-label-4,[M-H]-,Threonyltyrosine
+286.1310756,C13H18N2O5,72,C13-label-5,[M-H]-,Threonyltyrosine
+287.1344304,C13H18N2O5,72,C13-label-6,[M-H]-,Threonyltyrosine
+288.1377852,C13H18N2O5,72,C13-label-7,[M-H]-,Threonyltyrosine
+289.1411401,C13H18N2O5,72,C13-label-8,[M-H]-,Threonyltyrosine
+283.0684154,C10H12N4O6,73,C12 PARENT,[M-H]-,Xanthosine
+284.0717702,C10H12N4O6,73,C13-label-1,[M-H]-,Xanthosine
+285.0751251,C10H12N4O6,73,C13-label-2,[M-H]-,Xanthosine
+286.0784799,C10H12N4O6,73,C13-label-3,[M-H]-,Xanthosine
+287.0818347,C10H12N4O6,73,C13-label-4,[M-H]-,Xanthosine
+288.0851896,C10H12N4O6,73,C13-label-5,[M-H]-,Xanthosine
+289.0885444,C10H12N4O6,73,C13-label-6,[M-H]-,Xanthosine
+290.0918992,C10H12N4O6,73,C13-label-7,[M-H]-,Xanthosine
+291.0952541,C10H12N4O6,73,C13-label-8,[M-H]-,Xanthosine
+303.0833994,C11H16N2O8,74,C12 PARENT,[M-H]-,N-Acetylaspartylglutamate
+304.0867542,C11H16N2O8,74,C13-label-1,[M-H]-,N-Acetylaspartylglutamate
+305.0901091,C11H16N2O8,74,C13-label-2,[M-H]-,N-Acetylaspartylglutamate
+306.0934639,C11H16N2O8,74,C13-label-3,[M-H]-,N-Acetylaspartylglutamate
+307.0968187,C11H16N2O8,74,C13-label-4,[M-H]-,N-Acetylaspartylglutamate
+308.1001736,C11H16N2O8,74,C13-label-5,[M-H]-,N-Acetylaspartylglutamate
+309.1035284,C11H16N2O8,74,C13-label-6,[M-H]-,N-Acetylaspartylglutamate
+310.1068832,C11H16N2O8,74,C13-label-7,[M-H]-,N-Acetylaspartylglutamate
+311.1102381,C11H16N2O8,74,C13-label-8,[M-H]-,N-Acetylaspartylglutamate
+228.0278709,C5H12NO7P,75,C12 PARENT,[M-H]-,Phosphoribosylamine
+229.0312257,C5H12NO7P,75,C13-label-1,[M-H]-,Phosphoribosylamine
+230.0345806,C5H12NO7P,75,C13-label-2,[M-H]-,Phosphoribosylamine
+231.0379354,C5H12NO7P,75,C13-label-3,[M-H]-,Phosphoribosylamine
+232.0412902,C5H12NO7P,75,C13-label-4,[M-H]-,Phosphoribosylamine
+233.0446451,C5H12NO7P,75,C13-label-5,[M-H]-,Phosphoribosylamine
+293.1143014,C14H18N2O5,76,C12 PARENT,[M-H]-,Phenylalanyl-Glutamate
+294.1176562,C14H18N2O5,76,C13-label-1,[M-H]-,Phenylalanyl-Glutamate
+295.1210111,C14H18N2O5,76,C13-label-2,[M-H]-,Phenylalanyl-Glutamate
+296.1243659,C14H18N2O5,76,C13-label-3,[M-H]-,Phenylalanyl-Glutamate
+297.1277207,C14H18N2O5,76,C13-label-4,[M-H]-,Phenylalanyl-Glutamate
+298.1310756,C14H18N2O5,76,C13-label-5,[M-H]-,Phenylalanyl-Glutamate
+299.1344304,C14H18N2O5,76,C13-label-6,[M-H]-,Phenylalanyl-Glutamate
+300.1377852,C14H18N2O5,76,C13-label-7,[M-H]-,Phenylalanyl-Glutamate
+301.1411401,C14H18N2O5,76,C13-label-8,[M-H]-,Phenylalanyl-Glutamate
+300.0490029,C8H16NO9P,77,C12 PARENT,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+301.0523577,C8H16NO9P,77,C13-label-1,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+302.0557126,C8H16NO9P,77,C13-label-2,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+303.0590674,C8H16NO9P,77,C13-label-3,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+304.0624222,C8H16NO9P,77,C13-label-4,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+305.0657771,C8H16NO9P,77,C13-label-5,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+306.0691319,C8H16NO9P,77,C13-label-6,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+307.0724867,C8H16NO9P,77,C13-label-7,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+308.0758416,C8H16NO9P,77,C13-label-8,[M-H]-,N-Acetyl-glucosamine 6-phosphate
+242.0782504,C9H13N3O5,78,C12 PARENT,[M-H]-,Cytidine
+243.0816052,C9H13N3O5,78,C13-label-1,[M-H]-,Cytidine
+244.0849601,C9H13N3O5,78,C13-label-2,[M-H]-,Cytidine
+245.0883149,C9H13N3O5,78,C13-label-3,[M-H]-,Cytidine
+246.0916697,C9H13N3O5,78,C13-label-4,[M-H]-,Cytidine
+247.0950246,C9H13N3O5,78,C13-label-5,[M-H]-,Cytidine
+248.0983794,C9H13N3O5,78,C13-label-6,[M-H]-,Cytidine
+249.1017342,C9H13N3O5,78,C13-label-7,[M-H]-,Cytidine
+250.1050891,C9H13N3O5,78,C13-label-8,[M-H]-,Cytidine
+303.2329554,C20H32O2,79,C12 PARENT,[M-H]-,Eicosadiynoic acid
+304.2363102,C20H32O2,79,C13-label-1,[M-H]-,Eicosadiynoic acid
+305.2396651,C20H32O2,79,C13-label-2,[M-H]-,Eicosadiynoic acid
+306.2430199,C20H32O2,79,C13-label-3,[M-H]-,Eicosadiynoic acid
+307.2463747,C20H32O2,79,C13-label-4,[M-H]-,Eicosadiynoic acid
+308.2497296,C20H32O2,79,C13-label-5,[M-H]-,Eicosadiynoic acid
+309.2530844,C20H32O2,79,C13-label-6,[M-H]-,Eicosadiynoic acid
+310.2564392,C20H32O2,79,C13-label-7,[M-H]-,Eicosadiynoic acid
+311.2597941,C20H32O2,79,C13-label-8,[M-H]-,Eicosadiynoic acid
+306.0765371,C10H17N3O6S,80,C12 PARENT,[M-H]-,Glutathione (reduced)
+307.0798919,C10H17N3O6S,80,C13-label-1,[M-H]-,Glutathione (reduced)
+308.0832468,C10H17N3O6S,80,C13-label-2,[M-H]-,Glutathione (reduced)
+309.0866016,C10H17N3O6S,80,C13-label-3,[M-H]-,Glutathione (reduced)
+310.0899564,C10H17N3O6S,80,C13-label-4,[M-H]-,Glutathione (reduced)
+311.0933113,C10H17N3O6S,80,C13-label-5,[M-H]-,Glutathione (reduced)
+312.0966661,C10H17N3O6S,80,C13-label-6,[M-H]-,Glutathione (reduced)
+313.1000209,C10H17N3O6S,80,C13-label-7,[M-H]-,Glutathione (reduced)
+314.1033758,C10H17N3O6S,80,C13-label-8,[M-H]-,Glutathione (reduced)
+308.0987164,C11H19NO9,81,C12 PARENT,[M-H]-,N-Acetylneuraminic acid
+309.1020712,C11H19NO9,81,C13-label-1,[M-H]-,N-Acetylneuraminic acid
+310.1054261,C11H19NO9,81,C13-label-2,[M-H]-,N-Acetylneuraminic acid
+311.1087809,C11H19NO9,81,C13-label-3,[M-H]-,N-Acetylneuraminic acid
+312.1121357,C11H19NO9,81,C13-label-4,[M-H]-,N-Acetylneuraminic acid
+313.1154906,C11H19NO9,81,C13-label-5,[M-H]-,N-Acetylneuraminic acid
+314.1188454,C11H19NO9,81,C13-label-6,[M-H]-,N-Acetylneuraminic acid
+315.1222002,C11H19NO9,81,C13-label-7,[M-H]-,N-Acetylneuraminic acid
+316.1255551,C11H19NO9,81,C13-label-8,[M-H]-,N-Acetylneuraminic acid
+326.2336864,C18H33NO4,82,C12 PARENT,[M-H]-,Nitrooctadecenoic Acid
+327.2370412,C18H33NO4,82,C13-label-1,[M-H]-,Nitrooctadecenoic Acid
+328.2403961,C18H33NO4,82,C13-label-2,[M-H]-,Nitrooctadecenoic Acid
+329.2437509,C18H33NO4,82,C13-label-3,[M-H]-,Nitrooctadecenoic Acid
+330.2471057,C18H33NO4,82,C13-label-4,[M-H]-,Nitrooctadecenoic Acid
+331.2504606,C18H33NO4,82,C13-label-5,[M-H]-,Nitrooctadecenoic Acid
+332.2538154,C18H33NO4,82,C13-label-6,[M-H]-,Nitrooctadecenoic Acid
+333.2571702,C18H33NO4,82,C13-label-7,[M-H]-,Nitrooctadecenoic Acid
+334.2605251,C18H33NO4,82,C13-label-8,[M-H]-,Nitrooctadecenoic Acid
+309.1092174,C14H18N2O6,83,C12 PARENT,[M-H]-,Glutamyltyrosine
+310.1125722,C14H18N2O6,83,C13-label-1,[M-H]-,Glutamyltyrosine
+311.1159271,C14H18N2O6,83,C13-label-2,[M-H]-,Glutamyltyrosine
+312.1192819,C14H18N2O6,83,C13-label-3,[M-H]-,Glutamyltyrosine
+313.1226367,C14H18N2O6,83,C13-label-4,[M-H]-,Glutamyltyrosine
+314.1259916,C14H18N2O6,83,C13-label-5,[M-H]-,Glutamyltyrosine
+315.1293464,C14H18N2O6,83,C13-label-6,[M-H]-,Glutamyltyrosine
+316.1327012,C14H18N2O6,83,C13-label-7,[M-H]-,Glutamyltyrosine
+317.1360561,C14H18N2O6,83,C13-label-8,[M-H]-,Glutamyltyrosine
+259.0935674,C10H16N2O6,84,C12 PARENT,[M-H]-,Hydroxyprolyl-Glutamate
+260.0969222,C10H16N2O6,84,C13-label-1,[M-H]-,Hydroxyprolyl-Glutamate
+261.1002771,C10H16N2O6,84,C13-label-2,[M-H]-,Hydroxyprolyl-Glutamate
+262.1036319,C10H16N2O6,84,C13-label-3,[M-H]-,Hydroxyprolyl-Glutamate
+263.1069867,C10H16N2O6,84,C13-label-4,[M-H]-,Hydroxyprolyl-Glutamate
+264.1103416,C10H16N2O6,84,C13-label-5,[M-H]-,Hydroxyprolyl-Glutamate
+265.1136964,C10H16N2O6,84,C13-label-6,[M-H]-,Hydroxyprolyl-Glutamate
+266.1170512,C10H16N2O6,84,C13-label-7,[M-H]-,Hydroxyprolyl-Glutamate
+267.1204061,C10H16N2O6,84,C13-label-8,[M-H]-,Hydroxyprolyl-Glutamate
+319.2278714,C20H32O3,85,C12 PARENT,[M-H]-,Hydroxy-eicosatetraenoic acid
+320.2312262,C20H32O3,85,C13-label-1,[M-H]-,Hydroxy-eicosatetraenoic acid
+321.2345811,C20H32O3,85,C13-label-2,[M-H]-,Hydroxy-eicosatetraenoic acid
+322.2379359,C20H32O3,85,C13-label-3,[M-H]-,Hydroxy-eicosatetraenoic acid
+323.2412907,C20H32O3,85,C13-label-4,[M-H]-,Hydroxy-eicosatetraenoic acid
+324.2446456,C20H32O3,85,C13-label-5,[M-H]-,Hydroxy-eicosatetraenoic acid
+325.2480004,C20H32O3,85,C13-label-6,[M-H]-,Hydroxy-eicosatetraenoic acid
+326.2513552,C20H32O3,85,C13-label-7,[M-H]-,Hydroxy-eicosatetraenoic acid
+327.2547101,C20H32O3,85,C13-label-8,[M-H]-,Hydroxy-eicosatetraenoic acid
+321.0880854,C18H14N2O4,86,C12 PARENT,[M-H]-,Flazine methyl ether
+322.0914402,C18H14N2O4,86,C13-label-1,[M-H]-,Flazine methyl ether
+323.0947951,C18H14N2O4,86,C13-label-2,[M-H]-,Flazine methyl ether
+324.0981499,C18H14N2O4,86,C13-label-3,[M-H]-,Flazine methyl ether
+325.1015047,C18H14N2O4,86,C13-label-4,[M-H]-,Flazine methyl ether
+326.1048596,C18H14N2O4,86,C13-label-5,[M-H]-,Flazine methyl ether
+327.1082144,C18H14N2O4,86,C13-label-6,[M-H]-,Flazine methyl ether
+328.1115692,C18H14N2O4,86,C13-label-7,[M-H]-,Flazine methyl ether
+329.1149241,C18H14N2O4,86,C13-label-8,[M-H]-,Flazine methyl ether
+327.2329554,C22H32O2,87,C12 PARENT,[M-H]-,Docosahexanoic acid
+328.2363102,C22H32O2,87,C13-label-1,[M-H]-,Docosahexanoic acid
+329.2396651,C22H32O2,87,C13-label-2,[M-H]-,Docosahexanoic acid
+330.2430199,C22H32O2,87,C13-label-3,[M-H]-,Docosahexanoic acid
+331.2463747,C22H32O2,87,C13-label-4,[M-H]-,Docosahexanoic acid
+332.2497296,C22H32O2,87,C13-label-5,[M-H]-,Docosahexanoic acid
+333.2530844,C22H32O2,87,C13-label-6,[M-H]-,Docosahexanoic acid
+334.2564392,C22H32O2,87,C13-label-7,[M-H]-,Docosahexanoic acid
+335.2597941,C22H32O2,87,C13-label-8,[M-H]-,Docosahexanoic acid
+353.2333534,C20H34O5,88,C12 PARENT,[M-H]-,Prostaglandin F2alpha
+354.2367082,C20H34O5,88,C13-label-1,[M-H]-,Prostaglandin F2alpha
+355.2400631,C20H34O5,88,C13-label-2,[M-H]-,Prostaglandin F2alpha
+356.2434179,C20H34O5,88,C13-label-3,[M-H]-,Prostaglandin F2alpha
+357.2467727,C20H34O5,88,C13-label-4,[M-H]-,Prostaglandin F2alpha
+358.2501276,C20H34O5,88,C13-label-5,[M-H]-,Prostaglandin F2alpha
+359.2534824,C20H34O5,88,C13-label-6,[M-H]-,Prostaglandin F2alpha
+360.2568372,C20H34O5,88,C13-label-7,[M-H]-,Prostaglandin F2alpha
+361.2601921,C20H34O5,88,C13-label-8,[M-H]-,Prostaglandin F2alpha
+384.0936324,C16H19NO10,89,C12 PARENT,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+385.0969872,C16H19NO10,89,C13-label-1,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+386.1003421,C16H19NO10,89,C13-label-2,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+387.1036969,C16H19NO10,89,C13-label-3,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+388.1070517,C16H19NO10,89,C13-label-4,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+389.1104066,C16H19NO10,89,C13-label-5,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+390.1137614,C16H19NO10,89,C13-label-6,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+391.1171162,C16H19NO10,89,C13-label-7,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+392.1204711,C16H19NO10,89,C13-label-8,[M-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+369.1191174,C17H22O9,90,C12 PARENT,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+370.1224722,C17H22O9,90,C13-label-1,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+371.1258271,C17H22O9,90,C13-label-2,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+372.1291819,C17H22O9,90,C13-label-3,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+373.1325367,C17H22O9,90,C13-label-4,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+374.1358916,C17H22O9,90,C13-label-5,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+375.1392464,C17H22O9,90,C13-label-6,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+376.1426012,C17H22O9,90,C13-label-7,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+377.1459561,C17H22O9,90,C13-label-8,[M-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+389.2181014,C19H34O8,91,C12 PARENT,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+390.2214562,C19H34O8,91,C13-label-1,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+391.2248111,C19H34O8,91,C13-label-2,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+392.2281659,C19H34O8,91,C13-label-3,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+393.2315207,C19H34O8,91,C13-label-4,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+394.2348756,C19H34O8,91,C13-label-5,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+395.2382304,C19H34O8,91,C13-label-6,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+396.2415852,C19H34O8,91,C13-label-7,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+397.2449401,C19H34O8,91,C13-label-8,[M-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+382.1004464,C14H17N5O8,92,C12 PARENT,[M-H]-,Succinyladenosine
+383.1038012,C14H17N5O8,92,C13-label-1,[M-H]-,Succinyladenosine
+384.1071561,C14H17N5O8,92,C13-label-2,[M-H]-,Succinyladenosine
+385.1105109,C14H17N5O8,92,C13-label-3,[M-H]-,Succinyladenosine
+386.1138657,C14H17N5O8,92,C13-label-4,[M-H]-,Succinyladenosine
+387.1172206,C14H17N5O8,92,C13-label-5,[M-H]-,Succinyladenosine
+388.1205754,C14H17N5O8,92,C13-label-6,[M-H]-,Succinyladenosine
+389.1239302,C14H17N5O8,92,C13-label-7,[M-H]-,Succinyladenosine
+390.1272851,C14H17N5O8,92,C13-label-8,[M-H]-,Succinyladenosine
+385.2231854,C20H34O7,93,C12 PARENT,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+386.2265402,C20H34O7,93,C13-label-1,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+387.2298951,C20H34O7,93,C13-label-2,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+388.2332499,C20H34O7,93,C13-label-3,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+389.2366047,C20H34O7,93,C13-label-4,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+390.2399596,C20H34O7,93,C13-label-5,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+391.2433144,C20H34O7,93,C13-label-6,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+392.2466692,C20H34O7,93,C13-label-7,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+393.2500241,C20H34O7,93,C13-label-8,[M-H]-,Dihydro-trihydroxy-leukotriene B4
+387.2024514,C19H32O8,94,C12 PARENT,[M-H]-,Dihydroroseoside
+388.2058062,C19H32O8,94,C13-label-1,[M-H]-,Dihydroroseoside
+389.2091611,C19H32O8,94,C13-label-2,[M-H]-,Dihydroroseoside
+390.2125159,C19H32O8,94,C13-label-3,[M-H]-,Dihydroroseoside
+391.2158707,C19H32O8,94,C13-label-4,[M-H]-,Dihydroroseoside
+392.2192256,C19H32O8,94,C13-label-5,[M-H]-,Dihydroroseoside
+393.2225804,C19H32O8,94,C13-label-6,[M-H]-,Dihydroroseoside
+394.2259352,C19H32O8,94,C13-label-7,[M-H]-,Dihydroroseoside
+395.2292901,C19H32O8,94,C13-label-8,[M-H]-,Dihydroroseoside
+387.2388354,C20H36O7,95,C12 PARENT,[M-H]-,Dihydroxyprostaglandin F1a
+388.2421902,C20H36O7,95,C13-label-1,[M-H]-,Dihydroxyprostaglandin F1a
+389.2455451,C20H36O7,95,C13-label-2,[M-H]-,Dihydroxyprostaglandin F1a
+390.2488999,C20H36O7,95,C13-label-3,[M-H]-,Dihydroxyprostaglandin F1a
+391.2522547,C20H36O7,95,C13-label-4,[M-H]-,Dihydroxyprostaglandin F1a
+392.2556096,C20H36O7,95,C13-label-5,[M-H]-,Dihydroxyprostaglandin F1a
+393.2589644,C20H36O7,95,C13-label-6,[M-H]-,Dihydroxyprostaglandin F1a
+394.2623192,C20H36O7,95,C13-label-7,[M-H]-,Dihydroxyprostaglandin F1a
+395.2656741,C20H36O7,95,C13-label-8,[M-H]-,Dihydroxyprostaglandin F1a
+426.1419144,C20H21N5O6,96,C12 PARENT,[M-H]-,Pemetrexed
+427.1452692,C20H21N5O6,96,C13-label-1,[M-H]-,Pemetrexed
+428.1486241,C20H21N5O6,96,C13-label-2,[M-H]-,Pemetrexed
+429.1519789,C20H21N5O6,96,C13-label-3,[M-H]-,Pemetrexed
+430.1553337,C20H21N5O6,96,C13-label-4,[M-H]-,Pemetrexed
+431.1586886,C20H21N5O6,96,C13-label-5,[M-H]-,Pemetrexed
+432.1620434,C20H21N5O6,96,C13-label-6,[M-H]-,Pemetrexed
+433.1653982,C20H21N5O6,96,C13-label-7,[M-H]-,Pemetrexed
+434.1687531,C20H21N5O6,96,C13-label-8,[M-H]-,Pemetrexed
+452.2782709,C21H44NO7P,97,C12 PARENT,[M-H]-,LysoPE(16:0)
+453.2816257,C21H44NO7P,97,C13-label-1,[M-H]-,LysoPE(16:0)
+454.2849806,C21H44NO7P,97,C13-label-2,[M-H]-,LysoPE(16:0)
+455.2883354,C21H44NO7P,97,C13-label-3,[M-H]-,LysoPE(16:0)
+456.2916902,C21H44NO7P,97,C13-label-4,[M-H]-,LysoPE(16:0)
+457.2950451,C21H44NO7P,97,C13-label-5,[M-H]-,LysoPE(16:0)
+458.2983999,C21H44NO7P,97,C13-label-6,[M-H]-,LysoPE(16:0)
+459.3017547,C21H44NO7P,97,C13-label-7,[M-H]-,LysoPE(16:0)
+460.3051096,C21H44NO7P,97,C13-label-8,[M-H]-,LysoPE(16:0)
+480.3095709,C23H48NO7P,98,C12 PARENT,[M-H]-,LysoPC(15:0)
+481.3129257,C23H48NO7P,98,C13-label-1,[M-H]-,LysoPC(15:0)
+482.3162806,C23H48NO7P,98,C13-label-2,[M-H]-,LysoPC(15:0)
+483.3196354,C23H48NO7P,98,C13-label-3,[M-H]-,LysoPC(15:0)
+484.3229902,C23H48NO7P,98,C13-label-4,[M-H]-,LysoPC(15:0)
+485.3263451,C23H48NO7P,98,C13-label-5,[M-H]-,LysoPC(15:0)
+486.3296999,C23H48NO7P,98,C13-label-6,[M-H]-,LysoPC(15:0)
+487.3330547,C23H48NO7P,98,C13-label-7,[M-H]-,LysoPC(15:0)
+488.3364096,C23H48NO7P,98,C13-label-8,[M-H]-,LysoPC(15:0)
+437.2673719,C21H43O7P,99,C12 PARENT,[M-H]-,LysoPA(18:0)
+438.2707267,C21H43O7P,99,C13-label-1,[M-H]-,LysoPA(18:0)
+439.2740816,C21H43O7P,99,C13-label-2,[M-H]-,LysoPA(18:0)
+440.2774364,C21H43O7P,99,C13-label-3,[M-H]-,LysoPA(18:0)
+441.2807912,C21H43O7P,99,C13-label-4,[M-H]-,LysoPA(18:0)
+442.2841461,C21H43O7P,99,C13-label-5,[M-H]-,LysoPA(18:0)
+443.2875009,C21H43O7P,99,C13-label-6,[M-H]-,LysoPA(18:0)
+444.2908557,C21H43O7P,99,C13-label-7,[M-H]-,LysoPA(18:0)
+445.2942106,C21H43O7P,99,C13-label-8,[M-H]-,LysoPA(18:0)
+524.2782709,C27H44NO7P,100,C12 PARENT,[M-H]-,LysoPE(22:6)
+525.2816257,C27H44NO7P,100,C13-label-1,[M-H]-,LysoPE(22:6)
+526.2849806,C27H44NO7P,100,C13-label-2,[M-H]-,LysoPE(22:6)
+527.2883354,C27H44NO7P,100,C13-label-3,[M-H]-,LysoPE(22:6)
+528.2916902,C27H44NO7P,100,C13-label-4,[M-H]-,LysoPE(22:6)
+529.2950451,C27H44NO7P,100,C13-label-5,[M-H]-,LysoPE(22:6)
+530.2983999,C27H44NO7P,100,C13-label-6,[M-H]-,LysoPE(22:6)
+531.3017547,C27H44NO7P,100,C13-label-7,[M-H]-,LysoPE(22:6)
+532.3051096,C27H44NO7P,100,C13-label-8,[M-H]-,LysoPE(22:6)
+551.4681034,C34H64O5,101,C12 PARENT,[M-H]-,DG(31:1)
+552.4714582,C34H64O5,101,C13-label-1,[M-H]-,DG(31:1)
+553.4748131,C34H64O5,101,C13-label-2,[M-H]-,DG(31:1)
+554.4781679,C34H64O5,101,C13-label-3,[M-H]-,DG(31:1)
+555.4815227,C34H64O5,101,C13-label-4,[M-H]-,DG(31:1)
+556.4848776,C34H64O5,101,C13-label-5,[M-H]-,DG(31:1)
+557.4882324,C34H64O5,101,C13-label-6,[M-H]-,DG(31:1)
+558.4915872,C34H64O5,101,C13-label-7,[M-H]-,DG(31:1)
+559.4949421,C34H64O5,101,C13-label-8,[M-H]-,DG(31:1)
+606.0743154,C17H27N3O17P2,102,C12 PARENT,[M-H]-,UDP-N-acetyl-glucosamine
+607.0776702,C17H27N3O17P2,102,C13-label-1,[M-H]-,UDP-N-acetyl-glucosamine
+608.0810251,C17H27N3O17P2,102,C13-label-2,[M-H]-,UDP-N-acetyl-glucosamine
+609.0843799,C17H27N3O17P2,102,C13-label-3,[M-H]-,UDP-N-acetyl-glucosamine
+610.0877347,C17H27N3O17P2,102,C13-label-4,[M-H]-,UDP-N-acetyl-glucosamine
+611.0910896,C17H27N3O17P2,102,C13-label-5,[M-H]-,UDP-N-acetyl-glucosamine
+612.0944444,C17H27N3O17P2,102,C13-label-6,[M-H]-,UDP-N-acetyl-glucosamine
+613.0977992,C17H27N3O17P2,102,C13-label-7,[M-H]-,UDP-N-acetyl-glucosamine
+614.1011541,C17H27N3O17P2,102,C13-label-8,[M-H]-,UDP-N-acetyl-glucosamine
+607.1821154,C32H32O12,103,C12 PARENT,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+608.1854702,C32H32O12,103,C13-label-1,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+609.1888251,C32H32O12,103,C13-label-2,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+610.1921799,C32H32O12,103,C13-label-3,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+611.1955347,C32H32O12,103,C13-label-4,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+612.1988896,C32H32O12,103,C13-label-5,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+613.2022444,C32H32O12,103,C13-label-6,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+614.2055992,C32H32O12,103,C13-label-7,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+615.2089541,C32H32O12,103,C13-label-8,[M-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+609.5099694,C37H70O6,104,C12 PARENT,[M-H]-,TG(34:0)
+610.5133242,C37H70O6,104,C13-label-1,[M-H]-,TG(34:0)
+611.5166791,C37H70O6,104,C13-label-2,[M-H]-,TG(34:0)
+612.5200339,C37H70O6,104,C13-label-3,[M-H]-,TG(34:0)
+613.5233887,C37H70O6,104,C13-label-4,[M-H]-,TG(34:0)
+614.5267436,C37H70O6,104,C13-label-5,[M-H]-,TG(34:0)
+615.5300984,C37H70O6,104,C13-label-6,[M-H]-,TG(34:0)
+616.5334532,C37H70O6,104,C13-label-7,[M-H]-,TG(34:0)
+617.5368081,C37H70O6,104,C13-label-8,[M-H]-,TG(34:0)
+611.1447008,C20H32N6O12S2,105,C12 PARENT,[M-H]-,Glutathione (oxidized)
+612.1480556,C20H32N6O12S2,105,C13-label-1,[M-H]-,Glutathione (oxidized)
+613.1514105,C20H32N6O12S2,105,C13-label-2,[M-H]-,Glutathione (oxidized)
+614.1547653,C20H32N6O12S2,105,C13-label-3,[M-H]-,Glutathione (oxidized)
+615.1581201,C20H32N6O12S2,105,C13-label-4,[M-H]-,Glutathione (oxidized)
+616.161475,C20H32N6O12S2,105,C13-label-5,[M-H]-,Glutathione (oxidized)
+617.1648298,C20H32N6O12S2,105,C13-label-6,[M-H]-,Glutathione (oxidized)
+618.1681846,C20H32N6O12S2,105,C13-label-7,[M-H]-,Glutathione (oxidized)
+619.1715395,C20H32N6O12S2,105,C13-label-8,[M-H]-,Glutathione (oxidized)
+647.4657379,C35H69O8P,106,C12 PARENT,[M-H]-,PA(32:0)
+648.4690927,C35H69O8P,106,C13-label-1,[M-H]-,PA(32:0)
+649.4724476,C35H69O8P,106,C13-label-2,[M-H]-,PA(32:0)
+650.4758024,C35H69O8P,106,C13-label-3,[M-H]-,PA(32:0)
+651.4791572,C35H69O8P,106,C13-label-4,[M-H]-,PA(32:0)
+652.4825121,C35H69O8P,106,C13-label-5,[M-H]-,PA(32:0)
+653.4858669,C35H69O8P,106,C13-label-6,[M-H]-,PA(32:0)
+654.4892217,C35H69O8P,106,C13-label-7,[M-H]-,PA(32:0)
+655.4925766,C35H69O8P,106,C13-label-8,[M-H]-,PA(32:0)
+727.5518354,C45H76O7,107,C12 PARENT,[M-H]-,DG(11D3/11D5/0:0)
+728.5551902,C45H76O7,107,C13-label-1,[M-H]-,DG(11D3/11D5/0:0)
+729.5585451,C45H76O7,107,C13-label-2,[M-H]-,DG(11D3/11D5/0:0)
+730.5618999,C45H76O7,107,C13-label-3,[M-H]-,DG(11D3/11D5/0:0)
+731.5652547,C45H76O7,107,C13-label-4,[M-H]-,DG(11D3/11D5/0:0)
+732.5686096,C45H76O7,107,C13-label-5,[M-H]-,DG(11D3/11D5/0:0)
+733.5719644,C45H76O7,107,C13-label-6,[M-H]-,DG(11D3/11D5/0:0)
+734.5753192,C45H76O7,107,C13-label-7,[M-H]-,DG(11D3/11D5/0:0)
+735.5786741,C45H76O7,107,C13-label-8,[M-H]-,DG(11D3/11D5/0:0)
+782.6515504,C46H89NO8,108,C12 PARENT,[M-H]-,Glucosylceramide (40:1)
+783.6549052,C46H89NO8,108,C13-label-1,[M-H]-,Glucosylceramide (40:1)
+784.6582601,C46H89NO8,108,C13-label-2,[M-H]-,Glucosylceramide (40:1)
+785.6616149,C46H89NO8,108,C13-label-3,[M-H]-,Glucosylceramide (40:1)
+786.6649697,C46H89NO8,108,C13-label-4,[M-H]-,Glucosylceramide (40:1)
+787.6683246,C46H89NO8,108,C13-label-5,[M-H]-,Glucosylceramide (40:1)
+788.6716794,C46H89NO8,108,C13-label-6,[M-H]-,Glucosylceramide (40:1)
+789.6750342,C46H89NO8,108,C13-label-7,[M-H]-,Glucosylceramide (40:1)
+790.6783891,C46H89NO8,108,C13-label-8,[M-H]-,Glucosylceramide (40:1)
+816.5760189,C44H84NO10P,109,C12 PARENT,[M-H]-,PS(38:1)
+817.5793737,C44H84NO10P,109,C13-label-1,[M-H]-,PS(38:1)
+818.5827286,C44H84NO10P,109,C13-label-2,[M-H]-,PS(38:1)
+819.5860834,C44H84NO10P,109,C13-label-3,[M-H]-,PS(38:1)
+820.5894382,C44H84NO10P,109,C13-label-4,[M-H]-,PS(38:1)
+821.5927931,C44H84NO10P,109,C13-label-5,[M-H]-,PS(38:1)
+822.5961479,C44H84NO10P,109,C13-label-6,[M-H]-,PS(38:1)
+823.5995027,C44H84NO10P,109,C13-label-7,[M-H]-,PS(38:1)
+824.6028576,C44H84NO10P,109,C13-label-8,[M-H]-,PS(38:1)
+841.5025199,C48H75O10P,110,C12 PARENT,[M-H]-,PG(42:10)
+842.5058747,C48H75O10P,110,C13-label-1,[M-H]-,PG(42:10)
+843.5092296,C48H75O10P,110,C13-label-2,[M-H]-,PG(42:10)
+844.5125844,C48H75O10P,110,C13-label-3,[M-H]-,PG(42:10)
+845.5159392,C48H75O10P,110,C13-label-4,[M-H]-,PG(42:10)
+846.5192941,C48H75O10P,110,C13-label-5,[M-H]-,PG(42:10)
+847.5226489,C48H75O10P,110,C13-label-6,[M-H]-,PG(42:10)
+848.5260037,C48H75O10P,110,C13-label-7,[M-H]-,PG(42:10)
+849.5293586,C48H75O10P,110,C13-label-8,[M-H]-,PG(42:10)
+862.5603689,C48H82NO10P,111,C12 PARENT,[M-H]-,PS(42:6)
+863.5637237,C48H82NO10P,111,C13-label-1,[M-H]-,PS(42:6)
+864.5670786,C48H82NO10P,111,C13-label-2,[M-H]-,PS(42:6)
+865.5704334,C48H82NO10P,111,C13-label-3,[M-H]-,PS(42:6)
+866.5737882,C48H82NO10P,111,C13-label-4,[M-H]-,PS(42:6)
+867.5771431,C48H82NO10P,111,C13-label-5,[M-H]-,PS(42:6)
+868.5804979,C48H82NO10P,111,C13-label-6,[M-H]-,PS(42:6)
+869.5838527,C48H82NO10P,111,C13-label-7,[M-H]-,PS(42:6)
+870.5872076,C48H82NO10P,111,C13-label-8,[M-H]-,PS(42:6)
+122.9854491,C3H4O3,112,C12 PARENT,[M+Cl]-,Pyruvate
+123.9888039,C3H4O3,112,C13-label-1,[M+Cl]-,Pyruvate
+124.9921588,C3H4O3,112,C13-label-2,[M+Cl]-,Pyruvate
+125.9955136,C3H4O3,112,C13-label-3,[M+Cl]-,Pyruvate
+124.0170821,C3H7NO2,113,C12 PARENT,[M+Cl]-,Alanine
+125.0204369,C3H7NO2,113,C13-label-1,[M+Cl]-,Alanine
+126.0237918,C3H7NO2,113,C13-label-2,[M+Cl]-,Alanine
+127.0271466,C3H7NO2,113,C13-label-3,[M+Cl]-,Alanine
+125.0010991,C3H6O3,114,C12 PARENT,[M+Cl]-,Lactic acid
+126.0044539,C3H6O3,114,C13-label-1,[M+Cl]-,Lactic acid
+127.0078088,C3H6O3,114,C13-label-2,[M+Cl]-,Lactic acid
+128.0111636,C3H6O3,114,C13-label-3,[M+Cl]-,Lactic acid
+152.0119981,C4H7NO3,115,C12 PARENT,[M+Cl]-,Acetylglycine
+153.0153529,C4H7NO3,115,C13-label-1,[M+Cl]-,Acetylglycine
+154.0187078,C4H7NO3,115,C13-label-2,[M+Cl]-,Acetylglycine
+155.0220626,C4H7NO3,115,C13-label-3,[M+Cl]-,Acetylglycine
+156.0254174,C4H7NO3,115,C13-label-4,[M+Cl]-,Acetylglycine
+137.0010991,C4H6O3,116,C12 PARENT,[M+Cl]-,Acetoacetate
+138.0044539,C4H6O3,116,C13-label-1,[M+Cl]-,Acetoacetate
+139.0078088,C4H6O3,116,C13-label-2,[M+Cl]-,Acetoacetate
+140.0111636,C4H6O3,116,C13-label-3,[M+Cl]-,Acetoacetate
+141.0145184,C4H6O3,116,C13-label-4,[M+Cl]-,Acetoacetate
+138.0327321,C4H9NO2,117,C12 PARENT,[M+Cl]-,Aminobutanoate
+139.0360869,C4H9NO2,117,C13-label-1,[M+Cl]-,Aminobutanoate
+140.0394418,C4H9NO2,117,C13-label-2,[M+Cl]-,Aminobutanoate
+141.0427966,C4H9NO2,117,C13-label-3,[M+Cl]-,Aminobutanoate
+142.0461514,C4H9NO2,117,C13-label-4,[M+Cl]-,Aminobutanoate
+139.0167491,C4H8O3,118,C12 PARENT,[M+Cl]-,Hydroxybutanoic acid
+140.0201039,C4H8O3,118,C13-label-1,[M+Cl]-,Hydroxybutanoic acid
+141.0234588,C4H8O3,118,C13-label-2,[M+Cl]-,Hydroxybutanoic acid
+142.0268136,C4H8O3,118,C13-label-3,[M+Cl]-,Hydroxybutanoic acid
+143.0301684,C4H8O3,118,C13-label-4,[M+Cl]-,Hydroxybutanoic acid
+140.0119981,C3H7NO3,119,C12 PARENT,[M+Cl]-,Serine
+141.0153529,C3H7NO3,119,C13-label-1,[M+Cl]-,Serine
+142.0187078,C3H7NO3,119,C13-label-2,[M+Cl]-,Serine
+143.0220626,C3H7NO3,119,C13-label-3,[M+Cl]-,Serine
+146.9966811,C4H4N2O2,120,C12 PARENT,[M+Cl]-,Uracil
+148.0000359,C4H4N2O2,120,C13-label-1,[M+Cl]-,Uracil
+149.0033908,C4H4N2O2,120,C13-label-2,[M+Cl]-,Uracil
+150.0067456,C4H4N2O2,120,C13-label-3,[M+Cl]-,Uracil
+151.0101004,C4H4N2O2,120,C13-label-4,[M+Cl]-,Uracil
+150.0327321,C5H9NO2,121,C12 PARENT,[M+Cl]-,Proline
+151.0360869,C5H9NO2,121,C13-label-1,[M+Cl]-,Proline
+152.0394418,C5H9NO2,121,C13-label-2,[M+Cl]-,Proline
+153.0427966,C5H9NO2,121,C13-label-3,[M+Cl]-,Proline
+154.0461514,C5H9NO2,121,C13-label-4,[M+Cl]-,Proline
+155.0495063,C5H9NO2,121,C13-label-5,[M+Cl]-,Proline
+150.9803651,C4H4O4,122,C12 PARENT,[M+Cl]-,Maleic acid
+151.9837199,C4H4O4,122,C13-label-1,[M+Cl]-,Maleic acid
+152.9870748,C4H4O4,122,C13-label-2,[M+Cl]-,Maleic acid
+153.9904296,C4H4O4,122,C13-label-3,[M+Cl]-,Maleic acid
+154.9937844,C4H4O4,122,C13-label-4,[M+Cl]-,Maleic acid
+163.0279811,C5H8N2O2,123,C12 PARENT,[M+Cl]-,Pyroglutamine
+164.0313359,C5H8N2O2,123,C13-label-1,[M+Cl]-,Pyroglutamine
+165.0346908,C5H8N2O2,123,C13-label-2,[M+Cl]-,Pyroglutamine
+166.0380456,C5H8N2O2,123,C13-label-3,[M+Cl]-,Pyroglutamine
+167.0414004,C5H8N2O2,123,C13-label-4,[M+Cl]-,Pyroglutamine
+168.0447553,C5H8N2O2,123,C13-label-5,[M+Cl]-,Pyroglutamine
+164.0119981,C5H7NO3,124,C12 PARENT,[M+Cl]-,Oxoproline
+165.0153529,C5H7NO3,124,C13-label-1,[M+Cl]-,Oxoproline
+166.0187078,C5H7NO3,124,C13-label-2,[M+Cl]-,Oxoproline
+167.0220626,C5H7NO3,124,C13-label-3,[M+Cl]-,Oxoproline
+168.0254174,C5H7NO3,124,C13-label-4,[M+Cl]-,Oxoproline
+169.0287723,C5H7NO3,124,C13-label-5,[M+Cl]-,Oxoproline
+166.0276481,C5H9NO3,125,C12 PARENT,[M+Cl]-,Hydroxyproline
+167.0310029,C5H9NO3,125,C13-label-1,[M+Cl]-,Hydroxyproline
+168.0343578,C5H9NO3,125,C13-label-2,[M+Cl]-,Hydroxyproline
+169.0377126,C5H9NO3,125,C13-label-3,[M+Cl]-,Hydroxyproline
+170.0410674,C5H9NO3,125,C13-label-4,[M+Cl]-,Hydroxyproline
+171.0444223,C5H9NO3,125,C13-label-5,[M+Cl]-,Hydroxyproline
+167.0592811,C5H12N2O2,126,C12 PARENT,[M+Cl]-,Ornithine
+168.0626359,C5H12N2O2,126,C13-label-1,[M+Cl]-,Ornithine
+169.0659908,C5H12N2O2,126,C13-label-2,[M+Cl]-,Ornithine
+170.0693456,C5H12N2O2,126,C13-label-3,[M+Cl]-,Ornithine
+171.0727004,C5H12N2O2,126,C13-label-4,[M+Cl]-,Ornithine
+172.0760553,C5H12N2O2,126,C13-label-5,[M+Cl]-,Ornithine
+168.0069141,C4H7NO4,127,C12 PARENT,[M+Cl]-,Aspartate
+169.0102689,C4H7NO4,127,C13-label-1,[M+Cl]-,Aspartate
+170.0136238,C4H7NO4,127,C13-label-2,[M+Cl]-,Aspartate
+171.0169786,C4H7NO4,127,C13-label-3,[M+Cl]-,Aspartate
+172.0203334,C4H7NO4,127,C13-label-4,[M+Cl]-,Aspartate
+168.9909311,C4H6O5,128,C12 PARENT,[M+Cl]-,Malate
+169.9942859,C4H6O5,128,C13-label-1,[M+Cl]-,Malate
+170.9976408,C4H6O5,128,C13-label-2,[M+Cl]-,Malate
+172.0009956,C4H6O5,128,C13-label-3,[M+Cl]-,Malate
+173.0043504,C4H6O5,128,C13-label-4,[M+Cl]-,Malate
+181.0273151,C6H10O4,129,C12 PARENT,[M+Cl]-,Dimethyl succinate
+182.0306699,C6H10O4,129,C13-label-1,[M+Cl]-,Dimethyl succinate
+183.0340248,C6H10O4,129,C13-label-2,[M+Cl]-,Dimethyl succinate
+184.0373796,C6H10O4,129,C13-label-3,[M+Cl]-,Dimethyl succinate
+185.0407344,C6H10O4,129,C13-label-4,[M+Cl]-,Dimethyl succinate
+186.0440893,C6H10O4,129,C13-label-5,[M+Cl]-,Dimethyl succinate
+187.0474441,C6H10O4,129,C13-label-6,[M+Cl]-,Dimethyl succinate
+181.0385471,C5H10N2O3,130,C12 PARENT,[M+Cl]-,Glutamine
+182.0419019,C5H10N2O3,130,C13-label-1,[M+Cl]-,Glutamine
+183.0452568,C5H10N2O3,130,C13-label-2,[M+Cl]-,Glutamine
+184.0486116,C5H10N2O3,130,C13-label-3,[M+Cl]-,Glutamine
+185.0519664,C5H10N2O3,130,C13-label-4,[M+Cl]-,Glutamine
+186.0553213,C5H10N2O3,130,C13-label-5,[M+Cl]-,Glutamine
+182.0225641,C5H9NO4,131,C12 PARENT,[M+Cl]-,Glutamate
+183.0259189,C5H9NO4,131,C13-label-1,[M+Cl]-,Glutamate
+184.0292738,C5H9NO4,131,C13-label-2,[M+Cl]-,Glutamate
+185.0326286,C5H9NO4,131,C13-label-3,[M+Cl]-,Glutamate
+186.0359834,C5H9NO4,131,C13-label-4,[M+Cl]-,Glutamate
+187.0393383,C5H9NO4,131,C13-label-5,[M+Cl]-,Glutamate
+187.0028291,C5H4N4O2,132,C12 PARENT,[M+Cl]-,Xanthine
+188.0061839,C5H4N4O2,132,C13-label-1,[M+Cl]-,Xanthine
+189.0095388,C5H4N4O2,132,C13-label-2,[M+Cl]-,Xanthine
+190.0128936,C5H4N4O2,132,C13-label-3,[M+Cl]-,Xanthine
+191.0162484,C5H4N4O2,132,C13-label-4,[M+Cl]-,Xanthine
+192.0196033,C5H4N4O2,132,C13-label-5,[M+Cl]-,Xanthine
+190.0388801,C6H9N3O2,133,C12 PARENT,[M+Cl]-,Histidine
+191.0422349,C6H9N3O2,133,C13-label-1,[M+Cl]-,Histidine
+192.0455898,C6H9N3O2,133,C13-label-2,[M+Cl]-,Histidine
+193.0489446,C6H9N3O2,133,C13-label-3,[M+Cl]-,Histidine
+194.0522994,C6H9N3O2,133,C13-label-4,[M+Cl]-,Histidine
+195.0556543,C6H9N3O2,133,C13-label-5,[M+Cl]-,Histidine
+196.0590091,C6H9N3O2,133,C13-label-6,[M+Cl]-,Histidine
+209.0334631,C6H10N2O4,134,C12 PARENT,[M+Cl]-,N-Acetylasparagine
+210.0368179,C6H10N2O4,134,C13-label-1,[M+Cl]-,N-Acetylasparagine
+211.0401728,C6H10N2O4,134,C13-label-2,[M+Cl]-,N-Acetylasparagine
+212.0435276,C6H10N2O4,134,C13-label-3,[M+Cl]-,N-Acetylasparagine
+213.0468824,C6H10N2O4,134,C13-label-4,[M+Cl]-,N-Acetylasparagine
+214.0502373,C6H10N2O4,134,C13-label-5,[M+Cl]-,N-Acetylasparagine
+215.0535921,C6H10N2O4,134,C13-label-6,[M+Cl]-,N-Acetylasparagine
+138.9803651,C3H4O4,135,C12 PARENT,[M+Cl]-,Malonic acid
+139.9837199,C3H4O4,135,C13-label-1,[M+Cl]-,Malonic acid
+140.9870748,C3H4O4,135,C13-label-2,[M+Cl]-,Malonic acid
+141.9904296,C3H4O4,135,C13-label-3,[M+Cl]-,Malonic acid
+206.9830836,C3H9O6P,136,C12 PARENT,[M+Cl]-,Glycerol 3-phosphate
+207.9864384,C3H9O6P,136,C13-label-1,[M+Cl]-,Glycerol 3-phosphate
+208.9897933,C3H9O6P,136,C13-label-2,[M+Cl]-,Glycerol 3-phosphate
+209.9931481,C3H9O6P,136,C13-label-3,[M+Cl]-,Glycerol 3-phosphate
+210.0650961,C6H13N3O3,137,C12 PARENT,[M+Cl]-,Citrulline
+211.0684509,C6H13N3O3,137,C13-label-1,[M+Cl]-,Citrulline
+212.0718058,C6H13N3O3,137,C13-label-2,[M+Cl]-,Citrulline
+213.0751606,C6H13N3O3,137,C13-label-3,[M+Cl]-,Citrulline
+214.0785154,C6H13N3O3,137,C13-label-4,[M+Cl]-,Citrulline
+215.0818703,C6H13N3O3,137,C13-label-5,[M+Cl]-,Citrulline
+216.0852251,C6H13N3O3,137,C13-label-6,[M+Cl]-,Citrulline
+213.9946348,C5H9NO4S,138,C12 PARENT,[M+Cl]-,Carboxymethyl-cysteine
+214.9979896,C5H9NO4S,138,C13-label-1,[M+Cl]-,Carboxymethyl-cysteine
+216.0013445,C5H9NO4S,138,C13-label-2,[M+Cl]-,Carboxymethyl-cysteine
+217.0046993,C5H9NO4S,138,C13-label-3,[M+Cl]-,Carboxymethyl-cysteine
+218.0080541,C5H9NO4S,138,C13-label-4,[M+Cl]-,Carboxymethyl-cysteine
+219.011409,C5H9NO4S,138,C13-label-5,[M+Cl]-,Carboxymethyl-cysteine
+234.9837358,C8H8O4S,139,C12 PARENT,[M+Cl]-,Vinylphenol sulfate
+235.9870906,C8H8O4S,139,C13-label-1,[M+Cl]-,Vinylphenol sulfate
+236.9904455,C8H8O4S,139,C13-label-2,[M+Cl]-,Vinylphenol sulfate
+237.9938003,C8H8O4S,139,C13-label-3,[M+Cl]-,Vinylphenol sulfate
+238.9971551,C8H8O4S,139,C13-label-4,[M+Cl]-,Vinylphenol sulfate
+240.00051,C8H8O4S,139,C13-label-5,[M+Cl]-,Vinylphenol sulfate
+241.0038648,C8H8O4S,139,C13-label-6,[M+Cl]-,Vinylphenol sulfate
+242.0072196,C8H8O4S,139,C13-label-7,[M+Cl]-,Vinylphenol sulfate
+243.0105745,C8H8O4S,139,C13-label-8,[M+Cl]-,Vinylphenol sulfate
+217.0484471,C6H14O6,140,C12 PARENT,[M+Cl]-,Mannitol
+218.0518019,C6H14O6,140,C13-label-1,[M+Cl]-,Mannitol
+219.0551568,C6H14O6,140,C13-label-2,[M+Cl]-,Mannitol
+220.0585116,C6H14O6,140,C13-label-3,[M+Cl]-,Mannitol
+221.0618664,C6H14O6,140,C13-label-4,[M+Cl]-,Mannitol
+222.0652213,C6H14O6,140,C13-label-5,[M+Cl]-,Mannitol
+223.0685761,C6H14O6,140,C13-label-6,[M+Cl]-,Mannitol
+223.0167491,C11H8O3,141,C12 PARENT,[M+Cl]-,Hydroxy-naphthoic acid
+224.0201039,C11H8O3,141,C13-label-1,[M+Cl]-,Hydroxy-naphthoic acid
+225.0234588,C11H8O3,141,C13-label-2,[M+Cl]-,Hydroxy-naphthoic acid
+226.0268136,C11H8O3,141,C13-label-3,[M+Cl]-,Hydroxy-naphthoic acid
+227.0301684,C11H8O3,141,C13-label-4,[M+Cl]-,Hydroxy-naphthoic acid
+228.0335233,C11H8O3,141,C13-label-5,[M+Cl]-,Hydroxy-naphthoic acid
+229.0368781,C11H8O3,141,C13-label-6,[M+Cl]-,Hydroxy-naphthoic acid
+230.0402329,C11H8O3,141,C13-label-7,[M+Cl]-,Hydroxy-naphthoic acid
+231.0435878,C11H8O3,141,C13-label-8,[M+Cl]-,Hydroxy-naphthoic acid
+223.0491131,C7H12N2O4,142,C12 PARENT,[M+Cl]-,N-Acetyl-glutamine
+224.0524679,C7H12N2O4,142,C13-label-1,[M+Cl]-,N-Acetyl-glutamine
+225.0558228,C7H12N2O4,142,C13-label-2,[M+Cl]-,N-Acetyl-glutamine
+226.0591776,C7H12N2O4,142,C13-label-3,[M+Cl]-,N-Acetyl-glutamine
+227.0625324,C7H12N2O4,142,C13-label-4,[M+Cl]-,N-Acetyl-glutamine
+228.0658873,C7H12N2O4,142,C13-label-5,[M+Cl]-,N-Acetyl-glutamine
+229.0692421,C7H12N2O4,142,C13-label-6,[M+Cl]-,N-Acetyl-glutamine
+230.0725969,C7H12N2O4,142,C13-label-7,[M+Cl]-,N-Acetyl-glutamine
+224.0331301,C7H11NO5,143,C12 PARENT,[M+Cl]-,Acetyl-glutamate
+225.0364849,C7H11NO5,143,C13-label-1,[M+Cl]-,Acetyl-glutamate
+226.0398398,C7H11NO5,143,C13-label-2,[M+Cl]-,Acetyl-glutamate
+227.0431946,C7H11NO5,143,C13-label-3,[M+Cl]-,Acetyl-glutamate
+228.0465494,C7H11NO5,143,C13-label-4,[M+Cl]-,Acetyl-glutamate
+229.0499043,C7H11NO5,143,C13-label-5,[M+Cl]-,Acetyl-glutamate
+230.0532591,C7H11NO5,143,C13-label-6,[M+Cl]-,Acetyl-glutamate
+231.0566139,C7H11NO5,143,C13-label-7,[M+Cl]-,Acetyl-glutamate
+226.9964131,C6H8O7,144,C12 PARENT,[M+Cl]-,Citrate
+227.9997679,C6H8O7,144,C13-label-1,[M+Cl]-,Citrate
+229.0031228,C6H8O7,144,C13-label-2,[M+Cl]-,Citrate
+230.0064776,C6H8O7,144,C13-label-3,[M+Cl]-,Citrate
+231.0098324,C6H8O7,144,C13-label-4,[M+Cl]-,Citrate
+232.0131873,C6H8O7,144,C13-label-5,[M+Cl]-,Citrate
+233.0165421,C6H8O7,144,C13-label-6,[M+Cl]-,Citrate
+237.0899151,C10H18O4,145,C12 PARENT,[M+Cl]-,N-Lactoylisoleucine
+238.0932699,C10H18O4,145,C13-label-1,[M+Cl]-,N-Lactoylisoleucine
+239.0966248,C10H18O4,145,C13-label-2,[M+Cl]-,N-Lactoylisoleucine
+240.0999796,C10H18O4,145,C13-label-3,[M+Cl]-,N-Lactoylisoleucine
+241.1033344,C10H18O4,145,C13-label-4,[M+Cl]-,N-Lactoylisoleucine
+242.1066893,C10H18O4,145,C13-label-5,[M+Cl]-,N-Lactoylisoleucine
+243.1100441,C10H18O4,145,C13-label-6,[M+Cl]-,N-Lactoylisoleucine
+244.1133989,C10H18O4,145,C13-label-7,[M+Cl]-,N-Lactoylisoleucine
+245.1167538,C10H18O4,145,C13-label-8,[M+Cl]-,N-Lactoylisoleucine
+238.9964131,C7H8O7,146,C12 PARENT,[M+Cl]-,Daucic acid
+239.9997679,C7H8O7,146,C13-label-1,[M+Cl]-,Daucic acid
+241.0031228,C7H8O7,146,C13-label-2,[M+Cl]-,Daucic acid
+242.0064776,C7H8O7,146,C13-label-3,[M+Cl]-,Daucic acid
+243.0098324,C7H8O7,146,C13-label-4,[M+Cl]-,Daucic acid
+244.0131873,C7H8O7,146,C13-label-5,[M+Cl]-,Daucic acid
+245.0165421,C7H8O7,146,C13-label-6,[M+Cl]-,Daucic acid
+246.0198969,C7H8O7,146,C13-label-7,[M+Cl]-,Daucic acid
+239.0327971,C8H12O6,147,C12 PARENT,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+240.0361519,C8H12O6,147,C13-label-1,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+241.0395068,C8H12O6,147,C13-label-2,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+242.0428616,C8H12O6,147,C13-label-3,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+243.0462164,C8H12O6,147,C13-label-4,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+244.0495713,C8H12O6,147,C13-label-5,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+245.0529261,C8H12O6,147,C13-label-6,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+246.0562809,C8H12O6,147,C13-label-7,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+247.0596358,C8H12O6,147,C13-label-8,[M+Cl]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+267.0000518,C11H8N2O2S,148,C12 PARENT,[M+Cl]-,Cyclobrassinone
+268.0034066,C11H8N2O2S,148,C13-label-1,[M+Cl]-,Cyclobrassinone
+269.0067615,C11H8N2O2S,148,C13-label-2,[M+Cl]-,Cyclobrassinone
+270.0101163,C11H8N2O2S,148,C13-label-3,[M+Cl]-,Cyclobrassinone
+271.0134711,C11H8N2O2S,148,C13-label-4,[M+Cl]-,Cyclobrassinone
+272.016826,C11H8N2O2S,148,C13-label-5,[M+Cl]-,Cyclobrassinone
+273.0201808,C11H8N2O2S,148,C13-label-6,[M+Cl]-,Cyclobrassinone
+274.0235356,C11H8N2O2S,148,C13-label-7,[M+Cl]-,Cyclobrassinone
+275.0268905,C11H8N2O2S,148,C13-label-8,[M+Cl]-,Cyclobrassinone
+267.0252038,C13H12O2S,149,C12 PARENT,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+268.0285586,C13H12O2S,149,C13-label-1,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+269.0319135,C13H12O2S,149,C13-label-2,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+270.0352683,C13H12O2S,149,C13-label-3,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+271.0386231,C13H12O2S,149,C13-label-4,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+272.041978,C13H12O2S,149,C13-label-5,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+273.0453328,C13H12O2S,149,C13-label-6,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+274.0486876,C13H12O2S,149,C13-label-7,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+275.0520425,C13H12O2S,149,C13-label-8,[M+Cl]-,[(Methylthio)-pentenynyl]-furanacrolein
+254.0436961,C8H13NO6,150,C12 PARENT,[M+Cl]-,Succinyl-homoserine
+255.0470509,C8H13NO6,150,C13-label-1,[M+Cl]-,Succinyl-homoserine
+256.0504058,C8H13NO6,150,C13-label-2,[M+Cl]-,Succinyl-homoserine
+257.0537606,C8H13NO6,150,C13-label-3,[M+Cl]-,Succinyl-homoserine
+258.0571154,C8H13NO6,150,C13-label-4,[M+Cl]-,Succinyl-homoserine
+259.0604703,C8H13NO6,150,C13-label-5,[M+Cl]-,Succinyl-homoserine
+260.0638251,C8H13NO6,150,C13-label-6,[M+Cl]-,Succinyl-homoserine
+261.0671799,C8H13NO6,150,C13-label-7,[M+Cl]-,Succinyl-homoserine
+262.0705348,C8H13NO6,150,C13-label-8,[M+Cl]-,Succinyl-homoserine
+256.0593461,C8H15NO6,151,C12 PARENT,[M+Cl]-,N-Acetyl-glucosamine
+257.0627009,C8H15NO6,151,C13-label-1,[M+Cl]-,N-Acetyl-glucosamine
+258.0660558,C8H15NO6,151,C13-label-2,[M+Cl]-,N-Acetyl-glucosamine
+259.0694106,C8H15NO6,151,C13-label-3,[M+Cl]-,N-Acetyl-glucosamine
+260.0727654,C8H15NO6,151,C13-label-4,[M+Cl]-,N-Acetyl-glucosamine
+261.0761203,C8H15NO6,151,C13-label-5,[M+Cl]-,N-Acetyl-glucosamine
+262.0794751,C8H15NO6,151,C13-label-6,[M+Cl]-,N-Acetyl-glucosamine
+263.0828299,C8H15NO6,151,C13-label-7,[M+Cl]-,N-Acetyl-glucosamine
+264.0861848,C8H15NO6,151,C13-label-8,[M+Cl]-,N-Acetyl-glucosamine
+261.1626831,C14H26O2,152,C12 PARENT,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+262.1660379,C14H26O2,152,C13-label-1,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+263.1693928,C14H26O2,152,C13-label-2,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+264.1727476,C14H26O2,152,C13-label-3,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+265.1761024,C14H26O2,152,C13-label-4,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+266.1794573,C14H26O2,152,C13-label-5,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+267.1828121,C14H26O2,152,C13-label-6,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+268.1861669,C14H26O2,152,C13-label-7,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+269.1895218,C14H26O2,152,C13-label-8,[M+Cl]-,C14:1 FA (Tetradecenoic acid)
+261.9888986,C5H10NO7P,153,C12 PARENT,[M+Cl]-,Glutamic acid 5-phosphate
+262.9922534,C5H10NO7P,153,C13-label-1,[M+Cl]-,Glutamic acid 5-phosphate
+263.9956083,C5H10NO7P,153,C13-label-2,[M+Cl]-,Glutamic acid 5-phosphate
+264.9989631,C5H10NO7P,153,C13-label-3,[M+Cl]-,Glutamic acid 5-phosphate
+266.0023179,C5H10NO7P,153,C13-label-4,[M+Cl]-,Glutamic acid 5-phosphate
+267.0056728,C5H10NO7P,153,C13-label-5,[M+Cl]-,Glutamic acid 5-phosphate
+263.0804131,C10H16N2O4,154,C12 PARENT,[M+Cl]-,Pyroglutamylvaline
+264.0837679,C10H16N2O4,154,C13-label-1,[M+Cl]-,Pyroglutamylvaline
+265.0871228,C10H16N2O4,154,C13-label-2,[M+Cl]-,Pyroglutamylvaline
+266.0904776,C10H16N2O4,154,C13-label-3,[M+Cl]-,Pyroglutamylvaline
+267.0938324,C10H16N2O4,154,C13-label-4,[M+Cl]-,Pyroglutamylvaline
+268.0971873,C10H16N2O4,154,C13-label-5,[M+Cl]-,Pyroglutamylvaline
+269.1005421,C10H16N2O4,154,C13-label-6,[M+Cl]-,Pyroglutamylvaline
+270.1038969,C10H16N2O4,154,C13-label-7,[M+Cl]-,Pyroglutamylvaline
+271.1072518,C10H16N2O4,154,C13-label-8,[M+Cl]-,Pyroglutamylvaline
+263.1783331,C14H28O2,155,C12 PARENT,[M+Cl]-,C14:0 FA(Myristic acid)
+264.1816879,C14H28O2,155,C13-label-1,[M+Cl]-,C14:0 FA(Myristic acid)
+265.1850428,C14H28O2,155,C13-label-2,[M+Cl]-,C14:0 FA(Myristic acid)
+266.1883976,C14H28O2,155,C13-label-3,[M+Cl]-,C14:0 FA(Myristic acid)
+267.1917524,C14H28O2,155,C13-label-4,[M+Cl]-,C14:0 FA(Myristic acid)
+268.1951073,C14H28O2,155,C13-label-5,[M+Cl]-,C14:0 FA(Myristic acid)
+269.1984621,C14H28O2,155,C13-label-6,[M+Cl]-,C14:0 FA(Myristic acid)
+270.2018169,C14H28O2,155,C13-label-7,[M+Cl]-,C14:0 FA(Myristic acid)
+271.2051718,C14H28O2,155,C13-label-8,[M+Cl]-,C14:0 FA(Myristic acid)
+283.9861351,C4H13NO7P2,156,C12 PARENT,[M+Cl]-,Alendronic acid
+284.9894899,C4H13NO7P2,156,C13-label-1,[M+Cl]-,Alendronic acid
+285.9928448,C4H13NO7P2,156,C13-label-2,[M+Cl]-,Alendronic acid
+286.9961996,C4H13NO7P2,156,C13-label-3,[M+Cl]-,Alendronic acid
+287.9995544,C4H13NO7P2,156,C13-label-4,[M+Cl]-,Alendronic acid
+284.0266008,C11H11N3O2S,157,C12 PARENT,[M+Cl]-,Sulfapyridine
+285.0299556,C11H11N3O2S,157,C13-label-1,[M+Cl]-,Sulfapyridine
+286.0333105,C11H11N3O2S,157,C13-label-2,[M+Cl]-,Sulfapyridine
+287.0366653,C11H11N3O2S,157,C13-label-3,[M+Cl]-,Sulfapyridine
+288.0400201,C11H11N3O2S,157,C13-label-4,[M+Cl]-,Sulfapyridine
+289.043375,C11H11N3O2S,157,C13-label-5,[M+Cl]-,Sulfapyridine
+290.0467298,C11H11N3O2S,157,C13-label-6,[M+Cl]-,Sulfapyridine
+291.0500846,C11H11N3O2S,157,C13-label-7,[M+Cl]-,Sulfapyridine
+292.0534395,C11H11N3O2S,157,C13-label-8,[M+Cl]-,Sulfapyridine
+272.0001168,C7H11NO6S,158,C12 PARENT,[M+Cl]-,Cysteinosuccinic acid
+273.0034716,C7H11NO6S,158,C13-label-1,[M+Cl]-,Cysteinosuccinic acid
+274.0068265,C7H11NO6S,158,C13-label-2,[M+Cl]-,Cysteinosuccinic acid
+275.0101813,C7H11NO6S,158,C13-label-3,[M+Cl]-,Cysteinosuccinic acid
+276.0135361,C7H11NO6S,158,C13-label-4,[M+Cl]-,Cysteinosuccinic acid
+277.016891,C7H11NO6S,158,C13-label-5,[M+Cl]-,Cysteinosuccinic acid
+278.0202458,C7H11NO6S,158,C13-label-6,[M+Cl]-,Cysteinosuccinic acid
+279.0236006,C7H11NO6S,158,C13-label-7,[M+Cl]-,Cysteinosuccinic acid
+273.1626831,C15H26O2,159,C12 PARENT,[M+Cl]-,Pentadecadienoic acid
+274.1660379,C15H26O2,159,C13-label-1,[M+Cl]-,Pentadecadienoic acid
+275.1693928,C15H26O2,159,C13-label-2,[M+Cl]-,Pentadecadienoic acid
+276.1727476,C15H26O2,159,C13-label-3,[M+Cl]-,Pentadecadienoic acid
+277.1761024,C15H26O2,159,C13-label-4,[M+Cl]-,Pentadecadienoic acid
+278.1794573,C15H26O2,159,C13-label-5,[M+Cl]-,Pentadecadienoic acid
+279.1828121,C15H26O2,159,C13-label-6,[M+Cl]-,Pentadecadienoic acid
+280.1861669,C15H26O2,159,C13-label-7,[M+Cl]-,Pentadecadienoic acid
+281.1895218,C15H26O2,159,C13-label-8,[M+Cl]-,Pentadecadienoic acid
+277.0960631,C11H18N2O4,160,C12 PARENT,[M+Cl]-,Pyroglutamylleucine
+278.0994179,C11H18N2O4,160,C13-label-1,[M+Cl]-,Pyroglutamylleucine
+279.1027728,C11H18N2O4,160,C13-label-2,[M+Cl]-,Pyroglutamylleucine
+280.1061276,C11H18N2O4,160,C13-label-3,[M+Cl]-,Pyroglutamylleucine
+281.1094824,C11H18N2O4,160,C13-label-4,[M+Cl]-,Pyroglutamylleucine
+282.1128373,C11H18N2O4,160,C13-label-5,[M+Cl]-,Pyroglutamylleucine
+283.1161921,C11H18N2O4,160,C13-label-6,[M+Cl]-,Pyroglutamylleucine
+284.1195469,C11H18N2O4,160,C13-label-7,[M+Cl]-,Pyroglutamylleucine
+285.1229018,C11H18N2O4,160,C13-label-8,[M+Cl]-,Pyroglutamylleucine
+278.1164641,C12H21NO4,161,C12 PARENT,[M+Cl]-,Tiglylcarnitine
+279.1198189,C12H21NO4,161,C13-label-1,[M+Cl]-,Tiglylcarnitine
+280.1231738,C12H21NO4,161,C13-label-2,[M+Cl]-,Tiglylcarnitine
+281.1265286,C12H21NO4,161,C13-label-3,[M+Cl]-,Tiglylcarnitine
+282.1298834,C12H21NO4,161,C13-label-4,[M+Cl]-,Tiglylcarnitine
+283.1332383,C12H21NO4,161,C13-label-5,[M+Cl]-,Tiglylcarnitine
+284.1365931,C12H21NO4,161,C13-label-6,[M+Cl]-,Tiglylcarnitine
+285.1399479,C12H21NO4,161,C13-label-7,[M+Cl]-,Tiglylcarnitine
+286.1433028,C12H21NO4,161,C13-label-8,[M+Cl]-,Tiglylcarnitine
+279.0389451,C9H12N2O6,162,C12 PARENT,[M+Cl]-,Uridine
+280.0422999,C9H12N2O6,162,C13-label-1,[M+Cl]-,Uridine
+281.0456548,C9H12N2O6,162,C13-label-2,[M+Cl]-,Uridine
+282.0490096,C9H12N2O6,162,C13-label-3,[M+Cl]-,Uridine
+283.0523644,C9H12N2O6,162,C13-label-4,[M+Cl]-,Uridine
+284.0557193,C9H12N2O6,162,C13-label-5,[M+Cl]-,Uridine
+285.0590741,C9H12N2O6,162,C13-label-6,[M+Cl]-,Uridine
+286.0624289,C9H12N2O6,162,C13-label-7,[M+Cl]-,Uridine
+287.0657838,C9H12N2O6,162,C13-label-8,[M+Cl]-,Uridine
+279.1732491,C14H28O3,163,C12 PARENT,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+280.1766039,C14H28O3,163,C13-label-1,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+281.1799588,C14H28O3,163,C13-label-2,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+282.1833136,C14H28O3,163,C13-label-3,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+283.1866684,C14H28O3,163,C13-label-4,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+284.1900233,C14H28O3,163,C13-label-5,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+285.1933781,C14H28O3,163,C13-label-6,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+286.1967329,C14H28O3,163,C13-label-7,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+287.2000878,C14H28O3,163,C13-label-8,[M+Cl]-,"C14:0,OH FA(Hydroxymyristic acid)"
+280.9752361,C5H12O7P2,164,C12 PARENT,[M+Cl]-,Dimethylallylpyrophosphate
+281.9785909,C5H12O7P2,164,C13-label-1,[M+Cl]-,Dimethylallylpyrophosphate
+282.9819458,C5H12O7P2,164,C13-label-2,[M+Cl]-,Dimethylallylpyrophosphate
+283.9853006,C5H12O7P2,164,C13-label-3,[M+Cl]-,Dimethylallylpyrophosphate
+284.9886554,C5H12O7P2,164,C13-label-4,[M+Cl]-,Dimethylallylpyrophosphate
+285.9920103,C5H12O7P2,164,C13-label-5,[M+Cl]-,Dimethylallylpyrophosphate
+281.0909791,C10H18N2O5,165,C12 PARENT,[M+Cl]-,Glutamylvaline
+282.0943339,C10H18N2O5,165,C13-label-1,[M+Cl]-,Glutamylvaline
+283.0976888,C10H18N2O5,165,C13-label-2,[M+Cl]-,Glutamylvaline
+284.1010436,C10H18N2O5,165,C13-label-3,[M+Cl]-,Glutamylvaline
+285.1043984,C10H18N2O5,165,C13-label-4,[M+Cl]-,Glutamylvaline
+286.1077533,C10H18N2O5,165,C13-label-5,[M+Cl]-,Glutamylvaline
+287.1111081,C10H18N2O5,165,C13-label-6,[M+Cl]-,Glutamylvaline
+288.1144629,C10H18N2O5,165,C13-label-7,[M+Cl]-,Glutamylvaline
+289.1178178,C10H18N2O5,165,C13-label-8,[M+Cl]-,Glutamylvaline
+286.0851641,C13H17NO4,166,C12 PARENT,[M+Cl]-,Acetyl-tyrosine ethyl ester
+287.0885189,C13H17NO4,166,C13-label-1,[M+Cl]-,Acetyl-tyrosine ethyl ester
+288.0918738,C13H17NO4,166,C13-label-2,[M+Cl]-,Acetyl-tyrosine ethyl ester
+289.0952286,C13H17NO4,166,C13-label-3,[M+Cl]-,Acetyl-tyrosine ethyl ester
+290.0985834,C13H17NO4,166,C13-label-4,[M+Cl]-,Acetyl-tyrosine ethyl ester
+291.1019383,C13H17NO4,166,C13-label-5,[M+Cl]-,Acetyl-tyrosine ethyl ester
+292.1052931,C13H17NO4,166,C13-label-6,[M+Cl]-,Acetyl-tyrosine ethyl ester
+293.1086479,C13H17NO4,166,C13-label-7,[M+Cl]-,Acetyl-tyrosine ethyl ester
+294.1120028,C13H17NO4,166,C13-label-8,[M+Cl]-,Acetyl-tyrosine ethyl ester
+289.1939831,C16H30O2,167,C12 PARENT,[M+Cl]-,Hexadecenoic acid
+290.1973379,C16H30O2,167,C13-label-1,[M+Cl]-,Hexadecenoic acid
+291.2006928,C16H30O2,167,C13-label-2,[M+Cl]-,Hexadecenoic acid
+292.2040476,C16H30O2,167,C13-label-3,[M+Cl]-,Hexadecenoic acid
+293.2074024,C16H30O2,167,C13-label-4,[M+Cl]-,Hexadecenoic acid
+294.2107573,C16H30O2,167,C13-label-5,[M+Cl]-,Hexadecenoic acid
+295.2141121,C16H30O2,167,C13-label-6,[M+Cl]-,Hexadecenoic acid
+296.2174669,C16H30O2,167,C13-label-7,[M+Cl]-,Hexadecenoic acid
+297.2208218,C16H30O2,167,C13-label-8,[M+Cl]-,Hexadecenoic acid
+291.2096331,C16H32O2,168,C12 PARENT,[M+Cl]-,C16:0 FA (Palmitic acid)
+292.2129879,C16H32O2,168,C13-label-1,[M+Cl]-,C16:0 FA (Palmitic acid)
+293.2163428,C16H32O2,168,C13-label-2,[M+Cl]-,C16:0 FA (Palmitic acid)
+294.2196976,C16H32O2,168,C13-label-3,[M+Cl]-,C16:0 FA (Palmitic acid)
+295.2230524,C16H32O2,168,C13-label-4,[M+Cl]-,C16:0 FA (Palmitic acid)
+296.2264073,C16H32O2,168,C13-label-5,[M+Cl]-,C16:0 FA (Palmitic acid)
+297.2297621,C16H32O2,168,C13-label-6,[M+Cl]-,C16:0 FA (Palmitic acid)
+298.2331169,C16H32O2,168,C13-label-7,[M+Cl]-,C16:0 FA (Palmitic acid)
+299.2364718,C16H32O2,168,C13-label-8,[M+Cl]-,C16:0 FA (Palmitic acid)
+293.0545951,C10H14N2O6,169,C12 PARENT,[M+Cl]-,Pyroglutamylglutamic acid
+294.0579499,C10H14N2O6,169,C13-label-1,[M+Cl]-,Pyroglutamylglutamic acid
+295.0613048,C10H14N2O6,169,C13-label-2,[M+Cl]-,Pyroglutamylglutamic acid
+296.0646596,C10H14N2O6,169,C13-label-3,[M+Cl]-,Pyroglutamylglutamic acid
+297.0680144,C10H14N2O6,169,C13-label-4,[M+Cl]-,Pyroglutamylglutamic acid
+298.0713693,C10H14N2O6,169,C13-label-5,[M+Cl]-,Pyroglutamylglutamic acid
+299.0747241,C10H14N2O6,169,C13-label-6,[M+Cl]-,Pyroglutamylglutamic acid
+300.0780789,C10H14N2O6,169,C13-label-7,[M+Cl]-,Pyroglutamylglutamic acid
+301.0814338,C10H14N2O6,169,C13-label-8,[M+Cl]-,Pyroglutamylglutamic acid
+234.0174801,C8H9NO5,170,C12 PARENT,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+235.0208349,C8H9NO5,170,C13-label-1,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+236.0241898,C8H9NO5,170,C13-label-2,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+237.0275446,C8H9NO5,170,C13-label-3,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+238.0308994,C8H9NO5,170,C13-label-4,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+239.0342543,C8H9NO5,170,C13-label-5,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+240.0376091,C8H9NO5,170,C13-label-6,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+241.0409639,C8H9NO5,170,C13-label-7,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+242.0443188,C8H9NO5,170,C13-label-8,[M+Cl]-,(Hydroxymethyl-furoyl)glycine
+295.1066291,C11H20N2O5,171,C12 PARENT,[M+Cl]-,Glutamylleucine
+296.1099839,C11H20N2O5,171,C13-label-1,[M+Cl]-,Glutamylleucine
+297.1133388,C11H20N2O5,171,C13-label-2,[M+Cl]-,Glutamylleucine
+298.1166936,C11H20N2O5,171,C13-label-3,[M+Cl]-,Glutamylleucine
+299.1200484,C11H20N2O5,171,C13-label-4,[M+Cl]-,Glutamylleucine
+300.1234033,C11H20N2O5,171,C13-label-5,[M+Cl]-,Glutamylleucine
+301.1267581,C11H20N2O5,171,C13-label-6,[M+Cl]-,Glutamylleucine
+302.1301129,C11H20N2O5,171,C13-label-7,[M+Cl]-,Glutamylleucine
+303.1334678,C11H20N2O5,171,C13-label-8,[M+Cl]-,Glutamylleucine
+296.0001168,C9H11NO6S,172,C12 PARENT,[M+Cl]-,Methoxyacetaminophen sulfate
+297.0034716,C9H11NO6S,172,C13-label-1,[M+Cl]-,Methoxyacetaminophen sulfate
+298.0068265,C9H11NO6S,172,C13-label-2,[M+Cl]-,Methoxyacetaminophen sulfate
+299.0101813,C9H11NO6S,172,C13-label-3,[M+Cl]-,Methoxyacetaminophen sulfate
+300.0135361,C9H11NO6S,172,C13-label-4,[M+Cl]-,Methoxyacetaminophen sulfate
+301.016891,C9H11NO6S,172,C13-label-5,[M+Cl]-,Methoxyacetaminophen sulfate
+302.0202458,C9H11NO6S,172,C13-label-6,[M+Cl]-,Methoxyacetaminophen sulfate
+303.0236006,C9H11NO6S,172,C13-label-7,[M+Cl]-,Methoxyacetaminophen sulfate
+304.0269555,C9H11NO6S,172,C13-label-8,[M+Cl]-,Methoxyacetaminophen sulfate
+299.0903131,C11H20O7,173,C12 PARENT,[M+Cl]-,Ilicifolinoside A
+300.0936679,C11H20O7,173,C13-label-1,[M+Cl]-,Ilicifolinoside A
+301.0970228,C11H20O7,173,C13-label-2,[M+Cl]-,Ilicifolinoside A
+302.1003776,C11H20O7,173,C13-label-3,[M+Cl]-,Ilicifolinoside A
+303.1037324,C11H20O7,173,C13-label-4,[M+Cl]-,Ilicifolinoside A
+304.1070873,C11H20O7,173,C13-label-5,[M+Cl]-,Ilicifolinoside A
+305.1104421,C11H20O7,173,C13-label-6,[M+Cl]-,Ilicifolinoside A
+306.1137969,C11H20O7,173,C13-label-7,[M+Cl]-,Ilicifolinoside A
+307.1171518,C11H20O7,173,C13-label-8,[M+Cl]-,Ilicifolinoside A
+303.0501771,C10H12N4O5,174,C12 PARENT,[M+Cl]-,Inosine
+304.0535319,C10H12N4O5,174,C13-label-1,[M+Cl]-,Inosine
+305.0568868,C10H12N4O5,174,C13-label-2,[M+Cl]-,Inosine
+306.0602416,C10H12N4O5,174,C13-label-3,[M+Cl]-,Inosine
+307.0635964,C10H12N4O5,174,C13-label-4,[M+Cl]-,Inosine
+308.0669513,C10H12N4O5,174,C13-label-5,[M+Cl]-,Inosine
+309.0703061,C10H12N4O5,174,C13-label-6,[M+Cl]-,Inosine
+310.0736609,C10H12N4O5,174,C13-label-7,[M+Cl]-,Inosine
+311.0770158,C10H12N4O5,174,C13-label-8,[M+Cl]-,Inosine
+325.0096976,C7H15O10P,175,C12 PARENT,[M+Cl]-,Sedoheptulose 7-phosphate
+326.0130524,C7H15O10P,175,C13-label-1,[M+Cl]-,Sedoheptulose 7-phosphate
+327.0164073,C7H15O10P,175,C13-label-2,[M+Cl]-,Sedoheptulose 7-phosphate
+328.0197621,C7H15O10P,175,C13-label-3,[M+Cl]-,Sedoheptulose 7-phosphate
+329.0231169,C7H15O10P,175,C13-label-4,[M+Cl]-,Sedoheptulose 7-phosphate
+330.0264718,C7H15O10P,175,C13-label-5,[M+Cl]-,Sedoheptulose 7-phosphate
+331.0298266,C7H15O10P,175,C13-label-6,[M+Cl]-,Sedoheptulose 7-phosphate
+332.0331814,C7H15O10P,175,C13-label-7,[M+Cl]-,Sedoheptulose 7-phosphate
+326.0024373,C10H14NO5PS,176,C12 PARENT,[M+Cl]-,Parathion
+327.0057921,C10H14NO5PS,176,C13-label-1,[M+Cl]-,Parathion
+328.009147,C10H14NO5PS,176,C13-label-2,[M+Cl]-,Parathion
+329.0125018,C10H14NO5PS,176,C13-label-3,[M+Cl]-,Parathion
+330.0158566,C10H14NO5PS,176,C13-label-4,[M+Cl]-,Parathion
+331.0192115,C10H14NO5PS,176,C13-label-5,[M+Cl]-,Parathion
+332.0225663,C10H14NO5PS,176,C13-label-6,[M+Cl]-,Parathion
+333.0259211,C10H14NO5PS,176,C13-label-7,[M+Cl]-,Parathion
+334.029276,C10H14NO5PS,176,C13-label-8,[M+Cl]-,Parathion
+310.0811441,C10H17N3O6,177,C12 PARENT,[M+Cl]-,Glutamylglutamine
+311.0844989,C10H17N3O6,177,C13-label-1,[M+Cl]-,Glutamylglutamine
+312.0878538,C10H17N3O6,177,C13-label-2,[M+Cl]-,Glutamylglutamine
+313.0912086,C10H17N3O6,177,C13-label-3,[M+Cl]-,Glutamylglutamine
+314.0945634,C10H17N3O6,177,C13-label-4,[M+Cl]-,Glutamylglutamine
+315.0979183,C10H17N3O6,177,C13-label-5,[M+Cl]-,Glutamylglutamine
+316.1012731,C10H17N3O6,177,C13-label-6,[M+Cl]-,Glutamylglutamine
+317.1046279,C10H17N3O6,177,C13-label-7,[M+Cl]-,Glutamylglutamine
+318.1079828,C10H17N3O6,177,C13-label-8,[M+Cl]-,Glutamylglutamine
+310.9940476,C6H13O10P,178,C12 PARENT,[M+Cl]-,Phosphogluconate
+311.9974024,C6H13O10P,178,C13-label-1,[M+Cl]-,Phosphogluconate
+313.0007573,C6H13O10P,178,C13-label-2,[M+Cl]-,Phosphogluconate
+314.0041121,C6H13O10P,178,C13-label-3,[M+Cl]-,Phosphogluconate
+315.0074669,C6H13O10P,178,C13-label-4,[M+Cl]-,Phosphogluconate
+316.0108218,C6H13O10P,178,C13-label-5,[M+Cl]-,Phosphogluconate
+317.0141766,C6H13O10P,178,C13-label-6,[M+Cl]-,Phosphogluconate
+329.0190725,C13H14N2O2S2,179,C12 PARENT,[M+Cl]-,Wasalexin A
+330.0224273,C13H14N2O2S2,179,C13-label-1,[M+Cl]-,Wasalexin A
+331.0257822,C13H14N2O2S2,179,C13-label-2,[M+Cl]-,Wasalexin A
+332.029137,C13H14N2O2S2,179,C13-label-3,[M+Cl]-,Wasalexin A
+333.0324918,C13H14N2O2S2,179,C13-label-4,[M+Cl]-,Wasalexin A
+334.0358467,C13H14N2O2S2,179,C13-label-5,[M+Cl]-,Wasalexin A
+335.0392015,C13H14N2O2S2,179,C13-label-6,[M+Cl]-,Wasalexin A
+336.0425563,C13H14N2O2S2,179,C13-label-7,[M+Cl]-,Wasalexin A
+337.0459112,C13H14N2O2S2,179,C13-label-8,[M+Cl]-,Wasalexin A
+311.0651611,C10H16N2O7,180,C12 PARENT,[M+Cl]-,Glutamylglutamic acid
+312.0685159,C10H16N2O7,180,C13-label-1,[M+Cl]-,Glutamylglutamic acid
+313.0718708,C10H16N2O7,180,C13-label-2,[M+Cl]-,Glutamylglutamic acid
+314.0752256,C10H16N2O7,180,C13-label-3,[M+Cl]-,Glutamylglutamic acid
+315.0785804,C10H16N2O7,180,C13-label-4,[M+Cl]-,Glutamylglutamic acid
+316.0819353,C10H16N2O7,180,C13-label-5,[M+Cl]-,Glutamylglutamic acid
+317.0852901,C10H16N2O7,180,C13-label-6,[M+Cl]-,Glutamylglutamic acid
+318.0886449,C10H16N2O7,180,C13-label-7,[M+Cl]-,Glutamylglutamic acid
+319.0919998,C10H16N2O7,180,C13-label-8,[M+Cl]-,Glutamylglutamic acid
+315.0753291,C13H16N2O5,181,C12 PARENT,[M+Cl]-,Aspartylphenylalanine
+316.0786839,C13H16N2O5,181,C13-label-1,[M+Cl]-,Aspartylphenylalanine
+317.0820388,C13H16N2O5,181,C13-label-2,[M+Cl]-,Aspartylphenylalanine
+318.0853936,C13H16N2O5,181,C13-label-3,[M+Cl]-,Aspartylphenylalanine
+319.0887484,C13H16N2O5,181,C13-label-4,[M+Cl]-,Aspartylphenylalanine
+320.0921033,C13H16N2O5,181,C13-label-5,[M+Cl]-,Aspartylphenylalanine
+321.0954581,C13H16N2O5,181,C13-label-6,[M+Cl]-,Aspartylphenylalanine
+322.0988129,C13H16N2O5,181,C13-label-7,[M+Cl]-,Aspartylphenylalanine
+323.1021678,C13H16N2O5,181,C13-label-8,[M+Cl]-,Aspartylphenylalanine
+333.1487631,C17H22N4O,182,C12 PARENT,[M+Cl]-,Minaprine
+334.1521179,C17H22N4O,182,C13-label-1,[M+Cl]-,Minaprine
+335.1554728,C17H22N4O,182,C13-label-2,[M+Cl]-,Minaprine
+336.1588276,C17H22N4O,182,C13-label-3,[M+Cl]-,Minaprine
+337.1621824,C17H22N4O,182,C13-label-4,[M+Cl]-,Minaprine
+338.1655373,C17H22N4O,182,C13-label-5,[M+Cl]-,Minaprine
+339.1688921,C17H22N4O,182,C13-label-6,[M+Cl]-,Minaprine
+340.1722469,C17H22N4O,182,C13-label-7,[M+Cl]-,Minaprine
+341.1756018,C17H22N4O,182,C13-label-8,[M+Cl]-,Minaprine
+317.0909791,C13H18N2O5,183,C12 PARENT,[M+Cl]-,Threonyltyrosine
+318.0943339,C13H18N2O5,183,C13-label-1,[M+Cl]-,Threonyltyrosine
+319.0976888,C13H18N2O5,183,C13-label-2,[M+Cl]-,Threonyltyrosine
+320.1010436,C13H18N2O5,183,C13-label-3,[M+Cl]-,Threonyltyrosine
+321.1043984,C13H18N2O5,183,C13-label-4,[M+Cl]-,Threonyltyrosine
+322.1077533,C13H18N2O5,183,C13-label-5,[M+Cl]-,Threonyltyrosine
+323.1111081,C13H18N2O5,183,C13-label-6,[M+Cl]-,Threonyltyrosine
+324.1144629,C13H18N2O5,183,C13-label-7,[M+Cl]-,Threonyltyrosine
+325.1178178,C13H18N2O5,183,C13-label-8,[M+Cl]-,Threonyltyrosine
+319.0450931,C10H12N4O6,184,C12 PARENT,[M+Cl]-,Xanthosine
+320.0484479,C10H12N4O6,184,C13-label-1,[M+Cl]-,Xanthosine
+321.0518028,C10H12N4O6,184,C13-label-2,[M+Cl]-,Xanthosine
+322.0551576,C10H12N4O6,184,C13-label-3,[M+Cl]-,Xanthosine
+323.0585124,C10H12N4O6,184,C13-label-4,[M+Cl]-,Xanthosine
+324.0618673,C10H12N4O6,184,C13-label-5,[M+Cl]-,Xanthosine
+325.0652221,C10H12N4O6,184,C13-label-6,[M+Cl]-,Xanthosine
+326.0685769,C10H12N4O6,184,C13-label-7,[M+Cl]-,Xanthosine
+327.0719318,C10H12N4O6,184,C13-label-8,[M+Cl]-,Xanthosine
+339.0600771,C11H16N2O8,185,C12 PARENT,[M+Cl]-,N-Acetylaspartylglutamate
+340.0634319,C11H16N2O8,185,C13-label-1,[M+Cl]-,N-Acetylaspartylglutamate
+341.0667868,C11H16N2O8,185,C13-label-2,[M+Cl]-,N-Acetylaspartylglutamate
+342.0701416,C11H16N2O8,185,C13-label-3,[M+Cl]-,N-Acetylaspartylglutamate
+343.0734964,C11H16N2O8,185,C13-label-4,[M+Cl]-,N-Acetylaspartylglutamate
+344.0768513,C11H16N2O8,185,C13-label-5,[M+Cl]-,N-Acetylaspartylglutamate
+345.0802061,C11H16N2O8,185,C13-label-6,[M+Cl]-,N-Acetylaspartylglutamate
+346.0835609,C11H16N2O8,185,C13-label-7,[M+Cl]-,N-Acetylaspartylglutamate
+347.0869158,C11H16N2O8,185,C13-label-8,[M+Cl]-,N-Acetylaspartylglutamate
+264.0045486,C5H12NO7P,186,C12 PARENT,[M+Cl]-,Phosphoribosylamine
+265.0079034,C5H12NO7P,186,C13-label-1,[M+Cl]-,Phosphoribosylamine
+266.0112583,C5H12NO7P,186,C13-label-2,[M+Cl]-,Phosphoribosylamine
+267.0146131,C5H12NO7P,186,C13-label-3,[M+Cl]-,Phosphoribosylamine
+268.0179679,C5H12NO7P,186,C13-label-4,[M+Cl]-,Phosphoribosylamine
+269.0213228,C5H12NO7P,186,C13-label-5,[M+Cl]-,Phosphoribosylamine
+329.0909791,C14H18N2O5,187,C12 PARENT,[M+Cl]-,Phenylalanyl-Glutamate
+330.0943339,C14H18N2O5,187,C13-label-1,[M+Cl]-,Phenylalanyl-Glutamate
+331.0976888,C14H18N2O5,187,C13-label-2,[M+Cl]-,Phenylalanyl-Glutamate
+332.1010436,C14H18N2O5,187,C13-label-3,[M+Cl]-,Phenylalanyl-Glutamate
+333.1043984,C14H18N2O5,187,C13-label-4,[M+Cl]-,Phenylalanyl-Glutamate
+334.1077533,C14H18N2O5,187,C13-label-5,[M+Cl]-,Phenylalanyl-Glutamate
+335.1111081,C14H18N2O5,187,C13-label-6,[M+Cl]-,Phenylalanyl-Glutamate
+336.1144629,C14H18N2O5,187,C13-label-7,[M+Cl]-,Phenylalanyl-Glutamate
+337.1178178,C14H18N2O5,187,C13-label-8,[M+Cl]-,Phenylalanyl-Glutamate
+336.0256806,C8H16NO9P,188,C12 PARENT,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+337.0290354,C8H16NO9P,188,C13-label-1,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+338.0323903,C8H16NO9P,188,C13-label-2,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+339.0357451,C8H16NO9P,188,C13-label-3,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+340.0390999,C8H16NO9P,188,C13-label-4,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+341.0424548,C8H16NO9P,188,C13-label-5,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+342.0458096,C8H16NO9P,188,C13-label-6,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+343.0491644,C8H16NO9P,188,C13-label-7,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+344.0525193,C8H16NO9P,188,C13-label-8,[M+Cl]-,N-Acetyl-glucosamine 6-phosphate
+278.0549281,C9H13N3O5,189,C12 PARENT,[M+Cl]-,Cytidine
+279.0582829,C9H13N3O5,189,C13-label-1,[M+Cl]-,Cytidine
+280.0616378,C9H13N3O5,189,C13-label-2,[M+Cl]-,Cytidine
+281.0649926,C9H13N3O5,189,C13-label-3,[M+Cl]-,Cytidine
+282.0683474,C9H13N3O5,189,C13-label-4,[M+Cl]-,Cytidine
+283.0717023,C9H13N3O5,189,C13-label-5,[M+Cl]-,Cytidine
+284.0750571,C9H13N3O5,189,C13-label-6,[M+Cl]-,Cytidine
+285.0784119,C9H13N3O5,189,C13-label-7,[M+Cl]-,Cytidine
+286.0817668,C9H13N3O5,189,C13-label-8,[M+Cl]-,Cytidine
+339.2096331,C20H32O2,190,C12 PARENT,[M+Cl]-,Eicosadiynoic acid
+340.2129879,C20H32O2,190,C13-label-1,[M+Cl]-,Eicosadiynoic acid
+341.2163428,C20H32O2,190,C13-label-2,[M+Cl]-,Eicosadiynoic acid
+342.2196976,C20H32O2,190,C13-label-3,[M+Cl]-,Eicosadiynoic acid
+343.2230524,C20H32O2,190,C13-label-4,[M+Cl]-,Eicosadiynoic acid
+344.2264073,C20H32O2,190,C13-label-5,[M+Cl]-,Eicosadiynoic acid
+345.2297621,C20H32O2,190,C13-label-6,[M+Cl]-,Eicosadiynoic acid
+346.2331169,C20H32O2,190,C13-label-7,[M+Cl]-,Eicosadiynoic acid
+347.2364718,C20H32O2,190,C13-label-8,[M+Cl]-,Eicosadiynoic acid
+342.0532148,C10H17N3O6S,191,C12 PARENT,[M+Cl]-,Glutathione (reduced)
+343.0565696,C10H17N3O6S,191,C13-label-1,[M+Cl]-,Glutathione (reduced)
+344.0599245,C10H17N3O6S,191,C13-label-2,[M+Cl]-,Glutathione (reduced)
+345.0632793,C10H17N3O6S,191,C13-label-3,[M+Cl]-,Glutathione (reduced)
+346.0666341,C10H17N3O6S,191,C13-label-4,[M+Cl]-,Glutathione (reduced)
+347.069989,C10H17N3O6S,191,C13-label-5,[M+Cl]-,Glutathione (reduced)
+348.0733438,C10H17N3O6S,191,C13-label-6,[M+Cl]-,Glutathione (reduced)
+349.0766986,C10H17N3O6S,191,C13-label-7,[M+Cl]-,Glutathione (reduced)
+350.0800535,C10H17N3O6S,191,C13-label-8,[M+Cl]-,Glutathione (reduced)
+344.0753941,C11H19NO9,192,C12 PARENT,[M+Cl]-,N-Acetylneuraminic acid
+345.0787489,C11H19NO9,192,C13-label-1,[M+Cl]-,N-Acetylneuraminic acid
+346.0821038,C11H19NO9,192,C13-label-2,[M+Cl]-,N-Acetylneuraminic acid
+347.0854586,C11H19NO9,192,C13-label-3,[M+Cl]-,N-Acetylneuraminic acid
+348.0888134,C11H19NO9,192,C13-label-4,[M+Cl]-,N-Acetylneuraminic acid
+349.0921683,C11H19NO9,192,C13-label-5,[M+Cl]-,N-Acetylneuraminic acid
+350.0955231,C11H19NO9,192,C13-label-6,[M+Cl]-,N-Acetylneuraminic acid
+351.0988779,C11H19NO9,192,C13-label-7,[M+Cl]-,N-Acetylneuraminic acid
+352.1022328,C11H19NO9,192,C13-label-8,[M+Cl]-,N-Acetylneuraminic acid
+362.2103641,C18H33NO4,193,C12 PARENT,[M+Cl]-,Nitrooctadecenoic Acid
+363.2137189,C18H33NO4,193,C13-label-1,[M+Cl]-,Nitrooctadecenoic Acid
+364.2170738,C18H33NO4,193,C13-label-2,[M+Cl]-,Nitrooctadecenoic Acid
+365.2204286,C18H33NO4,193,C13-label-3,[M+Cl]-,Nitrooctadecenoic Acid
+366.2237834,C18H33NO4,193,C13-label-4,[M+Cl]-,Nitrooctadecenoic Acid
+367.2271383,C18H33NO4,193,C13-label-5,[M+Cl]-,Nitrooctadecenoic Acid
+368.2304931,C18H33NO4,193,C13-label-6,[M+Cl]-,Nitrooctadecenoic Acid
+369.2338479,C18H33NO4,193,C13-label-7,[M+Cl]-,Nitrooctadecenoic Acid
+370.2372028,C18H33NO4,193,C13-label-8,[M+Cl]-,Nitrooctadecenoic Acid
+345.0858951,C14H18N2O6,194,C12 PARENT,[M+Cl]-,Glutamyltyrosine
+346.0892499,C14H18N2O6,194,C13-label-1,[M+Cl]-,Glutamyltyrosine
+347.0926048,C14H18N2O6,194,C13-label-2,[M+Cl]-,Glutamyltyrosine
+348.0959596,C14H18N2O6,194,C13-label-3,[M+Cl]-,Glutamyltyrosine
+349.0993144,C14H18N2O6,194,C13-label-4,[M+Cl]-,Glutamyltyrosine
+350.1026693,C14H18N2O6,194,C13-label-5,[M+Cl]-,Glutamyltyrosine
+351.1060241,C14H18N2O6,194,C13-label-6,[M+Cl]-,Glutamyltyrosine
+352.1093789,C14H18N2O6,194,C13-label-7,[M+Cl]-,Glutamyltyrosine
+353.1127338,C14H18N2O6,194,C13-label-8,[M+Cl]-,Glutamyltyrosine
+295.0702451,C10H16N2O6,195,C12 PARENT,[M+Cl]-,Hydroxyprolyl-Glutamate
+296.0735999,C10H16N2O6,195,C13-label-1,[M+Cl]-,Hydroxyprolyl-Glutamate
+297.0769548,C10H16N2O6,195,C13-label-2,[M+Cl]-,Hydroxyprolyl-Glutamate
+298.0803096,C10H16N2O6,195,C13-label-3,[M+Cl]-,Hydroxyprolyl-Glutamate
+299.0836644,C10H16N2O6,195,C13-label-4,[M+Cl]-,Hydroxyprolyl-Glutamate
+300.0870193,C10H16N2O6,195,C13-label-5,[M+Cl]-,Hydroxyprolyl-Glutamate
+301.0903741,C10H16N2O6,195,C13-label-6,[M+Cl]-,Hydroxyprolyl-Glutamate
+302.0937289,C10H16N2O6,195,C13-label-7,[M+Cl]-,Hydroxyprolyl-Glutamate
+303.0970838,C10H16N2O6,195,C13-label-8,[M+Cl]-,Hydroxyprolyl-Glutamate
+355.2045491,C20H32O3,196,C12 PARENT,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+356.2079039,C20H32O3,196,C13-label-1,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+357.2112588,C20H32O3,196,C13-label-2,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+358.2146136,C20H32O3,196,C13-label-3,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+359.2179684,C20H32O3,196,C13-label-4,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+360.2213233,C20H32O3,196,C13-label-5,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+361.2246781,C20H32O3,196,C13-label-6,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+362.2280329,C20H32O3,196,C13-label-7,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+363.2313878,C20H32O3,196,C13-label-8,[M+Cl]-,Hydroxy-eicosatetraenoic acid
+357.0647631,C18H14N2O4,197,C12 PARENT,[M+Cl]-,Flazine methyl ether
+358.0681179,C18H14N2O4,197,C13-label-1,[M+Cl]-,Flazine methyl ether
+359.0714728,C18H14N2O4,197,C13-label-2,[M+Cl]-,Flazine methyl ether
+360.0748276,C18H14N2O4,197,C13-label-3,[M+Cl]-,Flazine methyl ether
+361.0781824,C18H14N2O4,197,C13-label-4,[M+Cl]-,Flazine methyl ether
+362.0815373,C18H14N2O4,197,C13-label-5,[M+Cl]-,Flazine methyl ether
+363.0848921,C18H14N2O4,197,C13-label-6,[M+Cl]-,Flazine methyl ether
+364.0882469,C18H14N2O4,197,C13-label-7,[M+Cl]-,Flazine methyl ether
+365.0916018,C18H14N2O4,197,C13-label-8,[M+Cl]-,Flazine methyl ether
+363.2096331,C22H32O2,198,C12 PARENT,[M+Cl]-,Docosahexanoic acid
+364.2129879,C22H32O2,198,C13-label-1,[M+Cl]-,Docosahexanoic acid
+365.2163428,C22H32O2,198,C13-label-2,[M+Cl]-,Docosahexanoic acid
+366.2196976,C22H32O2,198,C13-label-3,[M+Cl]-,Docosahexanoic acid
+367.2230524,C22H32O2,198,C13-label-4,[M+Cl]-,Docosahexanoic acid
+368.2264073,C22H32O2,198,C13-label-5,[M+Cl]-,Docosahexanoic acid
+369.2297621,C22H32O2,198,C13-label-6,[M+Cl]-,Docosahexanoic acid
+370.2331169,C22H32O2,198,C13-label-7,[M+Cl]-,Docosahexanoic acid
+371.2364718,C22H32O2,198,C13-label-8,[M+Cl]-,Docosahexanoic acid
+389.2100311,C20H34O5,199,C12 PARENT,[M+Cl]-,Prostaglandin F2alpha
+390.2133859,C20H34O5,199,C13-label-1,[M+Cl]-,Prostaglandin F2alpha
+391.2167408,C20H34O5,199,C13-label-2,[M+Cl]-,Prostaglandin F2alpha
+392.2200956,C20H34O5,199,C13-label-3,[M+Cl]-,Prostaglandin F2alpha
+393.2234504,C20H34O5,199,C13-label-4,[M+Cl]-,Prostaglandin F2alpha
+394.2268053,C20H34O5,199,C13-label-5,[M+Cl]-,Prostaglandin F2alpha
+395.2301601,C20H34O5,199,C13-label-6,[M+Cl]-,Prostaglandin F2alpha
+396.2335149,C20H34O5,199,C13-label-7,[M+Cl]-,Prostaglandin F2alpha
+397.2368698,C20H34O5,199,C13-label-8,[M+Cl]-,Prostaglandin F2alpha
+420.0703101,C16H19NO10,200,C12 PARENT,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+421.0736649,C16H19NO10,200,C13-label-1,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+422.0770198,C16H19NO10,200,C13-label-2,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+423.0803746,C16H19NO10,200,C13-label-3,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+424.0837294,C16H19NO10,200,C13-label-4,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+425.0870843,C16H19NO10,200,C13-label-5,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+426.0904391,C16H19NO10,200,C13-label-6,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+427.0937939,C16H19NO10,200,C13-label-7,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+428.0971488,C16H19NO10,200,C13-label-8,[M+Cl]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+405.0957951,C17H22O9,201,C12 PARENT,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+406.0991499,C17H22O9,201,C13-label-1,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+407.1025048,C17H22O9,201,C13-label-2,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+408.1058596,C17H22O9,201,C13-label-3,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+409.1092144,C17H22O9,201,C13-label-4,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+410.1125693,C17H22O9,201,C13-label-5,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+411.1159241,C17H22O9,201,C13-label-6,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+412.1192789,C17H22O9,201,C13-label-7,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+413.1226338,C17H22O9,201,C13-label-8,[M+Cl]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+425.1947791,C19H34O8,202,C12 PARENT,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+426.1981339,C19H34O8,202,C13-label-1,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+427.2014888,C19H34O8,202,C13-label-2,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+428.2048436,C19H34O8,202,C13-label-3,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+429.2081984,C19H34O8,202,C13-label-4,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+430.2115533,C19H34O8,202,C13-label-5,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+431.2149081,C19H34O8,202,C13-label-6,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+432.2182629,C19H34O8,202,C13-label-7,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+433.2216178,C19H34O8,202,C13-label-8,[M+Cl]-,Dihydro-dihydroxy-ionol 9-glucoside
+418.0771241,C14H17N5O8,203,C12 PARENT,[M+Cl]-,Succinyladenosine
+419.0804789,C14H17N5O8,203,C13-label-1,[M+Cl]-,Succinyladenosine
+420.0838338,C14H17N5O8,203,C13-label-2,[M+Cl]-,Succinyladenosine
+421.0871886,C14H17N5O8,203,C13-label-3,[M+Cl]-,Succinyladenosine
+422.0905434,C14H17N5O8,203,C13-label-4,[M+Cl]-,Succinyladenosine
+423.0938983,C14H17N5O8,203,C13-label-5,[M+Cl]-,Succinyladenosine
+424.0972531,C14H17N5O8,203,C13-label-6,[M+Cl]-,Succinyladenosine
+425.1006079,C14H17N5O8,203,C13-label-7,[M+Cl]-,Succinyladenosine
+426.1039628,C14H17N5O8,203,C13-label-8,[M+Cl]-,Succinyladenosine
+421.1998631,C20H34O7,204,C12 PARENT,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+422.2032179,C20H34O7,204,C13-label-1,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+423.2065728,C20H34O7,204,C13-label-2,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+424.2099276,C20H34O7,204,C13-label-3,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+425.2132824,C20H34O7,204,C13-label-4,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+426.2166373,C20H34O7,204,C13-label-5,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+427.2199921,C20H34O7,204,C13-label-6,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+428.2233469,C20H34O7,204,C13-label-7,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+429.2267018,C20H34O7,204,C13-label-8,[M+Cl]-,Dihydro-trihydroxy-leukotriene B4
+423.1791291,C19H32O8,205,C12 PARENT,[M+Cl]-,Dihydroroseoside
+424.1824839,C19H32O8,205,C13-label-1,[M+Cl]-,Dihydroroseoside
+425.1858388,C19H32O8,205,C13-label-2,[M+Cl]-,Dihydroroseoside
+426.1891936,C19H32O8,205,C13-label-3,[M+Cl]-,Dihydroroseoside
+427.1925484,C19H32O8,205,C13-label-4,[M+Cl]-,Dihydroroseoside
+428.1959033,C19H32O8,205,C13-label-5,[M+Cl]-,Dihydroroseoside
+429.1992581,C19H32O8,205,C13-label-6,[M+Cl]-,Dihydroroseoside
+430.2026129,C19H32O8,205,C13-label-7,[M+Cl]-,Dihydroroseoside
+431.2059678,C19H32O8,205,C13-label-8,[M+Cl]-,Dihydroroseoside
+423.2155131,C20H36O7,206,C12 PARENT,[M+Cl]-,Dihydroxyprostaglandin F1a
+424.2188679,C20H36O7,206,C13-label-1,[M+Cl]-,Dihydroxyprostaglandin F1a
+425.2222228,C20H36O7,206,C13-label-2,[M+Cl]-,Dihydroxyprostaglandin F1a
+426.2255776,C20H36O7,206,C13-label-3,[M+Cl]-,Dihydroxyprostaglandin F1a
+427.2289324,C20H36O7,206,C13-label-4,[M+Cl]-,Dihydroxyprostaglandin F1a
+428.2322873,C20H36O7,206,C13-label-5,[M+Cl]-,Dihydroxyprostaglandin F1a
+429.2356421,C20H36O7,206,C13-label-6,[M+Cl]-,Dihydroxyprostaglandin F1a
+430.2389969,C20H36O7,206,C13-label-7,[M+Cl]-,Dihydroxyprostaglandin F1a
+431.2423518,C20H36O7,206,C13-label-8,[M+Cl]-,Dihydroxyprostaglandin F1a
+462.1185921,C20H21N5O6,207,C12 PARENT,[M+Cl]-,Pemetrexed
+463.1219469,C20H21N5O6,207,C13-label-1,[M+Cl]-,Pemetrexed
+464.1253018,C20H21N5O6,207,C13-label-2,[M+Cl]-,Pemetrexed
+465.1286566,C20H21N5O6,207,C13-label-3,[M+Cl]-,Pemetrexed
+466.1320114,C20H21N5O6,207,C13-label-4,[M+Cl]-,Pemetrexed
+467.1353663,C20H21N5O6,207,C13-label-5,[M+Cl]-,Pemetrexed
+468.1387211,C20H21N5O6,207,C13-label-6,[M+Cl]-,Pemetrexed
+469.1420759,C20H21N5O6,207,C13-label-7,[M+Cl]-,Pemetrexed
+470.1454308,C20H21N5O6,207,C13-label-8,[M+Cl]-,Pemetrexed
+488.2549486,C21H44NO7P,208,C12 PARENT,[M+Cl]-,LysoPE(16:0)
+489.2583034,C21H44NO7P,208,C13-label-1,[M+Cl]-,LysoPE(16:0)
+490.2616583,C21H44NO7P,208,C13-label-2,[M+Cl]-,LysoPE(16:0)
+491.2650131,C21H44NO7P,208,C13-label-3,[M+Cl]-,LysoPE(16:0)
+492.2683679,C21H44NO7P,208,C13-label-4,[M+Cl]-,LysoPE(16:0)
+493.2717228,C21H44NO7P,208,C13-label-5,[M+Cl]-,LysoPE(16:0)
+494.2750776,C21H44NO7P,208,C13-label-6,[M+Cl]-,LysoPE(16:0)
+495.2784324,C21H44NO7P,208,C13-label-7,[M+Cl]-,LysoPE(16:0)
+496.2817873,C21H44NO7P,208,C13-label-8,[M+Cl]-,LysoPE(16:0)
+516.2862486,C23H48NO7P,209,C12 PARENT,[M+Cl]-,LysoPC(15:0)
+517.2896034,C23H48NO7P,209,C13-label-1,[M+Cl]-,LysoPC(15:0)
+518.2929583,C23H48NO7P,209,C13-label-2,[M+Cl]-,LysoPC(15:0)
+519.2963131,C23H48NO7P,209,C13-label-3,[M+Cl]-,LysoPC(15:0)
+520.2996679,C23H48NO7P,209,C13-label-4,[M+Cl]-,LysoPC(15:0)
+521.3030228,C23H48NO7P,209,C13-label-5,[M+Cl]-,LysoPC(15:0)
+522.3063776,C23H48NO7P,209,C13-label-6,[M+Cl]-,LysoPC(15:0)
+523.3097324,C23H48NO7P,209,C13-label-7,[M+Cl]-,LysoPC(15:0)
+524.3130873,C23H48NO7P,209,C13-label-8,[M+Cl]-,LysoPC(15:0)
+473.2440496,C21H43O7P,210,C12 PARENT,[M+Cl]-,LysoPA(18:0)
+474.2474044,C21H43O7P,210,C13-label-1,[M+Cl]-,LysoPA(18:0)
+475.2507593,C21H43O7P,210,C13-label-2,[M+Cl]-,LysoPA(18:0)
+476.2541141,C21H43O7P,210,C13-label-3,[M+Cl]-,LysoPA(18:0)
+477.2574689,C21H43O7P,210,C13-label-4,[M+Cl]-,LysoPA(18:0)
+478.2608238,C21H43O7P,210,C13-label-5,[M+Cl]-,LysoPA(18:0)
+479.2641786,C21H43O7P,210,C13-label-6,[M+Cl]-,LysoPA(18:0)
+480.2675334,C21H43O7P,210,C13-label-7,[M+Cl]-,LysoPA(18:0)
+481.2708883,C21H43O7P,210,C13-label-8,[M+Cl]-,LysoPA(18:0)
+560.2549486,C27H44NO7P,211,C12 PARENT,[M+Cl]-,LysoPE(22:6)
+561.2583034,C27H44NO7P,211,C13-label-1,[M+Cl]-,LysoPE(22:6)
+562.2616583,C27H44NO7P,211,C13-label-2,[M+Cl]-,LysoPE(22:6)
+563.2650131,C27H44NO7P,211,C13-label-3,[M+Cl]-,LysoPE(22:6)
+564.2683679,C27H44NO7P,211,C13-label-4,[M+Cl]-,LysoPE(22:6)
+565.2717228,C27H44NO7P,211,C13-label-5,[M+Cl]-,LysoPE(22:6)
+566.2750776,C27H44NO7P,211,C13-label-6,[M+Cl]-,LysoPE(22:6)
+567.2784324,C27H44NO7P,211,C13-label-7,[M+Cl]-,LysoPE(22:6)
+568.2817873,C27H44NO7P,211,C13-label-8,[M+Cl]-,LysoPE(22:6)
+587.4447811,C34H64O5,212,C12 PARENT,[M+Cl]-,DG(31:1)
+588.4481359,C34H64O5,212,C13-label-1,[M+Cl]-,DG(31:1)
+589.4514908,C34H64O5,212,C13-label-2,[M+Cl]-,DG(31:1)
+590.4548456,C34H64O5,212,C13-label-3,[M+Cl]-,DG(31:1)
+591.4582004,C34H64O5,212,C13-label-4,[M+Cl]-,DG(31:1)
+592.4615553,C34H64O5,212,C13-label-5,[M+Cl]-,DG(31:1)
+593.4649101,C34H64O5,212,C13-label-6,[M+Cl]-,DG(31:1)
+594.4682649,C34H64O5,212,C13-label-7,[M+Cl]-,DG(31:1)
+595.4716198,C34H64O5,212,C13-label-8,[M+Cl]-,DG(31:1)
+642.0509931,C17H27N3O17P2,213,C12 PARENT,[M+Cl]-,UDP-N-acetyl-glucosamine
+643.0543479,C17H27N3O17P2,213,C13-label-1,[M+Cl]-,UDP-N-acetyl-glucosamine
+644.0577028,C17H27N3O17P2,213,C13-label-2,[M+Cl]-,UDP-N-acetyl-glucosamine
+645.0610576,C17H27N3O17P2,213,C13-label-3,[M+Cl]-,UDP-N-acetyl-glucosamine
+646.0644124,C17H27N3O17P2,213,C13-label-4,[M+Cl]-,UDP-N-acetyl-glucosamine
+647.0677673,C17H27N3O17P2,213,C13-label-5,[M+Cl]-,UDP-N-acetyl-glucosamine
+648.0711221,C17H27N3O17P2,213,C13-label-6,[M+Cl]-,UDP-N-acetyl-glucosamine
+649.0744769,C17H27N3O17P2,213,C13-label-7,[M+Cl]-,UDP-N-acetyl-glucosamine
+650.0778318,C17H27N3O17P2,213,C13-label-8,[M+Cl]-,UDP-N-acetyl-glucosamine
+643.1587931,C32H32O12,214,C12 PARENT,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+644.1621479,C32H32O12,214,C13-label-1,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+645.1655028,C32H32O12,214,C13-label-2,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+646.1688576,C32H32O12,214,C13-label-3,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+647.1722124,C32H32O12,214,C13-label-4,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+648.1755673,C32H32O12,214,C13-label-5,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+649.1789221,C32H32O12,214,C13-label-6,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+650.1822769,C32H32O12,214,C13-label-7,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+651.1856318,C32H32O12,214,C13-label-8,[M+Cl]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+645.4866471,C37H70O6,215,C12 PARENT,[M+Cl]-,TG(34:0)
+646.4900019,C37H70O6,215,C13-label-1,[M+Cl]-,TG(34:0)
+647.4933568,C37H70O6,215,C13-label-2,[M+Cl]-,TG(34:0)
+648.4967116,C37H70O6,215,C13-label-3,[M+Cl]-,TG(34:0)
+649.5000664,C37H70O6,215,C13-label-4,[M+Cl]-,TG(34:0)
+650.5034213,C37H70O6,215,C13-label-5,[M+Cl]-,TG(34:0)
+651.5067761,C37H70O6,215,C13-label-6,[M+Cl]-,TG(34:0)
+652.5101309,C37H70O6,215,C13-label-7,[M+Cl]-,TG(34:0)
+653.5134858,C37H70O6,215,C13-label-8,[M+Cl]-,TG(34:0)
+647.1213785,C20H32N6O12S2,216,C12 PARENT,[M+Cl]-,Glutathione (oxidized)
+648.1247333,C20H32N6O12S2,216,C13-label-1,[M+Cl]-,Glutathione (oxidized)
+649.1280882,C20H32N6O12S2,216,C13-label-2,[M+Cl]-,Glutathione (oxidized)
+650.131443,C20H32N6O12S2,216,C13-label-3,[M+Cl]-,Glutathione (oxidized)
+651.1347978,C20H32N6O12S2,216,C13-label-4,[M+Cl]-,Glutathione (oxidized)
+652.1381527,C20H32N6O12S2,216,C13-label-5,[M+Cl]-,Glutathione (oxidized)
+653.1415075,C20H32N6O12S2,216,C13-label-6,[M+Cl]-,Glutathione (oxidized)
+654.1448623,C20H32N6O12S2,216,C13-label-7,[M+Cl]-,Glutathione (oxidized)
+655.1482172,C20H32N6O12S2,216,C13-label-8,[M+Cl]-,Glutathione (oxidized)
+683.4424156,C35H69O8P,217,C12 PARENT,[M+Cl]-,PA(32:0)
+684.4457704,C35H69O8P,217,C13-label-1,[M+Cl]-,PA(32:0)
+685.4491253,C35H69O8P,217,C13-label-2,[M+Cl]-,PA(32:0)
+686.4524801,C35H69O8P,217,C13-label-3,[M+Cl]-,PA(32:0)
+687.4558349,C35H69O8P,217,C13-label-4,[M+Cl]-,PA(32:0)
+688.4591898,C35H69O8P,217,C13-label-5,[M+Cl]-,PA(32:0)
+689.4625446,C35H69O8P,217,C13-label-6,[M+Cl]-,PA(32:0)
+690.4658994,C35H69O8P,217,C13-label-7,[M+Cl]-,PA(32:0)
+691.4692543,C35H69O8P,217,C13-label-8,[M+Cl]-,PA(32:0)
+763.5285131,C45H76O7,218,C12 PARENT,[M+Cl]-,DG(11D3/11D5/0:0)
+764.5318679,C45H76O7,218,C13-label-1,[M+Cl]-,DG(11D3/11D5/0:0)
+765.5352228,C45H76O7,218,C13-label-2,[M+Cl]-,DG(11D3/11D5/0:0)
+766.5385776,C45H76O7,218,C13-label-3,[M+Cl]-,DG(11D3/11D5/0:0)
+767.5419324,C45H76O7,218,C13-label-4,[M+Cl]-,DG(11D3/11D5/0:0)
+768.5452873,C45H76O7,218,C13-label-5,[M+Cl]-,DG(11D3/11D5/0:0)
+769.5486421,C45H76O7,218,C13-label-6,[M+Cl]-,DG(11D3/11D5/0:0)
+770.5519969,C45H76O7,218,C13-label-7,[M+Cl]-,DG(11D3/11D5/0:0)
+771.5553518,C45H76O7,218,C13-label-8,[M+Cl]-,DG(11D3/11D5/0:0)
+818.6282281,C46H89NO8,219,C12 PARENT,[M+Cl]-,Glucosylceramide (40:1)
+819.6315829,C46H89NO8,219,C13-label-1,[M+Cl]-,Glucosylceramide (40:1)
+820.6349378,C46H89NO8,219,C13-label-2,[M+Cl]-,Glucosylceramide (40:1)
+821.6382926,C46H89NO8,219,C13-label-3,[M+Cl]-,Glucosylceramide (40:1)
+822.6416474,C46H89NO8,219,C13-label-4,[M+Cl]-,Glucosylceramide (40:1)
+823.6450023,C46H89NO8,219,C13-label-5,[M+Cl]-,Glucosylceramide (40:1)
+824.6483571,C46H89NO8,219,C13-label-6,[M+Cl]-,Glucosylceramide (40:1)
+825.6517119,C46H89NO8,219,C13-label-7,[M+Cl]-,Glucosylceramide (40:1)
+826.6550668,C46H89NO8,219,C13-label-8,[M+Cl]-,Glucosylceramide (40:1)
+852.5526966,C44H84NO10P,220,C12 PARENT,[M+Cl]-,PS(38:1)
+853.5560514,C44H84NO10P,220,C13-label-1,[M+Cl]-,PS(38:1)
+854.5594063,C44H84NO10P,220,C13-label-2,[M+Cl]-,PS(38:1)
+855.5627611,C44H84NO10P,220,C13-label-3,[M+Cl]-,PS(38:1)
+856.5661159,C44H84NO10P,220,C13-label-4,[M+Cl]-,PS(38:1)
+857.5694708,C44H84NO10P,220,C13-label-5,[M+Cl]-,PS(38:1)
+858.5728256,C44H84NO10P,220,C13-label-6,[M+Cl]-,PS(38:1)
+859.5761804,C44H84NO10P,220,C13-label-7,[M+Cl]-,PS(38:1)
+860.5795353,C44H84NO10P,220,C13-label-8,[M+Cl]-,PS(38:1)
+877.4791976,C48H75O10P,221,C12 PARENT,[M+Cl]-,PG(42:10)
+878.4825524,C48H75O10P,221,C13-label-1,[M+Cl]-,PG(42:10)
+879.4859073,C48H75O10P,221,C13-label-2,[M+Cl]-,PG(42:10)
+880.4892621,C48H75O10P,221,C13-label-3,[M+Cl]-,PG(42:10)
+881.4926169,C48H75O10P,221,C13-label-4,[M+Cl]-,PG(42:10)
+882.4959718,C48H75O10P,221,C13-label-5,[M+Cl]-,PG(42:10)
+883.4993266,C48H75O10P,221,C13-label-6,[M+Cl]-,PG(42:10)
+884.5026814,C48H75O10P,221,C13-label-7,[M+Cl]-,PG(42:10)
+885.5060363,C48H75O10P,221,C13-label-8,[M+Cl]-,PG(42:10)
+898.5370466,C48H82NO10P,222,C12 PARENT,[M+Cl]-,PS(42:6)
+899.5404014,C48H82NO10P,222,C13-label-1,[M+Cl]-,PS(42:6)
+900.5437563,C48H82NO10P,222,C13-label-2,[M+Cl]-,PS(42:6)
+901.5471111,C48H82NO10P,222,C13-label-3,[M+Cl]-,PS(42:6)
+902.5504659,C48H82NO10P,222,C13-label-4,[M+Cl]-,PS(42:6)
+903.5538208,C48H82NO10P,222,C13-label-5,[M+Cl]-,PS(42:6)
+904.5571756,C48H82NO10P,222,C13-label-6,[M+Cl]-,PS(42:6)
+905.5605304,C48H82NO10P,222,C13-label-7,[M+Cl]-,PS(42:6)
+906.5638853,C48H82NO10P,222,C13-label-8,[M+Cl]-,PS(42:6)
+68.9982068,C3H4O3,223,C12 PARENT,[M-H2O-H]-,Pyruvate
+70.00156164,C3H4O3,223,C13-label-1,[M-H2O-H]-,Pyruvate
+71.00491647,C3H4O3,223,C13-label-2,[M-H2O-H]-,Pyruvate
+72.00827131,C3H4O3,223,C13-label-3,[M-H2O-H]-,Pyruvate
+70.0298398,C3H7NO2,224,C12 PARENT,[M-H2O-H]-,Alanine
+71.03319464,C3H7NO2,224,C13-label-1,[M-H2O-H]-,Alanine
+72.03654947,C3H7NO2,224,C13-label-2,[M-H2O-H]-,Alanine
+73.03990431,C3H7NO2,224,C13-label-3,[M-H2O-H]-,Alanine
+71.0138568,C3H6O3,225,C12 PARENT,[M-H2O-H]-,Lactic acid
+72.01721164,C3H6O3,225,C13-label-1,[M-H2O-H]-,Lactic acid
+73.02056647,C3H6O3,225,C13-label-2,[M-H2O-H]-,Lactic acid
+74.02392131,C3H6O3,225,C13-label-3,[M-H2O-H]-,Lactic acid
+98.0247558,C4H7NO3,226,C12 PARENT,[M-H2O-H]-,Acetylglycine
+99.02811064,C4H7NO3,226,C13-label-1,[M-H2O-H]-,Acetylglycine
+100.0314655,C4H7NO3,226,C13-label-2,[M-H2O-H]-,Acetylglycine
+101.0348203,C4H7NO3,226,C13-label-3,[M-H2O-H]-,Acetylglycine
+102.0381751,C4H7NO3,226,C13-label-4,[M-H2O-H]-,Acetylglycine
+83.0138568,C4H6O3,227,C12 PARENT,[M-H2O-H]-,Acetoacetate
+84.01721164,C4H6O3,227,C13-label-1,[M-H2O-H]-,Acetoacetate
+85.02056647,C4H6O3,227,C13-label-2,[M-H2O-H]-,Acetoacetate
+86.02392131,C4H6O3,227,C13-label-3,[M-H2O-H]-,Acetoacetate
+87.02727614,C4H6O3,227,C13-label-4,[M-H2O-H]-,Acetoacetate
+84.0454898,C4H9NO2,228,C12 PARENT,[M-H2O-H]-,Aminobutanoate
+85.04884464,C4H9NO2,228,C13-label-1,[M-H2O-H]-,Aminobutanoate
+86.05219947,C4H9NO2,228,C13-label-2,[M-H2O-H]-,Aminobutanoate
+87.05555431,C4H9NO2,228,C13-label-3,[M-H2O-H]-,Aminobutanoate
+88.05890914,C4H9NO2,228,C13-label-4,[M-H2O-H]-,Aminobutanoate
+85.0295068,C4H8O3,229,C12 PARENT,[M-H2O-H]-,Hydroxybutanoic acid
+86.03286164,C4H8O3,229,C13-label-1,[M-H2O-H]-,Hydroxybutanoic acid
+87.03621647,C4H8O3,229,C13-label-2,[M-H2O-H]-,Hydroxybutanoic acid
+88.03957131,C4H8O3,229,C13-label-3,[M-H2O-H]-,Hydroxybutanoic acid
+89.04292614,C4H8O3,229,C13-label-4,[M-H2O-H]-,Hydroxybutanoic acid
+86.0247558,C3H7NO3,230,C12 PARENT,[M-H2O-H]-,Serine
+87.02811064,C3H7NO3,230,C13-label-1,[M-H2O-H]-,Serine
+88.03146547,C3H7NO3,230,C13-label-2,[M-H2O-H]-,Serine
+89.03482031,C3H7NO3,230,C13-label-3,[M-H2O-H]-,Serine
+93.0094388,C4H4N2O2,231,C12 PARENT,[M-H2O-H]-,Uracil
+94.01279364,C4H4N2O2,231,C13-label-1,[M-H2O-H]-,Uracil
+95.01614847,C4H4N2O2,231,C13-label-2,[M-H2O-H]-,Uracil
+96.01950331,C4H4N2O2,231,C13-label-3,[M-H2O-H]-,Uracil
+97.02285814,C4H4N2O2,231,C13-label-4,[M-H2O-H]-,Uracil
+96.0454898,C5H9NO2,232,C12 PARENT,[M-H2O-H]-,Proline
+97.04884464,C5H9NO2,232,C13-label-1,[M-H2O-H]-,Proline
+98.05219947,C5H9NO2,232,C13-label-2,[M-H2O-H]-,Proline
+99.05555431,C5H9NO2,232,C13-label-3,[M-H2O-H]-,Proline
+100.0589091,C5H9NO2,232,C13-label-4,[M-H2O-H]-,Proline
+101.062264,C5H9NO2,232,C13-label-5,[M-H2O-H]-,Proline
+96.9931228,C4H4O4,233,C12 PARENT,[M-H2O-H]-,Maleic acid
+97.99647764,C4H4O4,233,C13-label-1,[M-H2O-H]-,Maleic acid
+98.99983247,C4H4O4,233,C13-label-2,[M-H2O-H]-,Maleic acid
+100.0031873,C4H4O4,233,C13-label-3,[M-H2O-H]-,Maleic acid
+101.0065421,C4H4O4,233,C13-label-4,[M-H2O-H]-,Maleic acid
+109.0407388,C5H8N2O2,234,C12 PARENT,[M-H2O-H]-,Pyroglutamine
+110.0440936,C5H8N2O2,234,C13-label-1,[M-H2O-H]-,Pyroglutamine
+111.0474485,C5H8N2O2,234,C13-label-2,[M-H2O-H]-,Pyroglutamine
+112.0508033,C5H8N2O2,234,C13-label-3,[M-H2O-H]-,Pyroglutamine
+113.0541581,C5H8N2O2,234,C13-label-4,[M-H2O-H]-,Pyroglutamine
+114.057513,C5H8N2O2,234,C13-label-5,[M-H2O-H]-,Pyroglutamine
+110.0247558,C5H7NO3,235,C12 PARENT,[M-H2O-H]-,Oxoproline
+111.0281106,C5H7NO3,235,C13-label-1,[M-H2O-H]-,Oxoproline
+112.0314655,C5H7NO3,235,C13-label-2,[M-H2O-H]-,Oxoproline
+113.0348203,C5H7NO3,235,C13-label-3,[M-H2O-H]-,Oxoproline
+114.0381751,C5H7NO3,235,C13-label-4,[M-H2O-H]-,Oxoproline
+115.04153,C5H7NO3,235,C13-label-5,[M-H2O-H]-,Oxoproline
+112.0404058,C5H9NO3,236,C12 PARENT,[M-H2O-H]-,Hydroxyproline
+113.0437606,C5H9NO3,236,C13-label-1,[M-H2O-H]-,Hydroxyproline
+114.0471155,C5H9NO3,236,C13-label-2,[M-H2O-H]-,Hydroxyproline
+115.0504703,C5H9NO3,236,C13-label-3,[M-H2O-H]-,Hydroxyproline
+116.0538251,C5H9NO3,236,C13-label-4,[M-H2O-H]-,Hydroxyproline
+117.05718,C5H9NO3,236,C13-label-5,[M-H2O-H]-,Hydroxyproline
+113.0720388,C5H12N2O2,237,C12 PARENT,[M-H2O-H]-,Ornithine
+114.0753936,C5H12N2O2,237,C13-label-1,[M-H2O-H]-,Ornithine
+115.0787485,C5H12N2O2,237,C13-label-2,[M-H2O-H]-,Ornithine
+116.0821033,C5H12N2O2,237,C13-label-3,[M-H2O-H]-,Ornithine
+117.0854581,C5H12N2O2,237,C13-label-4,[M-H2O-H]-,Ornithine
+118.088813,C5H12N2O2,237,C13-label-5,[M-H2O-H]-,Ornithine
+114.0196718,C4H7NO4,238,C12 PARENT,[M-H2O-H]-,Aspartate
+115.0230266,C4H7NO4,238,C13-label-1,[M-H2O-H]-,Aspartate
+116.0263815,C4H7NO4,238,C13-label-2,[M-H2O-H]-,Aspartate
+117.0297363,C4H7NO4,238,C13-label-3,[M-H2O-H]-,Aspartate
+118.0330911,C4H7NO4,238,C13-label-4,[M-H2O-H]-,Aspartate
+115.0036888,C4H6O5,239,C12 PARENT,[M-H2O-H]-,Malate
+116.0070436,C4H6O5,239,C13-label-1,[M-H2O-H]-,Malate
+117.0103985,C4H6O5,239,C13-label-2,[M-H2O-H]-,Malate
+118.0137533,C4H6O5,239,C13-label-3,[M-H2O-H]-,Malate
+119.0171081,C4H6O5,239,C13-label-4,[M-H2O-H]-,Malate
+127.0400728,C6H10O4,240,C12 PARENT,[M-H2O-H]-,Dimethyl succinate
+128.0434276,C6H10O4,240,C13-label-1,[M-H2O-H]-,Dimethyl succinate
+129.0467825,C6H10O4,240,C13-label-2,[M-H2O-H]-,Dimethyl succinate
+130.0501373,C6H10O4,240,C13-label-3,[M-H2O-H]-,Dimethyl succinate
+131.0534921,C6H10O4,240,C13-label-4,[M-H2O-H]-,Dimethyl succinate
+132.056847,C6H10O4,240,C13-label-5,[M-H2O-H]-,Dimethyl succinate
+133.0602018,C6H10O4,240,C13-label-6,[M-H2O-H]-,Dimethyl succinate
+127.0513048,C5H10N2O3,241,C12 PARENT,[M-H2O-H]-,Glutamine
+128.0546596,C5H10N2O3,241,C13-label-1,[M-H2O-H]-,Glutamine
+129.0580145,C5H10N2O3,241,C13-label-2,[M-H2O-H]-,Glutamine
+130.0613693,C5H10N2O3,241,C13-label-3,[M-H2O-H]-,Glutamine
+131.0647241,C5H10N2O3,241,C13-label-4,[M-H2O-H]-,Glutamine
+132.068079,C5H10N2O3,241,C13-label-5,[M-H2O-H]-,Glutamine
+128.0353218,C5H9NO4,242,C12 PARENT,[M-H2O-H]-,Glutamate
+129.0386766,C5H9NO4,242,C13-label-1,[M-H2O-H]-,Glutamate
+130.0420315,C5H9NO4,242,C13-label-2,[M-H2O-H]-,Glutamate
+131.0453863,C5H9NO4,242,C13-label-3,[M-H2O-H]-,Glutamate
+132.0487411,C5H9NO4,242,C13-label-4,[M-H2O-H]-,Glutamate
+133.052096,C5H9NO4,242,C13-label-5,[M-H2O-H]-,Glutamate
+133.0155868,C5H4N4O2,243,C12 PARENT,[M-H2O-H]-,Xanthine
+134.0189416,C5H4N4O2,243,C13-label-1,[M-H2O-H]-,Xanthine
+135.0222965,C5H4N4O2,243,C13-label-2,[M-H2O-H]-,Xanthine
+136.0256513,C5H4N4O2,243,C13-label-3,[M-H2O-H]-,Xanthine
+137.0290061,C5H4N4O2,243,C13-label-4,[M-H2O-H]-,Xanthine
+138.032361,C5H4N4O2,243,C13-label-5,[M-H2O-H]-,Xanthine
+136.0516378,C6H9N3O2,244,C12 PARENT,[M-H2O-H]-,Histidine
+137.0549926,C6H9N3O2,244,C13-label-1,[M-H2O-H]-,Histidine
+138.0583475,C6H9N3O2,244,C13-label-2,[M-H2O-H]-,Histidine
+139.0617023,C6H9N3O2,244,C13-label-3,[M-H2O-H]-,Histidine
+140.0650571,C6H9N3O2,244,C13-label-4,[M-H2O-H]-,Histidine
+141.068412,C6H9N3O2,244,C13-label-5,[M-H2O-H]-,Histidine
+142.0717668,C6H9N3O2,244,C13-label-6,[M-H2O-H]-,Histidine
+155.0462208,C6H10N2O4,245,C12 PARENT,[M-H2O-H]-,N-Acetylasparagine
+156.0495756,C6H10N2O4,245,C13-label-1,[M-H2O-H]-,N-Acetylasparagine
+157.0529305,C6H10N2O4,245,C13-label-2,[M-H2O-H]-,N-Acetylasparagine
+158.0562853,C6H10N2O4,245,C13-label-3,[M-H2O-H]-,N-Acetylasparagine
+159.0596401,C6H10N2O4,245,C13-label-4,[M-H2O-H]-,N-Acetylasparagine
+160.062995,C6H10N2O4,245,C13-label-5,[M-H2O-H]-,N-Acetylasparagine
+161.0663498,C6H10N2O4,245,C13-label-6,[M-H2O-H]-,N-Acetylasparagine
+84.9931228,C3H4O4,246,C12 PARENT,[M-H2O-H]-,Malonic acid
+85.99647764,C3H4O4,246,C13-label-1,[M-H2O-H]-,Malonic acid
+86.99983247,C3H4O4,246,C13-label-2,[M-H2O-H]-,Malonic acid
+88.00318731,C3H4O4,246,C13-label-3,[M-H2O-H]-,Malonic acid
+152.9958413,C3H9O6P,247,C12 PARENT,[M-H2O-H]-,Glycerol 3-phosphate
+153.9991961,C3H9O6P,247,C13-label-1,[M-H2O-H]-,Glycerol 3-phosphate
+155.002551,C3H9O6P,247,C13-label-2,[M-H2O-H]-,Glycerol 3-phosphate
+156.0059058,C3H9O6P,247,C13-label-3,[M-H2O-H]-,Glycerol 3-phosphate
+156.0778538,C6H13N3O3,248,C12 PARENT,[M-H2O-H]-,Citrulline
+157.0812086,C6H13N3O3,248,C13-label-1,[M-H2O-H]-,Citrulline
+158.0845635,C6H13N3O3,248,C13-label-2,[M-H2O-H]-,Citrulline
+159.0879183,C6H13N3O3,248,C13-label-3,[M-H2O-H]-,Citrulline
+160.0912731,C6H13N3O3,248,C13-label-4,[M-H2O-H]-,Citrulline
+161.094628,C6H13N3O3,248,C13-label-5,[M-H2O-H]-,Citrulline
+162.0979828,C6H13N3O3,248,C13-label-6,[M-H2O-H]-,Citrulline
+160.0073925,C5H9NO4S,249,C12 PARENT,[M-H2O-H]-,Carboxymethyl-cysteine
+161.0107473,C5H9NO4S,249,C13-label-1,[M-H2O-H]-,Carboxymethyl-cysteine
+162.0141022,C5H9NO4S,249,C13-label-2,[M-H2O-H]-,Carboxymethyl-cysteine
+163.017457,C5H9NO4S,249,C13-label-3,[M-H2O-H]-,Carboxymethyl-cysteine
+164.0208118,C5H9NO4S,249,C13-label-4,[M-H2O-H]-,Carboxymethyl-cysteine
+165.0241667,C5H9NO4S,249,C13-label-5,[M-H2O-H]-,Carboxymethyl-cysteine
+180.9964935,C8H8O4S,250,C12 PARENT,[M-H2O-H]-,Vinylphenol sulfate
+181.9998483,C8H8O4S,250,C13-label-1,[M-H2O-H]-,Vinylphenol sulfate
+183.0032032,C8H8O4S,250,C13-label-2,[M-H2O-H]-,Vinylphenol sulfate
+184.006558,C8H8O4S,250,C13-label-3,[M-H2O-H]-,Vinylphenol sulfate
+185.0099128,C8H8O4S,250,C13-label-4,[M-H2O-H]-,Vinylphenol sulfate
+186.0132677,C8H8O4S,250,C13-label-5,[M-H2O-H]-,Vinylphenol sulfate
+187.0166225,C8H8O4S,250,C13-label-6,[M-H2O-H]-,Vinylphenol sulfate
+188.0199773,C8H8O4S,250,C13-label-7,[M-H2O-H]-,Vinylphenol sulfate
+189.0233322,C8H8O4S,250,C13-label-8,[M-H2O-H]-,Vinylphenol sulfate
+163.0612048,C6H14O6,251,C12 PARENT,[M-H2O-H]-,Mannitol
+164.0645596,C6H14O6,251,C13-label-1,[M-H2O-H]-,Mannitol
+165.0679145,C6H14O6,251,C13-label-2,[M-H2O-H]-,Mannitol
+166.0712693,C6H14O6,251,C13-label-3,[M-H2O-H]-,Mannitol
+167.0746241,C6H14O6,251,C13-label-4,[M-H2O-H]-,Mannitol
+168.077979,C6H14O6,251,C13-label-5,[M-H2O-H]-,Mannitol
+169.0813338,C6H14O6,251,C13-label-6,[M-H2O-H]-,Mannitol
+169.0295068,C11H8O3,252,C12 PARENT,[M-H2O-H]-,Hydroxy-naphthoic acid
+170.0328616,C11H8O3,252,C13-label-1,[M-H2O-H]-,Hydroxy-naphthoic acid
+171.0362165,C11H8O3,252,C13-label-2,[M-H2O-H]-,Hydroxy-naphthoic acid
+172.0395713,C11H8O3,252,C13-label-3,[M-H2O-H]-,Hydroxy-naphthoic acid
+173.0429261,C11H8O3,252,C13-label-4,[M-H2O-H]-,Hydroxy-naphthoic acid
+174.046281,C11H8O3,252,C13-label-5,[M-H2O-H]-,Hydroxy-naphthoic acid
+175.0496358,C11H8O3,252,C13-label-6,[M-H2O-H]-,Hydroxy-naphthoic acid
+176.0529906,C11H8O3,252,C13-label-7,[M-H2O-H]-,Hydroxy-naphthoic acid
+177.0563455,C11H8O3,252,C13-label-8,[M-H2O-H]-,Hydroxy-naphthoic acid
+169.0618708,C7H12N2O4,253,C12 PARENT,[M-H2O-H]-,N-Acetyl-glutamine
+170.0652256,C7H12N2O4,253,C13-label-1,[M-H2O-H]-,N-Acetyl-glutamine
+171.0685805,C7H12N2O4,253,C13-label-2,[M-H2O-H]-,N-Acetyl-glutamine
+172.0719353,C7H12N2O4,253,C13-label-3,[M-H2O-H]-,N-Acetyl-glutamine
+173.0752901,C7H12N2O4,253,C13-label-4,[M-H2O-H]-,N-Acetyl-glutamine
+174.078645,C7H12N2O4,253,C13-label-5,[M-H2O-H]-,N-Acetyl-glutamine
+175.0819998,C7H12N2O4,253,C13-label-6,[M-H2O-H]-,N-Acetyl-glutamine
+176.0853546,C7H12N2O4,253,C13-label-7,[M-H2O-H]-,N-Acetyl-glutamine
+170.0458878,C7H11NO5,254,C12 PARENT,[M-H2O-H]-,Acetyl-glutamate
+171.0492426,C7H11NO5,254,C13-label-1,[M-H2O-H]-,Acetyl-glutamate
+172.0525975,C7H11NO5,254,C13-label-2,[M-H2O-H]-,Acetyl-glutamate
+173.0559523,C7H11NO5,254,C13-label-3,[M-H2O-H]-,Acetyl-glutamate
+174.0593071,C7H11NO5,254,C13-label-4,[M-H2O-H]-,Acetyl-glutamate
+175.062662,C7H11NO5,254,C13-label-5,[M-H2O-H]-,Acetyl-glutamate
+176.0660168,C7H11NO5,254,C13-label-6,[M-H2O-H]-,Acetyl-glutamate
+177.0693716,C7H11NO5,254,C13-label-7,[M-H2O-H]-,Acetyl-glutamate
+173.0091708,C6H8O7,255,C12 PARENT,[M-H2O-H]-,Citrate
+174.0125256,C6H8O7,255,C13-label-1,[M-H2O-H]-,Citrate
+175.0158805,C6H8O7,255,C13-label-2,[M-H2O-H]-,Citrate
+176.0192353,C6H8O7,255,C13-label-3,[M-H2O-H]-,Citrate
+177.0225901,C6H8O7,255,C13-label-4,[M-H2O-H]-,Citrate
+178.025945,C6H8O7,255,C13-label-5,[M-H2O-H]-,Citrate
+179.0292998,C6H8O7,255,C13-label-6,[M-H2O-H]-,Citrate
+183.1026728,C10H18O4,256,C12 PARENT,[M-H2O-H]-,N-Lactoylisoleucine
+184.1060276,C10H18O4,256,C13-label-1,[M-H2O-H]-,N-Lactoylisoleucine
+185.1093825,C10H18O4,256,C13-label-2,[M-H2O-H]-,N-Lactoylisoleucine
+186.1127373,C10H18O4,256,C13-label-3,[M-H2O-H]-,N-Lactoylisoleucine
+187.1160921,C10H18O4,256,C13-label-4,[M-H2O-H]-,N-Lactoylisoleucine
+188.119447,C10H18O4,256,C13-label-5,[M-H2O-H]-,N-Lactoylisoleucine
+189.1228018,C10H18O4,256,C13-label-6,[M-H2O-H]-,N-Lactoylisoleucine
+190.1261566,C10H18O4,256,C13-label-7,[M-H2O-H]-,N-Lactoylisoleucine
+191.1295115,C10H18O4,256,C13-label-8,[M-H2O-H]-,N-Lactoylisoleucine
+185.0091708,C7H8O7,257,C12 PARENT,[M-H2O-H]-,Daucic acid
+186.0125256,C7H8O7,257,C13-label-1,[M-H2O-H]-,Daucic acid
+187.0158805,C7H8O7,257,C13-label-2,[M-H2O-H]-,Daucic acid
+188.0192353,C7H8O7,257,C13-label-3,[M-H2O-H]-,Daucic acid
+189.0225901,C7H8O7,257,C13-label-4,[M-H2O-H]-,Daucic acid
+190.025945,C7H8O7,257,C13-label-5,[M-H2O-H]-,Daucic acid
+191.0292998,C7H8O7,257,C13-label-6,[M-H2O-H]-,Daucic acid
+192.0326546,C7H8O7,257,C13-label-7,[M-H2O-H]-,Daucic acid
+185.0455548,C8H12O6,258,C12 PARENT,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+186.0489096,C8H12O6,258,C13-label-1,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+187.0522645,C8H12O6,258,C13-label-2,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+188.0556193,C8H12O6,258,C13-label-3,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+189.0589741,C8H12O6,258,C13-label-4,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+190.062329,C8H12O6,258,C13-label-5,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+191.0656838,C8H12O6,258,C13-label-6,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+192.0690386,C8H12O6,258,C13-label-7,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+193.0723935,C8H12O6,258,C13-label-8,[M-H2O-H]-,Trihydroxy-(hydroxymethyl)-methoxy-cyclohexenone
+213.0128095,C11H8N2O2S,259,C12 PARENT,[M-H2O-H]-,Cyclobrassinone
+214.0161643,C11H8N2O2S,259,C13-label-1,[M-H2O-H]-,Cyclobrassinone
+215.0195192,C11H8N2O2S,259,C13-label-2,[M-H2O-H]-,Cyclobrassinone
+216.022874,C11H8N2O2S,259,C13-label-3,[M-H2O-H]-,Cyclobrassinone
+217.0262288,C11H8N2O2S,259,C13-label-4,[M-H2O-H]-,Cyclobrassinone
+218.0295837,C11H8N2O2S,259,C13-label-5,[M-H2O-H]-,Cyclobrassinone
+219.0329385,C11H8N2O2S,259,C13-label-6,[M-H2O-H]-,Cyclobrassinone
+220.0362933,C11H8N2O2S,259,C13-label-7,[M-H2O-H]-,Cyclobrassinone
+221.0396482,C11H8N2O2S,259,C13-label-8,[M-H2O-H]-,Cyclobrassinone
+213.0379615,C13H12O2S,260,C12 PARENT,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+214.0413163,C13H12O2S,260,C13-label-1,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+215.0446712,C13H12O2S,260,C13-label-2,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+216.048026,C13H12O2S,260,C13-label-3,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+217.0513808,C13H12O2S,260,C13-label-4,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+218.0547357,C13H12O2S,260,C13-label-5,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+219.0580905,C13H12O2S,260,C13-label-6,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+220.0614453,C13H12O2S,260,C13-label-7,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+221.0648002,C13H12O2S,260,C13-label-8,[M-H2O-H]-,[(Methylthio)-pentenynyl]-furanacrolein
+200.0564538,C8H13NO6,261,C12 PARENT,[M-H2O-H]-,Succinyl-homoserine
+201.0598086,C8H13NO6,261,C13-label-1,[M-H2O-H]-,Succinyl-homoserine
+202.0631635,C8H13NO6,261,C13-label-2,[M-H2O-H]-,Succinyl-homoserine
+203.0665183,C8H13NO6,261,C13-label-3,[M-H2O-H]-,Succinyl-homoserine
+204.0698731,C8H13NO6,261,C13-label-4,[M-H2O-H]-,Succinyl-homoserine
+205.073228,C8H13NO6,261,C13-label-5,[M-H2O-H]-,Succinyl-homoserine
+206.0765828,C8H13NO6,261,C13-label-6,[M-H2O-H]-,Succinyl-homoserine
+207.0799376,C8H13NO6,261,C13-label-7,[M-H2O-H]-,Succinyl-homoserine
+208.0832925,C8H13NO6,261,C13-label-8,[M-H2O-H]-,Succinyl-homoserine
+202.0721038,C8H15NO6,262,C12 PARENT,[M-H2O-H]-,N-Acetyl-glucosamine
+203.0754586,C8H15NO6,262,C13-label-1,[M-H2O-H]-,N-Acetyl-glucosamine
+204.0788135,C8H15NO6,262,C13-label-2,[M-H2O-H]-,N-Acetyl-glucosamine
+205.0821683,C8H15NO6,262,C13-label-3,[M-H2O-H]-,N-Acetyl-glucosamine
+206.0855231,C8H15NO6,262,C13-label-4,[M-H2O-H]-,N-Acetyl-glucosamine
+207.088878,C8H15NO6,262,C13-label-5,[M-H2O-H]-,N-Acetyl-glucosamine
+208.0922328,C8H15NO6,262,C13-label-6,[M-H2O-H]-,N-Acetyl-glucosamine
+209.0955876,C8H15NO6,262,C13-label-7,[M-H2O-H]-,N-Acetyl-glucosamine
+210.0989425,C8H15NO6,262,C13-label-8,[M-H2O-H]-,N-Acetyl-glucosamine
+207.1754408,C14H26O2,263,C12 PARENT,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+208.1787956,C14H26O2,263,C13-label-1,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+209.1821505,C14H26O2,263,C13-label-2,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+210.1855053,C14H26O2,263,C13-label-3,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+211.1888601,C14H26O2,263,C13-label-4,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+212.192215,C14H26O2,263,C13-label-5,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+213.1955698,C14H26O2,263,C13-label-6,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+214.1989246,C14H26O2,263,C13-label-7,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+215.2022795,C14H26O2,263,C13-label-8,[M-H2O-H]-,C14:1 FA (Tetradecenoic acid)
+208.0016563,C5H10NO7P,264,C12 PARENT,[M-H2O-H]-,Glutamic acid 5-phosphate
+209.0050111,C5H10NO7P,264,C13-label-1,[M-H2O-H]-,Glutamic acid 5-phosphate
+210.008366,C5H10NO7P,264,C13-label-2,[M-H2O-H]-,Glutamic acid 5-phosphate
+211.0117208,C5H10NO7P,264,C13-label-3,[M-H2O-H]-,Glutamic acid 5-phosphate
+212.0150756,C5H10NO7P,264,C13-label-4,[M-H2O-H]-,Glutamic acid 5-phosphate
+213.0184305,C5H10NO7P,264,C13-label-5,[M-H2O-H]-,Glutamic acid 5-phosphate
+209.0931708,C10H16N2O4,265,C12 PARENT,[M-H2O-H]-,Pyroglutamylvaline
+210.0965256,C10H16N2O4,265,C13-label-1,[M-H2O-H]-,Pyroglutamylvaline
+211.0998805,C10H16N2O4,265,C13-label-2,[M-H2O-H]-,Pyroglutamylvaline
+212.1032353,C10H16N2O4,265,C13-label-3,[M-H2O-H]-,Pyroglutamylvaline
+213.1065901,C10H16N2O4,265,C13-label-4,[M-H2O-H]-,Pyroglutamylvaline
+214.109945,C10H16N2O4,265,C13-label-5,[M-H2O-H]-,Pyroglutamylvaline
+215.1132998,C10H16N2O4,265,C13-label-6,[M-H2O-H]-,Pyroglutamylvaline
+216.1166546,C10H16N2O4,265,C13-label-7,[M-H2O-H]-,Pyroglutamylvaline
+217.1200095,C10H16N2O4,265,C13-label-8,[M-H2O-H]-,Pyroglutamylvaline
+209.1910908,C14H28O2,266,C12 PARENT,[M-H2O-H]-,C14:0 FA(Myristic acid)
+210.1944456,C14H28O2,266,C13-label-1,[M-H2O-H]-,C14:0 FA(Myristic acid)
+211.1978005,C14H28O2,266,C13-label-2,[M-H2O-H]-,C14:0 FA(Myristic acid)
+212.2011553,C14H28O2,266,C13-label-3,[M-H2O-H]-,C14:0 FA(Myristic acid)
+213.2045101,C14H28O2,266,C13-label-4,[M-H2O-H]-,C14:0 FA(Myristic acid)
+214.207865,C14H28O2,266,C13-label-5,[M-H2O-H]-,C14:0 FA(Myristic acid)
+215.2112198,C14H28O2,266,C13-label-6,[M-H2O-H]-,C14:0 FA(Myristic acid)
+216.2145746,C14H28O2,266,C13-label-7,[M-H2O-H]-,C14:0 FA(Myristic acid)
+217.2179295,C14H28O2,266,C13-label-8,[M-H2O-H]-,C14:0 FA(Myristic acid)
+229.9988928,C4H13NO7P2,267,C12 PARENT,[M-H2O-H]-,Alendronic acid
+231.0022476,C4H13NO7P2,267,C13-label-1,[M-H2O-H]-,Alendronic acid
+232.0056025,C4H13NO7P2,267,C13-label-2,[M-H2O-H]-,Alendronic acid
+233.0089573,C4H13NO7P2,267,C13-label-3,[M-H2O-H]-,Alendronic acid
+234.0123121,C4H13NO7P2,267,C13-label-4,[M-H2O-H]-,Alendronic acid
+230.0393585,C11H11N3O2S,268,C12 PARENT,[M-H2O-H]-,Sulfapyridine
+231.0427133,C11H11N3O2S,268,C13-label-1,[M-H2O-H]-,Sulfapyridine
+232.0460682,C11H11N3O2S,268,C13-label-2,[M-H2O-H]-,Sulfapyridine
+233.049423,C11H11N3O2S,268,C13-label-3,[M-H2O-H]-,Sulfapyridine
+234.0527778,C11H11N3O2S,268,C13-label-4,[M-H2O-H]-,Sulfapyridine
+235.0561327,C11H11N3O2S,268,C13-label-5,[M-H2O-H]-,Sulfapyridine
+236.0594875,C11H11N3O2S,268,C13-label-6,[M-H2O-H]-,Sulfapyridine
+237.0628423,C11H11N3O2S,268,C13-label-7,[M-H2O-H]-,Sulfapyridine
+238.0661972,C11H11N3O2S,268,C13-label-8,[M-H2O-H]-,Sulfapyridine
+218.0128745,C7H11NO6S,269,C12 PARENT,[M-H2O-H]-,Cysteinosuccinic acid
+219.0162293,C7H11NO6S,269,C13-label-1,[M-H2O-H]-,Cysteinosuccinic acid
+220.0195842,C7H11NO6S,269,C13-label-2,[M-H2O-H]-,Cysteinosuccinic acid
+221.022939,C7H11NO6S,269,C13-label-3,[M-H2O-H]-,Cysteinosuccinic acid
+222.0262938,C7H11NO6S,269,C13-label-4,[M-H2O-H]-,Cysteinosuccinic acid
+223.0296487,C7H11NO6S,269,C13-label-5,[M-H2O-H]-,Cysteinosuccinic acid
+224.0330035,C7H11NO6S,269,C13-label-6,[M-H2O-H]-,Cysteinosuccinic acid
+225.0363583,C7H11NO6S,269,C13-label-7,[M-H2O-H]-,Cysteinosuccinic acid
+219.1754408,C15H26O2,270,C12 PARENT,[M-H2O-H]-,Pentadecadienoic acid
+220.1787956,C15H26O2,270,C13-label-1,[M-H2O-H]-,Pentadecadienoic acid
+221.1821505,C15H26O2,270,C13-label-2,[M-H2O-H]-,Pentadecadienoic acid
+222.1855053,C15H26O2,270,C13-label-3,[M-H2O-H]-,Pentadecadienoic acid
+223.1888601,C15H26O2,270,C13-label-4,[M-H2O-H]-,Pentadecadienoic acid
+224.192215,C15H26O2,270,C13-label-5,[M-H2O-H]-,Pentadecadienoic acid
+225.1955698,C15H26O2,270,C13-label-6,[M-H2O-H]-,Pentadecadienoic acid
+226.1989246,C15H26O2,270,C13-label-7,[M-H2O-H]-,Pentadecadienoic acid
+227.2022795,C15H26O2,270,C13-label-8,[M-H2O-H]-,Pentadecadienoic acid
+223.1088208,C11H18N2O4,271,C12 PARENT,[M-H2O-H]-,Pyroglutamylleucine
+224.1121756,C11H18N2O4,271,C13-label-1,[M-H2O-H]-,Pyroglutamylleucine
+225.1155305,C11H18N2O4,271,C13-label-2,[M-H2O-H]-,Pyroglutamylleucine
+226.1188853,C11H18N2O4,271,C13-label-3,[M-H2O-H]-,Pyroglutamylleucine
+227.1222401,C11H18N2O4,271,C13-label-4,[M-H2O-H]-,Pyroglutamylleucine
+228.125595,C11H18N2O4,271,C13-label-5,[M-H2O-H]-,Pyroglutamylleucine
+229.1289498,C11H18N2O4,271,C13-label-6,[M-H2O-H]-,Pyroglutamylleucine
+230.1323046,C11H18N2O4,271,C13-label-7,[M-H2O-H]-,Pyroglutamylleucine
+231.1356595,C11H18N2O4,271,C13-label-8,[M-H2O-H]-,Pyroglutamylleucine
+224.1292218,C12H21NO4,272,C12 PARENT,[M-H2O-H]-,Tiglylcarnitine
+225.1325766,C12H21NO4,272,C13-label-1,[M-H2O-H]-,Tiglylcarnitine
+226.1359315,C12H21NO4,272,C13-label-2,[M-H2O-H]-,Tiglylcarnitine
+227.1392863,C12H21NO4,272,C13-label-3,[M-H2O-H]-,Tiglylcarnitine
+228.1426411,C12H21NO4,272,C13-label-4,[M-H2O-H]-,Tiglylcarnitine
+229.145996,C12H21NO4,272,C13-label-5,[M-H2O-H]-,Tiglylcarnitine
+230.1493508,C12H21NO4,272,C13-label-6,[M-H2O-H]-,Tiglylcarnitine
+231.1527056,C12H21NO4,272,C13-label-7,[M-H2O-H]-,Tiglylcarnitine
+232.1560605,C12H21NO4,272,C13-label-8,[M-H2O-H]-,Tiglylcarnitine
+225.0517028,C9H12N2O6,273,C12 PARENT,[M-H2O-H]-,Uridine
+226.0550576,C9H12N2O6,273,C13-label-1,[M-H2O-H]-,Uridine
+227.0584125,C9H12N2O6,273,C13-label-2,[M-H2O-H]-,Uridine
+228.0617673,C9H12N2O6,273,C13-label-3,[M-H2O-H]-,Uridine
+229.0651221,C9H12N2O6,273,C13-label-4,[M-H2O-H]-,Uridine
+230.068477,C9H12N2O6,273,C13-label-5,[M-H2O-H]-,Uridine
+231.0718318,C9H12N2O6,273,C13-label-6,[M-H2O-H]-,Uridine
+232.0751866,C9H12N2O6,273,C13-label-7,[M-H2O-H]-,Uridine
+233.0785415,C9H12N2O6,273,C13-label-8,[M-H2O-H]-,Uridine
+225.1860068,C14H28O3,274,C12 PARENT,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+226.1893616,C14H28O3,274,C13-label-1,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+227.1927165,C14H28O3,274,C13-label-2,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+228.1960713,C14H28O3,274,C13-label-3,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+229.1994261,C14H28O3,274,C13-label-4,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+230.202781,C14H28O3,274,C13-label-5,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+231.2061358,C14H28O3,274,C13-label-6,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+232.2094906,C14H28O3,274,C13-label-7,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+233.2128455,C14H28O3,274,C13-label-8,[M-H2O-H]-,"C14:0,OH FA(Hydroxymyristic acid)"
+226.9879938,C5H12O7P2,275,C12 PARENT,[M-H2O-H]-,Dimethylallylpyrophosphate
+227.9913486,C5H12O7P2,275,C13-label-1,[M-H2O-H]-,Dimethylallylpyrophosphate
+228.9947035,C5H12O7P2,275,C13-label-2,[M-H2O-H]-,Dimethylallylpyrophosphate
+229.9980583,C5H12O7P2,275,C13-label-3,[M-H2O-H]-,Dimethylallylpyrophosphate
+231.0014131,C5H12O7P2,275,C13-label-4,[M-H2O-H]-,Dimethylallylpyrophosphate
+232.004768,C5H12O7P2,275,C13-label-5,[M-H2O-H]-,Dimethylallylpyrophosphate
+227.1037368,C10H18N2O5,276,C12 PARENT,[M-H2O-H]-,Glutamylvaline
+228.1070916,C10H18N2O5,276,C13-label-1,[M-H2O-H]-,Glutamylvaline
+229.1104465,C10H18N2O5,276,C13-label-2,[M-H2O-H]-,Glutamylvaline
+230.1138013,C10H18N2O5,276,C13-label-3,[M-H2O-H]-,Glutamylvaline
+231.1171561,C10H18N2O5,276,C13-label-4,[M-H2O-H]-,Glutamylvaline
+232.120511,C10H18N2O5,276,C13-label-5,[M-H2O-H]-,Glutamylvaline
+233.1238658,C10H18N2O5,276,C13-label-6,[M-H2O-H]-,Glutamylvaline
+234.1272206,C10H18N2O5,276,C13-label-7,[M-H2O-H]-,Glutamylvaline
+235.1305755,C10H18N2O5,276,C13-label-8,[M-H2O-H]-,Glutamylvaline
+232.0979218,C13H17NO4,277,C12 PARENT,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+233.1012766,C13H17NO4,277,C13-label-1,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+234.1046315,C13H17NO4,277,C13-label-2,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+235.1079863,C13H17NO4,277,C13-label-3,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+236.1113411,C13H17NO4,277,C13-label-4,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+237.114696,C13H17NO4,277,C13-label-5,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+238.1180508,C13H17NO4,277,C13-label-6,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+239.1214056,C13H17NO4,277,C13-label-7,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+240.1247605,C13H17NO4,277,C13-label-8,[M-H2O-H]-,Acetyl-tyrosine ethyl ester
+235.2067408,C16H30O2,278,C12 PARENT,[M-H2O-H]-,Hexadecenoic acid
+236.2100956,C16H30O2,278,C13-label-1,[M-H2O-H]-,Hexadecenoic acid
+237.2134505,C16H30O2,278,C13-label-2,[M-H2O-H]-,Hexadecenoic acid
+238.2168053,C16H30O2,278,C13-label-3,[M-H2O-H]-,Hexadecenoic acid
+239.2201601,C16H30O2,278,C13-label-4,[M-H2O-H]-,Hexadecenoic acid
+240.223515,C16H30O2,278,C13-label-5,[M-H2O-H]-,Hexadecenoic acid
+241.2268698,C16H30O2,278,C13-label-6,[M-H2O-H]-,Hexadecenoic acid
+242.2302246,C16H30O2,278,C13-label-7,[M-H2O-H]-,Hexadecenoic acid
+243.2335795,C16H30O2,278,C13-label-8,[M-H2O-H]-,Hexadecenoic acid
+237.2223908,C16H32O2,279,C12 PARENT,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+238.2257456,C16H32O2,279,C13-label-1,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+239.2291005,C16H32O2,279,C13-label-2,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+240.2324553,C16H32O2,279,C13-label-3,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+241.2358101,C16H32O2,279,C13-label-4,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+242.239165,C16H32O2,279,C13-label-5,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+243.2425198,C16H32O2,279,C13-label-6,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+244.2458746,C16H32O2,279,C13-label-7,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+245.2492295,C16H32O2,279,C13-label-8,[M-H2O-H]-,C16:0 FA (Palmitic acid)
+239.0673528,C10H14N2O6,280,C12 PARENT,[M-H2O-H]-,Pyroglutamylglutamic acid
+240.0707076,C10H14N2O6,280,C13-label-1,[M-H2O-H]-,Pyroglutamylglutamic acid
+241.0740625,C10H14N2O6,280,C13-label-2,[M-H2O-H]-,Pyroglutamylglutamic acid
+242.0774173,C10H14N2O6,280,C13-label-3,[M-H2O-H]-,Pyroglutamylglutamic acid
+243.0807721,C10H14N2O6,280,C13-label-4,[M-H2O-H]-,Pyroglutamylglutamic acid
+244.084127,C10H14N2O6,280,C13-label-5,[M-H2O-H]-,Pyroglutamylglutamic acid
+245.0874818,C10H14N2O6,280,C13-label-6,[M-H2O-H]-,Pyroglutamylglutamic acid
+246.0908366,C10H14N2O6,280,C13-label-7,[M-H2O-H]-,Pyroglutamylglutamic acid
+247.0941915,C10H14N2O6,280,C13-label-8,[M-H2O-H]-,Pyroglutamylglutamic acid
+180.0302378,C8H9NO5,281,C12 PARENT,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+181.0335926,C8H9NO5,281,C13-label-1,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+182.0369475,C8H9NO5,281,C13-label-2,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+183.0403023,C8H9NO5,281,C13-label-3,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+184.0436571,C8H9NO5,281,C13-label-4,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+185.047012,C8H9NO5,281,C13-label-5,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+186.0503668,C8H9NO5,281,C13-label-6,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+187.0537216,C8H9NO5,281,C13-label-7,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+188.0570765,C8H9NO5,281,C13-label-8,[M-H2O-H]-,(Hydroxymethyl-furoyl)glycine
+241.1193868,C11H20N2O5,282,C12 PARENT,[M-H2O-H]-,Glutamylleucine
+242.1227416,C11H20N2O5,282,C13-label-1,[M-H2O-H]-,Glutamylleucine
+243.1260965,C11H20N2O5,282,C13-label-2,[M-H2O-H]-,Glutamylleucine
+244.1294513,C11H20N2O5,282,C13-label-3,[M-H2O-H]-,Glutamylleucine
+245.1328061,C11H20N2O5,282,C13-label-4,[M-H2O-H]-,Glutamylleucine
+246.136161,C11H20N2O5,282,C13-label-5,[M-H2O-H]-,Glutamylleucine
+247.1395158,C11H20N2O5,282,C13-label-6,[M-H2O-H]-,Glutamylleucine
+248.1428706,C11H20N2O5,282,C13-label-7,[M-H2O-H]-,Glutamylleucine
+249.1462255,C11H20N2O5,282,C13-label-8,[M-H2O-H]-,Glutamylleucine
+242.0128745,C9H11NO6S,283,C12 PARENT,[M-H2O-H]-,Methoxyacetaminophen sulfate
+243.0162293,C9H11NO6S,283,C13-label-1,[M-H2O-H]-,Methoxyacetaminophen sulfate
+244.0195842,C9H11NO6S,283,C13-label-2,[M-H2O-H]-,Methoxyacetaminophen sulfate
+245.022939,C9H11NO6S,283,C13-label-3,[M-H2O-H]-,Methoxyacetaminophen sulfate
+246.0262938,C9H11NO6S,283,C13-label-4,[M-H2O-H]-,Methoxyacetaminophen sulfate
+247.0296487,C9H11NO6S,283,C13-label-5,[M-H2O-H]-,Methoxyacetaminophen sulfate
+248.0330035,C9H11NO6S,283,C13-label-6,[M-H2O-H]-,Methoxyacetaminophen sulfate
+249.0363583,C9H11NO6S,283,C13-label-7,[M-H2O-H]-,Methoxyacetaminophen sulfate
+250.0397132,C9H11NO6S,283,C13-label-8,[M-H2O-H]-,Methoxyacetaminophen sulfate
+245.1030708,C11H20O7,284,C12 PARENT,[M-H2O-H]-,Ilicifolinoside A
+246.1064256,C11H20O7,284,C13-label-1,[M-H2O-H]-,Ilicifolinoside A
+247.1097805,C11H20O7,284,C13-label-2,[M-H2O-H]-,Ilicifolinoside A
+248.1131353,C11H20O7,284,C13-label-3,[M-H2O-H]-,Ilicifolinoside A
+249.1164901,C11H20O7,284,C13-label-4,[M-H2O-H]-,Ilicifolinoside A
+250.119845,C11H20O7,284,C13-label-5,[M-H2O-H]-,Ilicifolinoside A
+251.1231998,C11H20O7,284,C13-label-6,[M-H2O-H]-,Ilicifolinoside A
+252.1265546,C11H20O7,284,C13-label-7,[M-H2O-H]-,Ilicifolinoside A
+253.1299095,C11H20O7,284,C13-label-8,[M-H2O-H]-,Ilicifolinoside A
+249.0629348,C10H12N4O5,285,C12 PARENT,[M-H2O-H]-,Inosine
+250.0662896,C10H12N4O5,285,C13-label-1,[M-H2O-H]-,Inosine
+251.0696445,C10H12N4O5,285,C13-label-2,[M-H2O-H]-,Inosine
+252.0729993,C10H12N4O5,285,C13-label-3,[M-H2O-H]-,Inosine
+253.0763541,C10H12N4O5,285,C13-label-4,[M-H2O-H]-,Inosine
+254.079709,C10H12N4O5,285,C13-label-5,[M-H2O-H]-,Inosine
+255.0830638,C10H12N4O5,285,C13-label-6,[M-H2O-H]-,Inosine
+256.0864186,C10H12N4O5,285,C13-label-7,[M-H2O-H]-,Inosine
+257.0897735,C10H12N4O5,285,C13-label-8,[M-H2O-H]-,Inosine
+271.0224553,C7H15O10P,286,C12 PARENT,[M-H2O-H]-,Sedoheptulose 7-phosphate
+272.0258101,C7H15O10P,286,C13-label-1,[M-H2O-H]-,Sedoheptulose 7-phosphate
+273.029165,C7H15O10P,286,C13-label-2,[M-H2O-H]-,Sedoheptulose 7-phosphate
+274.0325198,C7H15O10P,286,C13-label-3,[M-H2O-H]-,Sedoheptulose 7-phosphate
+275.0358746,C7H15O10P,286,C13-label-4,[M-H2O-H]-,Sedoheptulose 7-phosphate
+276.0392295,C7H15O10P,286,C13-label-5,[M-H2O-H]-,Sedoheptulose 7-phosphate
+277.0425843,C7H15O10P,286,C13-label-6,[M-H2O-H]-,Sedoheptulose 7-phosphate
+278.0459391,C7H15O10P,286,C13-label-7,[M-H2O-H]-,Sedoheptulose 7-phosphate
+272.015195,C10H14NO5PS,287,C12 PARENT,[M-H2O-H]-,Parathion
+273.0185498,C10H14NO5PS,287,C13-label-1,[M-H2O-H]-,Parathion
+274.0219047,C10H14NO5PS,287,C13-label-2,[M-H2O-H]-,Parathion
+275.0252595,C10H14NO5PS,287,C13-label-3,[M-H2O-H]-,Parathion
+276.0286143,C10H14NO5PS,287,C13-label-4,[M-H2O-H]-,Parathion
+277.0319692,C10H14NO5PS,287,C13-label-5,[M-H2O-H]-,Parathion
+278.035324,C10H14NO5PS,287,C13-label-6,[M-H2O-H]-,Parathion
+279.0386788,C10H14NO5PS,287,C13-label-7,[M-H2O-H]-,Parathion
+280.0420337,C10H14NO5PS,287,C13-label-8,[M-H2O-H]-,Parathion
+256.0939018,C10H17N3O6,288,C12 PARENT,[M-H2O-H]-,Glutamylglutamine
+257.0972566,C10H17N3O6,288,C13-label-1,[M-H2O-H]-,Glutamylglutamine
+258.1006115,C10H17N3O6,288,C13-label-2,[M-H2O-H]-,Glutamylglutamine
+259.1039663,C10H17N3O6,288,C13-label-3,[M-H2O-H]-,Glutamylglutamine
+260.1073211,C10H17N3O6,288,C13-label-4,[M-H2O-H]-,Glutamylglutamine
+261.110676,C10H17N3O6,288,C13-label-5,[M-H2O-H]-,Glutamylglutamine
+262.1140308,C10H17N3O6,288,C13-label-6,[M-H2O-H]-,Glutamylglutamine
+263.1173856,C10H17N3O6,288,C13-label-7,[M-H2O-H]-,Glutamylglutamine
+264.1207405,C10H17N3O6,288,C13-label-8,[M-H2O-H]-,Glutamylglutamine
+257.0068053,C6H13O10P,289,C12 PARENT,[M-H2O-H]-,Phosphogluconate
+258.0101601,C6H13O10P,289,C13-label-1,[M-H2O-H]-,Phosphogluconate
+259.013515,C6H13O10P,289,C13-label-2,[M-H2O-H]-,Phosphogluconate
+260.0168698,C6H13O10P,289,C13-label-3,[M-H2O-H]-,Phosphogluconate
+261.0202246,C6H13O10P,289,C13-label-4,[M-H2O-H]-,Phosphogluconate
+262.0235795,C6H13O10P,289,C13-label-5,[M-H2O-H]-,Phosphogluconate
+263.0269343,C6H13O10P,289,C13-label-6,[M-H2O-H]-,Phosphogluconate
+275.0318302,C13H14N2O2S2,290,C12 PARENT,[M-H2O-H]-,Wasalexin A
+276.035185,C13H14N2O2S2,290,C13-label-1,[M-H2O-H]-,Wasalexin A
+277.0385399,C13H14N2O2S2,290,C13-label-2,[M-H2O-H]-,Wasalexin A
+278.0418947,C13H14N2O2S2,290,C13-label-3,[M-H2O-H]-,Wasalexin A
+279.0452495,C13H14N2O2S2,290,C13-label-4,[M-H2O-H]-,Wasalexin A
+280.0486044,C13H14N2O2S2,290,C13-label-5,[M-H2O-H]-,Wasalexin A
+281.0519592,C13H14N2O2S2,290,C13-label-6,[M-H2O-H]-,Wasalexin A
+282.055314,C13H14N2O2S2,290,C13-label-7,[M-H2O-H]-,Wasalexin A
+283.0586689,C13H14N2O2S2,290,C13-label-8,[M-H2O-H]-,Wasalexin A
+257.0779188,C10H16N2O7,291,C12 PARENT,[M-H2O-H]-,Glutamylglutamic acid
+258.0812736,C10H16N2O7,291,C13-label-1,[M-H2O-H]-,Glutamylglutamic acid
+259.0846285,C10H16N2O7,291,C13-label-2,[M-H2O-H]-,Glutamylglutamic acid
+260.0879833,C10H16N2O7,291,C13-label-3,[M-H2O-H]-,Glutamylglutamic acid
+261.0913381,C10H16N2O7,291,C13-label-4,[M-H2O-H]-,Glutamylglutamic acid
+262.094693,C10H16N2O7,291,C13-label-5,[M-H2O-H]-,Glutamylglutamic acid
+263.0980478,C10H16N2O7,291,C13-label-6,[M-H2O-H]-,Glutamylglutamic acid
+264.1014026,C10H16N2O7,291,C13-label-7,[M-H2O-H]-,Glutamylglutamic acid
+265.1047575,C10H16N2O7,291,C13-label-8,[M-H2O-H]-,Glutamylglutamic acid
+261.0880868,C13H16N2O5,292,C12 PARENT,[M-H2O-H]-,Aspartylphenylalanine
+262.0914416,C13H16N2O5,292,C13-label-1,[M-H2O-H]-,Aspartylphenylalanine
+263.0947965,C13H16N2O5,292,C13-label-2,[M-H2O-H]-,Aspartylphenylalanine
+264.0981513,C13H16N2O5,292,C13-label-3,[M-H2O-H]-,Aspartylphenylalanine
+265.1015061,C13H16N2O5,292,C13-label-4,[M-H2O-H]-,Aspartylphenylalanine
+266.104861,C13H16N2O5,292,C13-label-5,[M-H2O-H]-,Aspartylphenylalanine
+267.1082158,C13H16N2O5,292,C13-label-6,[M-H2O-H]-,Aspartylphenylalanine
+268.1115706,C13H16N2O5,292,C13-label-7,[M-H2O-H]-,Aspartylphenylalanine
+269.1149255,C13H16N2O5,292,C13-label-8,[M-H2O-H]-,Aspartylphenylalanine
+279.1615208,C17H22N4O,293,C12 PARENT,[M-H2O-H]-,Minaprine
+280.1648756,C17H22N4O,293,C13-label-1,[M-H2O-H]-,Minaprine
+281.1682305,C17H22N4O,293,C13-label-2,[M-H2O-H]-,Minaprine
+282.1715853,C17H22N4O,293,C13-label-3,[M-H2O-H]-,Minaprine
+283.1749401,C17H22N4O,293,C13-label-4,[M-H2O-H]-,Minaprine
+284.178295,C17H22N4O,293,C13-label-5,[M-H2O-H]-,Minaprine
+285.1816498,C17H22N4O,293,C13-label-6,[M-H2O-H]-,Minaprine
+286.1850046,C17H22N4O,293,C13-label-7,[M-H2O-H]-,Minaprine
+287.1883595,C17H22N4O,293,C13-label-8,[M-H2O-H]-,Minaprine
+263.1037368,C13H18N2O5,294,C12 PARENT,[M-H2O-H]-,Threonyltyrosine
+264.1070916,C13H18N2O5,294,C13-label-1,[M-H2O-H]-,Threonyltyrosine
+265.1104465,C13H18N2O5,294,C13-label-2,[M-H2O-H]-,Threonyltyrosine
+266.1138013,C13H18N2O5,294,C13-label-3,[M-H2O-H]-,Threonyltyrosine
+267.1171561,C13H18N2O5,294,C13-label-4,[M-H2O-H]-,Threonyltyrosine
+268.120511,C13H18N2O5,294,C13-label-5,[M-H2O-H]-,Threonyltyrosine
+269.1238658,C13H18N2O5,294,C13-label-6,[M-H2O-H]-,Threonyltyrosine
+270.1272206,C13H18N2O5,294,C13-label-7,[M-H2O-H]-,Threonyltyrosine
+271.1305755,C13H18N2O5,294,C13-label-8,[M-H2O-H]-,Threonyltyrosine
+265.0578508,C10H12N4O6,295,C12 PARENT,[M-H2O-H]-,Xanthosine
+266.0612056,C10H12N4O6,295,C13-label-1,[M-H2O-H]-,Xanthosine
+267.0645605,C10H12N4O6,295,C13-label-2,[M-H2O-H]-,Xanthosine
+268.0679153,C10H12N4O6,295,C13-label-3,[M-H2O-H]-,Xanthosine
+269.0712701,C10H12N4O6,295,C13-label-4,[M-H2O-H]-,Xanthosine
+270.074625,C10H12N4O6,295,C13-label-5,[M-H2O-H]-,Xanthosine
+271.0779798,C10H12N4O6,295,C13-label-6,[M-H2O-H]-,Xanthosine
+272.0813346,C10H12N4O6,295,C13-label-7,[M-H2O-H]-,Xanthosine
+273.0846895,C10H12N4O6,295,C13-label-8,[M-H2O-H]-,Xanthosine
+285.0728348,C11H16N2O8,296,C12 PARENT,[M-H2O-H]-,N-Acetylaspartylglutamate
+286.0761896,C11H16N2O8,296,C13-label-1,[M-H2O-H]-,N-Acetylaspartylglutamate
+287.0795445,C11H16N2O8,296,C13-label-2,[M-H2O-H]-,N-Acetylaspartylglutamate
+288.0828993,C11H16N2O8,296,C13-label-3,[M-H2O-H]-,N-Acetylaspartylglutamate
+289.0862541,C11H16N2O8,296,C13-label-4,[M-H2O-H]-,N-Acetylaspartylglutamate
+290.089609,C11H16N2O8,296,C13-label-5,[M-H2O-H]-,N-Acetylaspartylglutamate
+291.0929638,C11H16N2O8,296,C13-label-6,[M-H2O-H]-,N-Acetylaspartylglutamate
+292.0963186,C11H16N2O8,296,C13-label-7,[M-H2O-H]-,N-Acetylaspartylglutamate
+293.0996735,C11H16N2O8,296,C13-label-8,[M-H2O-H]-,N-Acetylaspartylglutamate
+210.0173063,C5H12NO7P,297,C12 PARENT,[M-H2O-H]-,Phosphoribosylamine
+211.0206611,C5H12NO7P,297,C13-label-1,[M-H2O-H]-,Phosphoribosylamine
+212.024016,C5H12NO7P,297,C13-label-2,[M-H2O-H]-,Phosphoribosylamine
+213.0273708,C5H12NO7P,297,C13-label-3,[M-H2O-H]-,Phosphoribosylamine
+214.0307256,C5H12NO7P,297,C13-label-4,[M-H2O-H]-,Phosphoribosylamine
+215.0340805,C5H12NO7P,297,C13-label-5,[M-H2O-H]-,Phosphoribosylamine
+275.1037368,C14H18N2O5,298,C12 PARENT,[M-H2O-H]-,Phenylalanyl-Glutamate
+276.1070916,C14H18N2O5,298,C13-label-1,[M-H2O-H]-,Phenylalanyl-Glutamate
+277.1104465,C14H18N2O5,298,C13-label-2,[M-H2O-H]-,Phenylalanyl-Glutamate
+278.1138013,C14H18N2O5,298,C13-label-3,[M-H2O-H]-,Phenylalanyl-Glutamate
+279.1171561,C14H18N2O5,298,C13-label-4,[M-H2O-H]-,Phenylalanyl-Glutamate
+280.120511,C14H18N2O5,298,C13-label-5,[M-H2O-H]-,Phenylalanyl-Glutamate
+281.1238658,C14H18N2O5,298,C13-label-6,[M-H2O-H]-,Phenylalanyl-Glutamate
+282.1272206,C14H18N2O5,298,C13-label-7,[M-H2O-H]-,Phenylalanyl-Glutamate
+283.1305755,C14H18N2O5,298,C13-label-8,[M-H2O-H]-,Phenylalanyl-Glutamate
+282.0384383,C8H16NO9P,299,C12 PARENT,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+283.0417931,C8H16NO9P,299,C13-label-1,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+284.045148,C8H16NO9P,299,C13-label-2,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+285.0485028,C8H16NO9P,299,C13-label-3,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+286.0518576,C8H16NO9P,299,C13-label-4,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+287.0552125,C8H16NO9P,299,C13-label-5,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+288.0585673,C8H16NO9P,299,C13-label-6,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+289.0619221,C8H16NO9P,299,C13-label-7,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+290.065277,C8H16NO9P,299,C13-label-8,[M-H2O-H]-,N-Acetyl-glucosamine 6-phosphate
+224.0676858,C9H13N3O5,300,C12 PARENT,[M-H2O-H]-,Cytidine
+225.0710406,C9H13N3O5,300,C13-label-1,[M-H2O-H]-,Cytidine
+226.0743955,C9H13N3O5,300,C13-label-2,[M-H2O-H]-,Cytidine
+227.0777503,C9H13N3O5,300,C13-label-3,[M-H2O-H]-,Cytidine
+228.0811051,C9H13N3O5,300,C13-label-4,[M-H2O-H]-,Cytidine
+229.08446,C9H13N3O5,300,C13-label-5,[M-H2O-H]-,Cytidine
+230.0878148,C9H13N3O5,300,C13-label-6,[M-H2O-H]-,Cytidine
+231.0911696,C9H13N3O5,300,C13-label-7,[M-H2O-H]-,Cytidine
+232.0945245,C9H13N3O5,300,C13-label-8,[M-H2O-H]-,Cytidine
+285.2223908,C20H32O2,301,C12 PARENT,[M-H2O-H]-,Eicosadiynoic acid
+286.2257456,C20H32O2,301,C13-label-1,[M-H2O-H]-,Eicosadiynoic acid
+287.2291005,C20H32O2,301,C13-label-2,[M-H2O-H]-,Eicosadiynoic acid
+288.2324553,C20H32O2,301,C13-label-3,[M-H2O-H]-,Eicosadiynoic acid
+289.2358101,C20H32O2,301,C13-label-4,[M-H2O-H]-,Eicosadiynoic acid
+290.239165,C20H32O2,301,C13-label-5,[M-H2O-H]-,Eicosadiynoic acid
+291.2425198,C20H32O2,301,C13-label-6,[M-H2O-H]-,Eicosadiynoic acid
+292.2458746,C20H32O2,301,C13-label-7,[M-H2O-H]-,Eicosadiynoic acid
+293.2492295,C20H32O2,301,C13-label-8,[M-H2O-H]-,Eicosadiynoic acid
+288.0659725,C10H17N3O6S,302,C12 PARENT,[M-H2O-H]-,Glutathione (reduced)
+289.0693273,C10H17N3O6S,302,C13-label-1,[M-H2O-H]-,Glutathione (reduced)
+290.0726822,C10H17N3O6S,302,C13-label-2,[M-H2O-H]-,Glutathione (reduced)
+291.076037,C10H17N3O6S,302,C13-label-3,[M-H2O-H]-,Glutathione (reduced)
+292.0793918,C10H17N3O6S,302,C13-label-4,[M-H2O-H]-,Glutathione (reduced)
+293.0827467,C10H17N3O6S,302,C13-label-5,[M-H2O-H]-,Glutathione (reduced)
+294.0861015,C10H17N3O6S,302,C13-label-6,[M-H2O-H]-,Glutathione (reduced)
+295.0894563,C10H17N3O6S,302,C13-label-7,[M-H2O-H]-,Glutathione (reduced)
+296.0928112,C10H17N3O6S,302,C13-label-8,[M-H2O-H]-,Glutathione (reduced)
+290.0881518,C11H19NO9,303,C12 PARENT,[M-H2O-H]-,N-Acetylneuraminic acid
+291.0915066,C11H19NO9,303,C13-label-1,[M-H2O-H]-,N-Acetylneuraminic acid
+292.0948615,C11H19NO9,303,C13-label-2,[M-H2O-H]-,N-Acetylneuraminic acid
+293.0982163,C11H19NO9,303,C13-label-3,[M-H2O-H]-,N-Acetylneuraminic acid
+294.1015711,C11H19NO9,303,C13-label-4,[M-H2O-H]-,N-Acetylneuraminic acid
+295.104926,C11H19NO9,303,C13-label-5,[M-H2O-H]-,N-Acetylneuraminic acid
+296.1082808,C11H19NO9,303,C13-label-6,[M-H2O-H]-,N-Acetylneuraminic acid
+297.1116356,C11H19NO9,303,C13-label-7,[M-H2O-H]-,N-Acetylneuraminic acid
+298.1149905,C11H19NO9,303,C13-label-8,[M-H2O-H]-,N-Acetylneuraminic acid
+308.2231218,C18H33NO4,304,C12 PARENT,[M-H2O-H]-,Nitrooctadecenoic Acid
+309.2264766,C18H33NO4,304,C13-label-1,[M-H2O-H]-,Nitrooctadecenoic Acid
+310.2298315,C18H33NO4,304,C13-label-2,[M-H2O-H]-,Nitrooctadecenoic Acid
+311.2331863,C18H33NO4,304,C13-label-3,[M-H2O-H]-,Nitrooctadecenoic Acid
+312.2365411,C18H33NO4,304,C13-label-4,[M-H2O-H]-,Nitrooctadecenoic Acid
+313.239896,C18H33NO4,304,C13-label-5,[M-H2O-H]-,Nitrooctadecenoic Acid
+314.2432508,C18H33NO4,304,C13-label-6,[M-H2O-H]-,Nitrooctadecenoic Acid
+315.2466056,C18H33NO4,304,C13-label-7,[M-H2O-H]-,Nitrooctadecenoic Acid
+316.2499605,C18H33NO4,304,C13-label-8,[M-H2O-H]-,Nitrooctadecenoic Acid
+291.0986528,C14H18N2O6,305,C12 PARENT,[M-H2O-H]-,Glutamyltyrosine
+292.1020076,C14H18N2O6,305,C13-label-1,[M-H2O-H]-,Glutamyltyrosine
+293.1053625,C14H18N2O6,305,C13-label-2,[M-H2O-H]-,Glutamyltyrosine
+294.1087173,C14H18N2O6,305,C13-label-3,[M-H2O-H]-,Glutamyltyrosine
+295.1120721,C14H18N2O6,305,C13-label-4,[M-H2O-H]-,Glutamyltyrosine
+296.115427,C14H18N2O6,305,C13-label-5,[M-H2O-H]-,Glutamyltyrosine
+297.1187818,C14H18N2O6,305,C13-label-6,[M-H2O-H]-,Glutamyltyrosine
+298.1221366,C14H18N2O6,305,C13-label-7,[M-H2O-H]-,Glutamyltyrosine
+299.1254915,C14H18N2O6,305,C13-label-8,[M-H2O-H]-,Glutamyltyrosine
+241.0830028,C10H16N2O6,306,C12 PARENT,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+242.0863576,C10H16N2O6,306,C13-label-1,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+243.0897125,C10H16N2O6,306,C13-label-2,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+244.0930673,C10H16N2O6,306,C13-label-3,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+245.0964221,C10H16N2O6,306,C13-label-4,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+246.099777,C10H16N2O6,306,C13-label-5,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+247.1031318,C10H16N2O6,306,C13-label-6,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+248.1064866,C10H16N2O6,306,C13-label-7,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+249.1098415,C10H16N2O6,306,C13-label-8,[M-H2O-H]-,Hydroxyprolyl-Glutamate
+301.2173068,C20H32O3,307,C12 PARENT,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+302.2206616,C20H32O3,307,C13-label-1,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+303.2240165,C20H32O3,307,C13-label-2,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+304.2273713,C20H32O3,307,C13-label-3,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+305.2307261,C20H32O3,307,C13-label-4,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+306.234081,C20H32O3,307,C13-label-5,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+307.2374358,C20H32O3,307,C13-label-6,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+308.2407906,C20H32O3,307,C13-label-7,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+309.2441455,C20H32O3,307,C13-label-8,[M-H2O-H]-,Hydroxy-eicosatetraenoic acid
+303.0775208,C18H14N2O4,308,C12 PARENT,[M-H2O-H]-,Flazine methyl ether
+304.0808756,C18H14N2O4,308,C13-label-1,[M-H2O-H]-,Flazine methyl ether
+305.0842305,C18H14N2O4,308,C13-label-2,[M-H2O-H]-,Flazine methyl ether
+306.0875853,C18H14N2O4,308,C13-label-3,[M-H2O-H]-,Flazine methyl ether
+307.0909401,C18H14N2O4,308,C13-label-4,[M-H2O-H]-,Flazine methyl ether
+308.094295,C18H14N2O4,308,C13-label-5,[M-H2O-H]-,Flazine methyl ether
+309.0976498,C18H14N2O4,308,C13-label-6,[M-H2O-H]-,Flazine methyl ether
+310.1010046,C18H14N2O4,308,C13-label-7,[M-H2O-H]-,Flazine methyl ether
+311.1043595,C18H14N2O4,308,C13-label-8,[M-H2O-H]-,Flazine methyl ether
+309.2223908,C22H32O2,309,C12 PARENT,[M-H2O-H]-,Docosahexanoic acid
+310.2257456,C22H32O2,309,C13-label-1,[M-H2O-H]-,Docosahexanoic acid
+311.2291005,C22H32O2,309,C13-label-2,[M-H2O-H]-,Docosahexanoic acid
+312.2324553,C22H32O2,309,C13-label-3,[M-H2O-H]-,Docosahexanoic acid
+313.2358101,C22H32O2,309,C13-label-4,[M-H2O-H]-,Docosahexanoic acid
+314.239165,C22H32O2,309,C13-label-5,[M-H2O-H]-,Docosahexanoic acid
+315.2425198,C22H32O2,309,C13-label-6,[M-H2O-H]-,Docosahexanoic acid
+316.2458746,C22H32O2,309,C13-label-7,[M-H2O-H]-,Docosahexanoic acid
+317.2492295,C22H32O2,309,C13-label-8,[M-H2O-H]-,Docosahexanoic acid
+335.2227888,C20H34O5,310,C12 PARENT,[M-H2O-H]-,Prostaglandin F2alpha
+336.2261436,C20H34O5,310,C13-label-1,[M-H2O-H]-,Prostaglandin F2alpha
+337.2294985,C20H34O5,310,C13-label-2,[M-H2O-H]-,Prostaglandin F2alpha
+338.2328533,C20H34O5,310,C13-label-3,[M-H2O-H]-,Prostaglandin F2alpha
+339.2362081,C20H34O5,310,C13-label-4,[M-H2O-H]-,Prostaglandin F2alpha
+340.239563,C20H34O5,310,C13-label-5,[M-H2O-H]-,Prostaglandin F2alpha
+341.2429178,C20H34O5,310,C13-label-6,[M-H2O-H]-,Prostaglandin F2alpha
+342.2462726,C20H34O5,310,C13-label-7,[M-H2O-H]-,Prostaglandin F2alpha
+343.2496275,C20H34O5,310,C13-label-8,[M-H2O-H]-,Prostaglandin F2alpha
+366.0830678,C16H19NO10,311,C12 PARENT,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+367.0864226,C16H19NO10,311,C13-label-1,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+368.0897775,C16H19NO10,311,C13-label-2,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+369.0931323,C16H19NO10,311,C13-label-3,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+370.0964871,C16H19NO10,311,C13-label-4,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+371.099842,C16H19NO10,311,C13-label-5,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+372.1031968,C16H19NO10,311,C13-label-6,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+373.1065516,C16H19NO10,311,C13-label-7,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+374.1099065,C16H19NO10,311,C13-label-8,[M-H2O-H]-,Dihydro-dihydroxy-oxoindoleacetic acid 5-glucoside
+351.1085528,C17H22O9,312,C12 PARENT,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+352.1119076,C17H22O9,312,C13-label-1,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+353.1152625,C17H22O9,312,C13-label-2,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+354.1186173,C17H22O9,312,C13-label-3,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+355.1219721,C17H22O9,312,C13-label-4,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+356.125327,C17H22O9,312,C13-label-5,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+357.1286818,C17H22O9,312,C13-label-6,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+358.1320366,C17H22O9,312,C13-label-7,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+359.1353915,C17H22O9,312,C13-label-8,[M-H2O-H]-,Hydroxy-(phenyl)-valeric acid-O-glucuronide
+371.2075368,C19H34O8,313,C12 PARENT,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+372.2108916,C19H34O8,313,C13-label-1,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+373.2142465,C19H34O8,313,C13-label-2,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+374.2176013,C19H34O8,313,C13-label-3,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+375.2209561,C19H34O8,313,C13-label-4,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+376.224311,C19H34O8,313,C13-label-5,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+377.2276658,C19H34O8,313,C13-label-6,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+378.2310206,C19H34O8,313,C13-label-7,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+379.2343755,C19H34O8,313,C13-label-8,[M-H2O-H]-,Dihydro-dihydroxy-ionol 9-glucoside
+364.0898818,C14H17N5O8,314,C12 PARENT,[M-H2O-H]-,Succinyladenosine
+365.0932366,C14H17N5O8,314,C13-label-1,[M-H2O-H]-,Succinyladenosine
+366.0965915,C14H17N5O8,314,C13-label-2,[M-H2O-H]-,Succinyladenosine
+367.0999463,C14H17N5O8,314,C13-label-3,[M-H2O-H]-,Succinyladenosine
+368.1033011,C14H17N5O8,314,C13-label-4,[M-H2O-H]-,Succinyladenosine
+369.106656,C14H17N5O8,314,C13-label-5,[M-H2O-H]-,Succinyladenosine
+370.1100108,C14H17N5O8,314,C13-label-6,[M-H2O-H]-,Succinyladenosine
+371.1133656,C14H17N5O8,314,C13-label-7,[M-H2O-H]-,Succinyladenosine
+372.1167205,C14H17N5O8,314,C13-label-8,[M-H2O-H]-,Succinyladenosine
+367.2126208,C20H34O7,315,C12 PARENT,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+368.2159756,C20H34O7,315,C13-label-1,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+369.2193305,C20H34O7,315,C13-label-2,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+370.2226853,C20H34O7,315,C13-label-3,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+371.2260401,C20H34O7,315,C13-label-4,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+372.229395,C20H34O7,315,C13-label-5,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+373.2327498,C20H34O7,315,C13-label-6,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+374.2361046,C20H34O7,315,C13-label-7,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+375.2394595,C20H34O7,315,C13-label-8,[M-H2O-H]-,Dihydro-trihydroxy-leukotriene B4
+369.1918868,C19H32O8,316,C12 PARENT,[M-H2O-H]-,Dihydroroseoside
+370.1952416,C19H32O8,316,C13-label-1,[M-H2O-H]-,Dihydroroseoside
+371.1985965,C19H32O8,316,C13-label-2,[M-H2O-H]-,Dihydroroseoside
+372.2019513,C19H32O8,316,C13-label-3,[M-H2O-H]-,Dihydroroseoside
+373.2053061,C19H32O8,316,C13-label-4,[M-H2O-H]-,Dihydroroseoside
+374.208661,C19H32O8,316,C13-label-5,[M-H2O-H]-,Dihydroroseoside
+375.2120158,C19H32O8,316,C13-label-6,[M-H2O-H]-,Dihydroroseoside
+376.2153706,C19H32O8,316,C13-label-7,[M-H2O-H]-,Dihydroroseoside
+377.2187255,C19H32O8,316,C13-label-8,[M-H2O-H]-,Dihydroroseoside
+369.2282708,C20H36O7,317,C12 PARENT,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+370.2316256,C20H36O7,317,C13-label-1,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+371.2349805,C20H36O7,317,C13-label-2,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+372.2383353,C20H36O7,317,C13-label-3,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+373.2416901,C20H36O7,317,C13-label-4,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+374.245045,C20H36O7,317,C13-label-5,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+375.2483998,C20H36O7,317,C13-label-6,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+376.2517546,C20H36O7,317,C13-label-7,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+377.2551095,C20H36O7,317,C13-label-8,[M-H2O-H]-,Dihydroxyprostaglandin F1a
+408.1313498,C20H21N5O6,318,C12 PARENT,[M-H2O-H]-,Pemetrexed
+409.1347046,C20H21N5O6,318,C13-label-1,[M-H2O-H]-,Pemetrexed
+410.1380595,C20H21N5O6,318,C13-label-2,[M-H2O-H]-,Pemetrexed
+411.1414143,C20H21N5O6,318,C13-label-3,[M-H2O-H]-,Pemetrexed
+412.1447691,C20H21N5O6,318,C13-label-4,[M-H2O-H]-,Pemetrexed
+413.148124,C20H21N5O6,318,C13-label-5,[M-H2O-H]-,Pemetrexed
+414.1514788,C20H21N5O6,318,C13-label-6,[M-H2O-H]-,Pemetrexed
+415.1548336,C20H21N5O6,318,C13-label-7,[M-H2O-H]-,Pemetrexed
+416.1581885,C20H21N5O6,318,C13-label-8,[M-H2O-H]-,Pemetrexed
+434.2677063,C21H44NO7P,319,C12 PARENT,[M-H2O-H]-,LysoPE(16:0)
+435.2710611,C21H44NO7P,319,C13-label-1,[M-H2O-H]-,LysoPE(16:0)
+436.274416,C21H44NO7P,319,C13-label-2,[M-H2O-H]-,LysoPE(16:0)
+437.2777708,C21H44NO7P,319,C13-label-3,[M-H2O-H]-,LysoPE(16:0)
+438.2811256,C21H44NO7P,319,C13-label-4,[M-H2O-H]-,LysoPE(16:0)
+439.2844805,C21H44NO7P,319,C13-label-5,[M-H2O-H]-,LysoPE(16:0)
+440.2878353,C21H44NO7P,319,C13-label-6,[M-H2O-H]-,LysoPE(16:0)
+441.2911901,C21H44NO7P,319,C13-label-7,[M-H2O-H]-,LysoPE(16:0)
+442.294545,C21H44NO7P,319,C13-label-8,[M-H2O-H]-,LysoPE(16:0)
+462.2990063,C23H48NO7P,320,C12 PARENT,[M-H2O-H]-,LysoPC(15:0)
+463.3023611,C23H48NO7P,320,C13-label-1,[M-H2O-H]-,LysoPC(15:0)
+464.305716,C23H48NO7P,320,C13-label-2,[M-H2O-H]-,LysoPC(15:0)
+465.3090708,C23H48NO7P,320,C13-label-3,[M-H2O-H]-,LysoPC(15:0)
+466.3124256,C23H48NO7P,320,C13-label-4,[M-H2O-H]-,LysoPC(15:0)
+467.3157805,C23H48NO7P,320,C13-label-5,[M-H2O-H]-,LysoPC(15:0)
+468.3191353,C23H48NO7P,320,C13-label-6,[M-H2O-H]-,LysoPC(15:0)
+469.3224901,C23H48NO7P,320,C13-label-7,[M-H2O-H]-,LysoPC(15:0)
+470.325845,C23H48NO7P,320,C13-label-8,[M-H2O-H]-,LysoPC(15:0)
+419.2568073,C21H43O7P,321,C12 PARENT,[M-H2O-H]-,LysoPA(18:0)
+420.2601621,C21H43O7P,321,C13-label-1,[M-H2O-H]-,LysoPA(18:0)
+421.263517,C21H43O7P,321,C13-label-2,[M-H2O-H]-,LysoPA(18:0)
+422.2668718,C21H43O7P,321,C13-label-3,[M-H2O-H]-,LysoPA(18:0)
+423.2702266,C21H43O7P,321,C13-label-4,[M-H2O-H]-,LysoPA(18:0)
+424.2735815,C21H43O7P,321,C13-label-5,[M-H2O-H]-,LysoPA(18:0)
+425.2769363,C21H43O7P,321,C13-label-6,[M-H2O-H]-,LysoPA(18:0)
+426.2802911,C21H43O7P,321,C13-label-7,[M-H2O-H]-,LysoPA(18:0)
+427.283646,C21H43O7P,321,C13-label-8,[M-H2O-H]-,LysoPA(18:0)
+506.2677063,C27H44NO7P,322,C12 PARENT,[M-H2O-H]-,LysoPE(22:6)
+507.2710611,C27H44NO7P,322,C13-label-1,[M-H2O-H]-,LysoPE(22:6)
+508.274416,C27H44NO7P,322,C13-label-2,[M-H2O-H]-,LysoPE(22:6)
+509.2777708,C27H44NO7P,322,C13-label-3,[M-H2O-H]-,LysoPE(22:6)
+510.2811256,C27H44NO7P,322,C13-label-4,[M-H2O-H]-,LysoPE(22:6)
+511.2844805,C27H44NO7P,322,C13-label-5,[M-H2O-H]-,LysoPE(22:6)
+512.2878353,C27H44NO7P,322,C13-label-6,[M-H2O-H]-,LysoPE(22:6)
+513.2911901,C27H44NO7P,322,C13-label-7,[M-H2O-H]-,LysoPE(22:6)
+514.294545,C27H44NO7P,322,C13-label-8,[M-H2O-H]-,LysoPE(22:6)
+533.4575388,C34H64O5,323,C12 PARENT,[M-H2O-H]-,DG(31:1)
+534.4608936,C34H64O5,323,C13-label-1,[M-H2O-H]-,DG(31:1)
+535.4642485,C34H64O5,323,C13-label-2,[M-H2O-H]-,DG(31:1)
+536.4676033,C34H64O5,323,C13-label-3,[M-H2O-H]-,DG(31:1)
+537.4709581,C34H64O5,323,C13-label-4,[M-H2O-H]-,DG(31:1)
+538.474313,C34H64O5,323,C13-label-5,[M-H2O-H]-,DG(31:1)
+539.4776678,C34H64O5,323,C13-label-6,[M-H2O-H]-,DG(31:1)
+540.4810226,C34H64O5,323,C13-label-7,[M-H2O-H]-,DG(31:1)
+541.4843775,C34H64O5,323,C13-label-8,[M-H2O-H]-,DG(31:1)
+588.0637508,C17H27N3O17P2,324,C12 PARENT,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+589.0671056,C17H27N3O17P2,324,C13-label-1,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+590.0704605,C17H27N3O17P2,324,C13-label-2,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+591.0738153,C17H27N3O17P2,324,C13-label-3,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+592.0771701,C17H27N3O17P2,324,C13-label-4,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+593.080525,C17H27N3O17P2,324,C13-label-5,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+594.0838798,C17H27N3O17P2,324,C13-label-6,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+595.0872346,C17H27N3O17P2,324,C13-label-7,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+596.0905895,C17H27N3O17P2,324,C13-label-8,[M-H2O-H]-,UDP-N-acetyl-glucosamine
+589.1715508,C32H32O12,325,C12 PARENT,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+590.1749056,C32H32O12,325,C13-label-1,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+591.1782605,C32H32O12,325,C13-label-2,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+592.1816153,C32H32O12,325,C13-label-3,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+593.1849701,C32H32O12,325,C13-label-4,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+594.188325,C32H32O12,325,C13-label-5,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+595.1916798,C32H32O12,325,C13-label-6,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+596.1950346,C32H32O12,325,C13-label-7,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+597.1983895,C32H32O12,325,C13-label-8,[M-H2O-H]-,(Hydroxyphenyl)butanon-[galloyl-cinnamoylglucoside]
+591.4994048,C37H70O6,326,C12 PARENT,[M-H2O-H]-,TG(34:0)
+592.5027596,C37H70O6,326,C13-label-1,[M-H2O-H]-,TG(34:0)
+593.5061145,C37H70O6,326,C13-label-2,[M-H2O-H]-,TG(34:0)
+594.5094693,C37H70O6,326,C13-label-3,[M-H2O-H]-,TG(34:0)
+595.5128241,C37H70O6,326,C13-label-4,[M-H2O-H]-,TG(34:0)
+596.516179,C37H70O6,326,C13-label-5,[M-H2O-H]-,TG(34:0)
+597.5195338,C37H70O6,326,C13-label-6,[M-H2O-H]-,TG(34:0)
+598.5228886,C37H70O6,326,C13-label-7,[M-H2O-H]-,TG(34:0)
+599.5262435,C37H70O6,326,C13-label-8,[M-H2O-H]-,TG(34:0)
+593.1341362,C20H32N6O12S2,327,C12 PARENT,[M-H2O-H]-,Glutathione (oxidized)
+594.137491,C20H32N6O12S2,327,C13-label-1,[M-H2O-H]-,Glutathione (oxidized)
+595.1408459,C20H32N6O12S2,327,C13-label-2,[M-H2O-H]-,Glutathione (oxidized)
+596.1442007,C20H32N6O12S2,327,C13-label-3,[M-H2O-H]-,Glutathione (oxidized)
+597.1475555,C20H32N6O12S2,327,C13-label-4,[M-H2O-H]-,Glutathione (oxidized)
+598.1509104,C20H32N6O12S2,327,C13-label-5,[M-H2O-H]-,Glutathione (oxidized)
+599.1542652,C20H32N6O12S2,327,C13-label-6,[M-H2O-H]-,Glutathione (oxidized)
+600.15762,C20H32N6O12S2,327,C13-label-7,[M-H2O-H]-,Glutathione (oxidized)
+601.1609749,C20H32N6O12S2,327,C13-label-8,[M-H2O-H]-,Glutathione (oxidized)
+629.4551733,C35H69O8P,328,C12 PARENT,[M-H2O-H]-,PA(32:0)
+630.4585281,C35H69O8P,328,C13-label-1,[M-H2O-H]-,PA(32:0)
+631.461883,C35H69O8P,328,C13-label-2,[M-H2O-H]-,PA(32:0)
+632.4652378,C35H69O8P,328,C13-label-3,[M-H2O-H]-,PA(32:0)
+633.4685926,C35H69O8P,328,C13-label-4,[M-H2O-H]-,PA(32:0)
+634.4719475,C35H69O8P,328,C13-label-5,[M-H2O-H]-,PA(32:0)
+635.4753023,C35H69O8P,328,C13-label-6,[M-H2O-H]-,PA(32:0)
+636.4786571,C35H69O8P,328,C13-label-7,[M-H2O-H]-,PA(32:0)
+637.482012,C35H69O8P,328,C13-label-8,[M-H2O-H]-,PA(32:0)
+709.5412708,C45H76O7,329,C12 PARENT,[M-H2O-H]-,DG(11D3/11D5/0:0)
+710.5446256,C45H76O7,329,C13-label-1,[M-H2O-H]-,DG(11D3/11D5/0:0)
+711.5479805,C45H76O7,329,C13-label-2,[M-H2O-H]-,DG(11D3/11D5/0:0)
+712.5513353,C45H76O7,329,C13-label-3,[M-H2O-H]-,DG(11D3/11D5/0:0)
+713.5546901,C45H76O7,329,C13-label-4,[M-H2O-H]-,DG(11D3/11D5/0:0)
+714.558045,C45H76O7,329,C13-label-5,[M-H2O-H]-,DG(11D3/11D5/0:0)
+715.5613998,C45H76O7,329,C13-label-6,[M-H2O-H]-,DG(11D3/11D5/0:0)
+716.5647546,C45H76O7,329,C13-label-7,[M-H2O-H]-,DG(11D3/11D5/0:0)
+717.5681095,C45H76O7,329,C13-label-8,[M-H2O-H]-,DG(11D3/11D5/0:0)
+764.6409858,C46H89NO8,330,C12 PARENT,[M-H2O-H]-,Glucosylceramide (40:1)
+765.6443406,C46H89NO8,330,C13-label-1,[M-H2O-H]-,Glucosylceramide (40:1)
+766.6476955,C46H89NO8,330,C13-label-2,[M-H2O-H]-,Glucosylceramide (40:1)
+767.6510503,C46H89NO8,330,C13-label-3,[M-H2O-H]-,Glucosylceramide (40:1)
+768.6544051,C46H89NO8,330,C13-label-4,[M-H2O-H]-,Glucosylceramide (40:1)
+769.65776,C46H89NO8,330,C13-label-5,[M-H2O-H]-,Glucosylceramide (40:1)
+770.6611148,C46H89NO8,330,C13-label-6,[M-H2O-H]-,Glucosylceramide (40:1)
+771.6644696,C46H89NO8,330,C13-label-7,[M-H2O-H]-,Glucosylceramide (40:1)
+772.6678245,C46H89NO8,330,C13-label-8,[M-H2O-H]-,Glucosylceramide (40:1)
+798.5654543,C44H84NO10P,331,C12 PARENT,[M-H2O-H]-,PS(38:1)
+799.5688091,C44H84NO10P,331,C13-label-1,[M-H2O-H]-,PS(38:1)
+800.572164,C44H84NO10P,331,C13-label-2,[M-H2O-H]-,PS(38:1)
+801.5755188,C44H84NO10P,331,C13-label-3,[M-H2O-H]-,PS(38:1)
+802.5788736,C44H84NO10P,331,C13-label-4,[M-H2O-H]-,PS(38:1)
+803.5822285,C44H84NO10P,331,C13-label-5,[M-H2O-H]-,PS(38:1)
+804.5855833,C44H84NO10P,331,C13-label-6,[M-H2O-H]-,PS(38:1)
+805.5889381,C44H84NO10P,331,C13-label-7,[M-H2O-H]-,PS(38:1)
+806.592293,C44H84NO10P,331,C13-label-8,[M-H2O-H]-,PS(38:1)
+823.4919553,C48H75O10P,332,C12 PARENT,[M-H2O-H]-,PG(42:10)
+824.4953101,C48H75O10P,332,C13-label-1,[M-H2O-H]-,PG(42:10)
+825.498665,C48H75O10P,332,C13-label-2,[M-H2O-H]-,PG(42:10)
+826.5020198,C48H75O10P,332,C13-label-3,[M-H2O-H]-,PG(42:10)
+827.5053746,C48H75O10P,332,C13-label-4,[M-H2O-H]-,PG(42:10)
+828.5087295,C48H75O10P,332,C13-label-5,[M-H2O-H]-,PG(42:10)
+829.5120843,C48H75O10P,332,C13-label-6,[M-H2O-H]-,PG(42:10)
+830.5154391,C48H75O10P,332,C13-label-7,[M-H2O-H]-,PG(42:10)
+831.518794,C48H75O10P,332,C13-label-8,[M-H2O-H]-,PG(42:10)
+844.5498043,C48H82NO10P,333,C12 PARENT,[M-H2O-H]-,PS(42:6)
+845.5531591,C48H82NO10P,333,C13-label-1,[M-H2O-H]-,PS(42:6)
+846.556514,C48H82NO10P,333,C13-label-2,[M-H2O-H]-,PS(42:6)
+847.5598688,C48H82NO10P,333,C13-label-3,[M-H2O-H]-,PS(42:6)
+848.5632236,C48H82NO10P,333,C13-label-4,[M-H2O-H]-,PS(42:6)
+849.5665785,C48H82NO10P,333,C13-label-5,[M-H2O-H]-,PS(42:6)
+850.5699333,C48H82NO10P,333,C13-label-6,[M-H2O-H]-,PS(42:6)
+851.5732881,C48H82NO10P,333,C13-label-7,[M-H2O-H]-,PS(42:6)
+852.576643,C48H82NO10P,333,C13-label-8,[M-H2O-H]-,PS(42:6)
