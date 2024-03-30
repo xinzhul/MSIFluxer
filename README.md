@@ -53,4 +53,4 @@ Corrected <- natural_abundance_correction(path = "Result_Int_example.xlsx",sheet
 ```
 ## Bug report
 
-This software is still under active development and updates. If you have any questions or suggestions, please don’t hesitate to email me: Xinzhu Li (stxinzhu@outlook.com).
+This package is still under active development and updates. If you have any questions or suggestions, please don’t hesitate to email me: Xinzhu Li (stxinzhu@outlook.com).
