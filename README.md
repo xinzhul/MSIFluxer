@@ -21,8 +21,8 @@ MSIFluxer requires the average mass spectra from the regions of interest (ROI) i
 
 ## Quickstart
 We provide a template here. Users only need to change the thresholds for each step as needed.    
-Once the environmental configuration is set up, metabolite identification on the sample dataset is estimated to be completed in approximately one minute, with the results exported.
-
+Once the environmental configuration is set up, the identification of 13C-labeled metabolites on the sample dataset is estimated to be completed in approximately one minute, with the results exported.
+ 
 ```r
 library (MSIFluxer)
 # Input file (example file included)
