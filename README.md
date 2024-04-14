@@ -20,7 +20,7 @@ remotes::install_github("xinzhul/MSIFluxer")
 MSIFluxer requires the average mass spectra from the regions of interest (ROI) in labeled and unlabeled samples. In our experiment, this process was performed by the custom-developed software MassImager (in corporation with Chemmind Technologies Co., Ltd). The m/z value and corresponding signal intensity of ROI information is a .csv format table, with any missing values filled with zeros.
 
 ## Quickstart
-We provide a template here. Users only need to change the thresholds for each step as needed.
+We provide a template here. Users only need to change the thresholds for each step as needed.    
 Once the environmental configuration is set up, metabolite identification on the sample dataset is estimated to be completed in approximately one minute, with the results exported.
 
 ```r
